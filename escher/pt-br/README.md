@@ -248,22 +248,21 @@ function urlHandler(value) {
  <br><b>poliedros</b>: Octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, icosaedro hexakis de Möbius, octaedro, hexaedro octakis de Möbius, hexaedro tetrakis
  <br><br><br><br>
 <hr>
-<h4>27. Cobras</h4>
-<a href="../vr/Snakes1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="Cobras"></a>
+<h4>27. Serpentes</h4>
+<a href="../vr/Snakes1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="Serpentes"></a>
  <br><br><br>
  <br><b>descrição</b>: última impressão de Escher; obra de 1969
  <br><b>tipo de tesselação</b>: hexagonal
  <br><b>poliedros</b>: cuboctaedro cubitruncado, grande dodecahemicoaedro, grande dodecicosaedro, grande cuboctaedro truncado, grande icosidodecaedro truncado, dodecadodecaedro icositruncado, octahemioctaedro
  <br><br><br><br>
 <hr>
-<h4>28. Cobras</h4>
-<a href="../vr/Snakes2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Cobras"></a>
+<h4>28. Serpentes</h4>
+<a href="../vr/Snakes2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Serpentes"></a>
  <br><br><br>
  <br><b>descrição</b>: última impressão de Escher; obra de 1969
  <br><b>tipo de tesselação</b>: hexagonal
  <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosicosidodecaedro, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado
  <br><br><br><br>
-<hr>
 <hr>
 <h4>29. Limite do quadrado</h4>
 <a href="../vr/SquareLimit.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Limite do quadrado"></a>
@@ -339,7 +338,6 @@ function urlHandler(value) {
  <br><br><br><br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<hr>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Escher's works: polyhedra tessellation and visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/tessellation/escher/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
