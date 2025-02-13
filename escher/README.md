@@ -34,7 +34,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <br>This work shows the tessellations made on all or some faces of polyhedrons, taking advantage of triangular, square, pentagonal or hexagonal symmetries of the faces of these solids.
 <br>On this page, we have some tessellation works by Maurits Cornelis Escher (1898-1972) inserted into the faces of common polyhedrons, such as the Platonic tetrahedron, cube or icosahedron, as well as rarer polyhedrons, such as the Johnson solids.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
-  <hr>
+<hr>
  <p align="center"><img align="left" src="vr/salas/videos/escher1.gif" style="max-width: 45%; border-radius:5px; margin-right:5px" loading="lazy" alt="RV de tesselação"/><img align="right" src="vr/salas/videos/escher2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de tesselação"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
