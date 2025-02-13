@@ -313,7 +313,15 @@ function urlHandler(value) {
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br><br><br><br>
 <hr>
-<h4>35. Tesselação de flores</h4>
+<h4>35. Borboleta</h4>
+<a href="../vr/Butterflies.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="Desenhos de simetria"></a>
+ <br><br><br>
+ <br><b>descrição</b>: obra de 1932
+ <br><b>tipo de tesselação</b>: triangular
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis, tetraedro
+ <br><br><br><br>
+<hr>
+<h4>36. Tesselação de flores</h4>
 <a href="../vr/TessellationFlowers.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="tesselação de flores"></a>
  <br><br><br>
  <br><b>descrição</b>: livro de colorir publicado em 2021, baseado em tesselações de Escher
@@ -321,7 +329,7 @@ function urlHandler(value) {
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br><br><br><br>
 <hr>
-<h4>36. Tesselação de folhas</h4>
+<h4>37. Tesselação de folhas</h4>
 <a href="../vr/TessellationLeaves1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="tesselação de folhas"></a>
  <br><br><br>
  <br><b>descrição</b>: obra de Regolo Bizzi, baseada em tesselações de Escher
@@ -329,7 +337,7 @@ function urlHandler(value) {
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br><br><br><br>
 <hr>
-<h4>37. Tesselação de folhas</h4>
+<h4>38. Tesselação de folhas</h4>
 <a href="../vr/TessellationLeaves2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="tesselação de folhas"></a>
  <br><br><br>
  <br><b>descrição</b>: obra de Regolo Bizzi, baseada em tesselações de Escher

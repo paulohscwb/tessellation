@@ -314,7 +314,15 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br><br><br><br>
 <hr>
-<h4>35. Flower tessellation</h4>
+<h4>35. Butterfly</h4>
+<a href="vr/Butterflies.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Symmetry Drawing"></a>
+ <br><br><br>
+ <br><b>description</b>: work from 1932
+ <br><b>tessellation type</b>: triangular
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron, tetrahedron
+ <br><br><br><br>
+<hr>
+<h4>36. Flower tessellation</h4>
 <a href="vr/TessellationFlowers.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Flower tessellation"></a>
  <br><br><br>
  <br><b>description</b>: coloring book published in 2021, based on Escher tessellations
@@ -322,7 +330,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br><br><br><br>
 <hr>
-<h4>36. Leaves tessellation</h4>
+<h4>37. Leaves tessellation</h4>
 <a href="vr/TessellationLeaves1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Leaves tessellation"></a>
  <br><br><br>
  <br><b>description</b>: Regolo Bizzi work, based on Escher tessellations
@@ -330,7 +338,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br><br><br><br>
 <hr>
-<h4>37. Leaves tessellation</h4>
+<h4>38. Leaves tessellation</h4>
 <a href="vr/TessellationLeaves2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Leaves tessellation"></a>
  <br><br><br>
  <br><b>description</b>: Regolo Bizzi work, based on Escher tessellations
