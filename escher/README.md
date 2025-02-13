@@ -35,7 +35,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <br>On this page, we have some tessellation works by Maurits Cornelis Escher (1898-1972) inserted into the faces of common polyhedrons, such as the Platonic tetrahedron, cube or icosahedron, as well as rarer polyhedrons, such as the Johnson solids.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
- <p align="center"><img align="left" src="vr/salas/videos/escher1.gif" style="max-width: 45%; border-radius:5px; margin-right:5px" loading="lazy" alt="RV de tesselação"/><img align="right" src="vr/salas/videos/escher2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de tesselação"/></p> 
+ <p align="center"><img src="vr/salas/videos/escher1.gif" style="max-width: 45%; border-radius:5px; margin-right:5px" loading="lazy" alt="RV de tesselação"/><img src="vr/salas/videos/escher2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de tesselação"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
