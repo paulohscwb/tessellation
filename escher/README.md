@@ -45,7 +45,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: Escher painting 1922 of islamic mosaic tile at the Alhambra
  <br><b>tessellation type</b>: quadrilateral
  <br><b>polyhedra</b>: deltoidal hexecontahedron, rhombic triacontahedron, cube, rhombic dodecahedron, rhombic hexecontahedron, deltoidal icositetrahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>2. Alhambra tessellation</h4>
 <a href="vr/Alhambra1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Alhambra"></a>
@@ -53,7 +53,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: vector image based on Escher's work of Alhambra
  <br><b>tessellation type</b>: quadrilateral
  <br><b>polyhedra</b>: deltoidal hexecontahedron, rhombic triacontahedron, cube, rhombic dodecahedron, rhombic hexecontahedron, deltoidal icositetrahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>3. Alhambra tessellation</h4>
 <a href="vr/Alhambra2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Alhambra"></a>
@@ -61,7 +61,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: vector image based on Escher's work of Alhambra
  <br><b>tessellation type</b>: quadrilateral
  <br><b>polyhedra</b>: medial rhombic triacontahedron, small dodecacronic hexecontahedron, great ditrigonal dodecacronic hexecontahedron, medial deltoidal hexecontahedron, small icosacronic hexecontahedron, great rhombic triacontahedron 
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>4. Alhambra tessellation</h4>
 <a href="vr/Alhambra3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/4A.png" class="foto" alt="Alhambra"></a>
@@ -69,7 +69,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: vector image based on Escher's work of Alhambra
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, stella octangula, Escher solid, hexakis tetrahedron, octahedron, Möbius octakis hexahedron, pentagonal dipyramid
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>5. Alhambra tessellation</h4>
 <a href="vr/Alhambra4.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Alhambra"></a>
@@ -77,7 +77,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: vector image based on Escher's work of Alhambra
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: tetrahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, Möbius deltahedron, tetrakis hexahedron, snub disphenoid
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>6. Tessellation with 4 transformations</h4>
 <a href="vr/AnimalesMariposas1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Tessellation with 4 transformations"></a>
@@ -85,7 +85,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: features butterflies, birds, and moths; work from 1950
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: icosahedron, pentagonal dipyramid, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, cube, deltoidal hexecontahedron, deltoidal icositetrahedron, rhombic dodecahedron, rhombic hexecontahedron, pentakis dodecahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>7. Tessellation with 4 transformations</h4>
 <a href="vr/AnimalesMariposas2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Tessellation with 4 transformations"></a>
@@ -93,7 +93,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: features butterflies, birds, and moths; work from 1950
  <br><b>tessellation type</b>: quadrilateral
  <br><b>polyhedra</b>: cube, deltoidal hexecontahedron, deltoidal icositetrahedron, rhombic dodecahedron, rhombic triacontahedron, rhombic hexecontahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>8. Tessellation with 4 transformations</h4>
 <a href="vr/AnimalesMariposas3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Tessellation with 4 transformations"></a>
@@ -101,7 +101,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: features butterflies, birds, and moths; work from 1950 
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, rhombic dodecahedron, rhombic triacontahedron, Möbius hexakis octahedron, Möbius 10-akis dodecahedron, octahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>9. Tessellation with 4 transformations</h4>
 <a href="vr/AnimalesMariposas4.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Tessellation with 4 transformations"></a>
@@ -109,7 +109,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: features butterflies, birds, and moths; work from 1950 
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: Möbius deltahedron, stella octangula, tetrahedron, rhombic dodecahedron, rhombic triacontahedron, cube, rhombic hexecontahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>10. Circle limit I</h4>
 <a href="vr/CircleLimit1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Circle limit I"></a>
@@ -117,7 +117,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: based on the Poincaré disc model of hyperbolic geometry; work from 1958 
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: icosahedron, great icosahedron, Escher solid, hexakis tetrahedron, snub disphenoid, Möbius deltahedron, octahedron, Möbius hexakis octahedron, pentakis dodecahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>11. Circle limit I</h4>
@@ -126,7 +126,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: based on the Poincaré disc model of hyperbolic geometry; work from 1958 
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis icosahedron, pentagonal dipyramid, Möbius octakis hexahedron, Möbius 10-akis dodecahedron, stella octangula, tetrahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>12. Development III</h4>
 <a href="vr/Development.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Development III"></a>
@@ -134,7 +134,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: abstract art with a spiral design; work from 1939 
  <br><b>tessellation type</b>: quadrilateral
  <br><b>polyhedra</b>: deltoidal hexecontahedron, rhombic triacontahedron, cube, rhombic dodecahedron, rhombic hexecontahedron, deltoidal icositetrahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>13. Earth</h4>
 <a href="vr/Earth.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Earth"></a>
@@ -142,7 +142,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: new year's greeting card (ants); work from 1952
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: deltoidal hexecontahedron, rhombic triacontahedron, cube, rhombic dodecahedron, rhombic hexecontahedron, deltoidal icositetrahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>14. Symmetry watercolor: fish</h4>
 <a href="vr/Fish.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Symmetry watercolor fish"></a>
@@ -150,7 +150,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1942
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: stella octangula, tetrahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>15. Fish, duck, turtle</h4>
 <a href="vr/FishDuckTurtle1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Fish, duck, turtle"></a>
@@ -158,7 +158,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1948
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, deltoidal hexecontahedron, Escher solid, hexakis tetrahedron, octahedron, Möbius octakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>16. Fish, duck, turtle</h4>
 <a href="vr/FishDuckTurtle2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Fish, duck, turtle"></a>
@@ -166,7 +166,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1948
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, Möbius deltahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>17. Fish, duck, turtle</h4>
 <a href="vr/FishDuckTurtle3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Fish, duck, turtle"></a>
@@ -174,7 +174,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: Pol de Miguel's adaptation of Escher's work; work from 2019
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>18. Heaven and hell</h4>
 <a href="vr/HeavenAndHell.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Heaven and hell"></a>
@@ -182,7 +182,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1962
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>19. Lizard, fish, bat</h4>
 <a href="vr/LizardFishBat1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Lizard, fish, bat"></a>
@@ -190,7 +190,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1952
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, deltoidal hexecontahedron, Escher solid, hexakis tetrahedron, octahedron, Möbius octakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>20. Lizard, fish, bat</h4>
 <a href="vr/LizardFishBat2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Lizard, fish, bat"></a>
@@ -198,7 +198,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1952
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, Möbius deltahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>21. Path of life II</h4>
@@ -207,7 +207,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1958
  <br><b>tessellation type</b>: quadrilateral
  <br><b>polyhedra</b>: deltoidal hexecontahedron, rhombic triacontahedron, cube, rhombic dodecahedron, rhombic hexecontahedron, deltoidal icositetrahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>22. Shells and starfish</h4>
 <a href="vr/Shell1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Shells and starfish"></a>
@@ -215,7 +215,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1963
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, stella octangula, Escher solid, hexakis tetrahedron, octahedron, Möbius octakis hexahedron, pentagonal dipyramid, pentakis dodecahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>23. Shells and starfish</h4>
 <a href="vr/Shell2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Shells and starfish"></a>
@@ -223,7 +223,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1963
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: tetrahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, Möbius deltahedron, tetrakis hexahedron, snub disphenoid
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>24. Shells and starfish</h4>
 <a href="vr/ShellAndStarfish.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Shells and starfish"></a>
@@ -231,7 +231,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1963
  <br><b>tessellation type</b>: triangular and pentagonal
  <br><b>polyhedra</b>: pentagonal icositetrahedron, tetartoid, pentagonal hexecontahedron, dodecahedron, augmented dodecahedron, metabiaugmented dodecahedron, parabiaugmented dodecahedron, triaugmented dodecahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>25. Symmetry (lizards)</h4>
 <a href="vr/SmilingLizards1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto" alt="Symmetry (lizards)"></a>
@@ -239,7 +239,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1965
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: rhombic hexecontahedron, Escher solid, deltoidal hexecontahedron, hexakis tetrahedron, rhombic dodecahedron, Möbius deltahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>26. Symmetry (lizards)</h4>
 <a href="vr/SmilingLizards1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Symmetry (lizards)"></a>
@@ -247,7 +247,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1965
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Möbius hexakis icosahedron, octahedron, Möbius octakis hexahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>27. Snakes</h4>
 <a href="vr/Snakes1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/27A.png" class="foto" alt="Snakes"></a>
@@ -255,7 +255,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: Escher's last impression; work from 1969
  <br><b>tessellation type</b>: hexagonal
  <br><b>polyhedra</b>: cubitruncated cuboctahedron, great dodecahemicosahedron, great dodecicosahedron, great truncated cuboctahedron, great truncated icosidodecahedron, icositruncated dodecadodecahedron, octahemioctahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>28. Snakes</h4>
 <a href="vr/Snakes2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/28A.png" class="foto" alt="Snakes"></a>
@@ -263,7 +263,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: Escher's last impression; work from 1969
  <br><b>tessellation type</b>: hexagonal
  <br><b>polyhedra</b>: rhombicosahedron, small dodecicosahedron, small hexagonal hexecontahedron, small icosicosidodecahedron, small triambic icosahedron, great truncated icosahedron, truncated icosahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>29. Square Limit</h4>
 <a href="vr/SquareLimit.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto" alt="Square Limit"></a>
@@ -271,7 +271,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1964
  <br><b>tessellation type</b>: quadrilateral
  <br><b>polyhedra</b>: deltoidal hexecontahedron, rhombic triacontahedron, cube, rhombic dodecahedron, rhombic hexecontahedron, deltoidal icositetrahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <hr>
 <h4>30. Sun and moon</h4>
@@ -280,7 +280,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1948
  <br><b>tessellation type</b>: quadrilateral
  <br><b>polyhedra</b>: deltoidal hexecontahedron, rhombic triacontahedron, cube, rhombic dodecahedron, rhombic hexecontahedron, deltoidal icositetrahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <hr>
@@ -290,7 +290,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1955
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, deltoidal hexecontahedron, hexakis tetrahedron, rhombic dodecahedron, Möbius deltahedron, Möbius octakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>32. Symmetry and tessellation: fish</h4>
 <a href="vr/SymmetryAndTessellation2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/32A.png" class="foto" alt="Symmetry and tessellation: fish"></a>
@@ -298,7 +298,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1955
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: rhombic hexecontahedron, rhombic triacontahedron, Escher solid, Möbius hexakis icosahedron, octahedron, deltoidal icositetrahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>33. Tessellation</h4>
 <a href="vr/Tessellation1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/33A.png" class="foto" alt="Tessellation"></a>
@@ -306,7 +306,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1959
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>34. Symmetry Drawing</h4>
 <a href="vr/SymmetryDrawing.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Symmetry Drawing"></a>
@@ -314,7 +314,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: work from 1955
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>35. Flower tessellation</h4>
 <a href="vr/TessellationFlowers.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Flower tessellation"></a>
@@ -322,7 +322,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: coloring book published in 2021, based on Escher tessellations
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>36. Leaves tessellation</h4>
 <a href="vr/TessellationLeaves1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Leaves tessellation"></a>
@@ -330,7 +330,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: Regolo Bizzi work, based on Escher tessellations
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <h4>36. Leaves tessellation</h4>
 <a href="vr/TessellationLeaves2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Leaves tessellation"></a>
@@ -338,7 +338,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>description</b>: Regolo Bizzi work, based on Escher tessellations
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
- <br><br><br>
+ <br><br><br><br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <hr>

@@ -8,6 +8,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 	<script src="nomes.js"></script>
 	<link rel="stylesheet" href="nomes.css">
+ 	<script src="https://fernandojsg.github.io/aframe-teleport-controls/dist/aframe-teleport-controls.min.js"></script>
   </head>
   <body>
   <div class="box" style="visibility: hidden;">
@@ -502,7 +503,11 @@
 			<a-sphere mixin="esfera7" position="0.707107 0.0 0.707107"></a-sphere>
 		</a-entity>
 
-		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 -425 425; maxDistance: 1500;"></a-entity>
+		<a-box mixin="piso" class="piso" visible="false" position="0 -0.05 0"></a-box>
+		<a-entity id="cameraRig">
+			<a-entity camera="fov:1; near:1;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 -425 425; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
+		</a-entity>
 	  
 		<a-light type="ambient" color="white" intensity="0.54"></a-light>
 		<a-light type="directional" color="white" intensity="0.53" position="-3 2 1"></a-light>
