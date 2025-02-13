@@ -34,7 +34,7 @@ function urlHandler(value) {
 <br>Nesta página, temos algumas obras de tesselações de Maurits Cornelis Escher (1898-1972) inseridas nas faces de poliedros comuns, como os platônicos tetraedro, cubo ou icosaedro, além de poliedros mais raros, como os sólidos de Johnson.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
-  <p align="center"><img src="../vr/salas/videos/escher1.gif" style="max-width: 45%; border-radius:5px; margin-right:5px" loading="lazy" alt="VR immersive solid"/><img src="../vr/salas/videos/escher2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive solid"/></p> 
+  <p align="center"><img src="../vr/salas/videos/escher1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive solid"/><img src="../vr/salas/videos/escher2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive solid"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
