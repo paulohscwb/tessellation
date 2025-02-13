@@ -28,7 +28,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Torus and Toroids</h2>
+  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Escher's works</h2>
 The figures or works that are chosen as tesserae cover or pave the plane or a surface. The result is called tessellation, tiling, paving or mosaic. 
 Tessellations have been used since ancient times in floors, walls, carpets and other objects.
 <br>This work shows the tessellations made on all or some faces of polyhedrons, taking advantage of triangular, square, pentagonal or hexagonal symmetries of the faces of these solids.

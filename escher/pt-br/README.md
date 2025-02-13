@@ -28,7 +28,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Toros e Toroides</h2>
+  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Obras de Escher</h2>
   As figuras ou obras que são escolhidas como tesselas cobrem ou pavimentam o plano ou uma superfície. O resultado é chamado de tesselação, ladrilho, pavimentação ou mosaico. As tesselações são usadas desde a antiguidade em pisos, paredes tapetes e outros objetos. 
 <br>Este trabalho mostra as tesselações feitas em todas ou algumas faces de poliedros, aproveitando simetrias triangulares, quadradas, pentagonais ou hexagonais das faces destes sólidos. 
 <br>Nesta página, temos algumas obras de tesselações de Maurits Cornelis Escher (1898-1972) inseridas nas faces de poliedros comuns, como os platônicos tetraedro, cubo ou icosaedro, além de poliedros mais raros, como os sólidos de Johnson.
