@@ -315,7 +315,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><br><br><br>
 <hr>
 <h4>35. Butterfly</h4>
-<a href="vr/Butterflies.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Symmetry Drawing"></a>
+<a href="vr/Butterflies.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="Symmetry Drawing"></a>
  <br><br><br>
  <br><b>description</b>: work from 1932
  <br><b>tessellation type</b>: triangular
