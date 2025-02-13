@@ -21,9 +21,9 @@ This work shows the tessellations applied to the faces of polyhedra, with views 
 <h3 style="margin-top:3px"><a target="_blank" href="tessellation10/pt-br/"><img src="tessellation10/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 10</a></h3>-->
 <hr>
 <h3 align="center">Virtual Reality</h3>
-<p align="center"><img src="escher/vr/salas/videos/escher1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="escher/vr/salas/videos/escher1.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
+<p align="center"><img src="escher/vr/salas/videos/escher1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="escher/vr/salas/videos/escher2.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
 <h3 align="center">3D models</h3>
-<p align="center"><img src="basic/ar/example.png" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
+<p align="center"><img src="escher/ar/example.png" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
 <br>The orbit scripts were developed by <b>Kevin Ngo</b> were used in the Virtual Reality pages of the 3D models: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.
 <br>The teleport scripts were developed by <b>Fernando Serrano</b>: <a  href="https://aframe.io/blog/teleport-component/" target="_blank"> Developing an A-Frame Teleport Component</a>

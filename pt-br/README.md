@@ -21,7 +21,7 @@ Este trabalho mostra as tesselações aplicadas nas faces de poliedros, com as v
 <h3 style="margin-top:3px"><a target="_blank" href="../tessellation10/pt-br/"><img src="../tessellation10/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 10</a></h3>-->
 <hr>
 <h3 align="center">Realidade Virtual</h3>
-<p align="center"><img src="../escher/vr/salas/videos/escher1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../escher/vr/salas/videos/escher1.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
+<p align="center"><img src="../escher/vr/salas/videos/escher1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../escher/vr/salas/videos/escher2.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
 <h3 align="center">Modelos 3D</h3>
 <p align="center"><img src="../escher/ar/example.png" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
