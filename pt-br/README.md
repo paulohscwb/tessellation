@@ -1,0 +1,40 @@
+<link rel="stylesheet" href="../scripts/style.css">
+<meta charset="utf-8">
+<link rel="icon" type="image/png" href="../escher/vr/salas/imagens/icone.png">
+<h2>Visualização de Tesselações em Poliedros com Realidade Virtual (RV) em A-frame</h2>
+<b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
+<br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
+<br><a href="https://paulohscwb.github.io/tessellation/">english version</a>
+<br><br>A Tesselação, também chamada de mosaico ou recobrimento do plano, é uma forma de cobrir um plano ou superfície com um padrão de figuras. As figuras não podem ser sobrepostas e não podem existir espaços vazios entre elas. 
+Este trabalho mostra as tesselações aplicadas nas faces de poliedros, com as visualizações que podem ser acessadas com os recursos de Realidade Virtual.
+<hr>
+<h3 style="margin-top:3px"><a target="_blank" href="../escher/pt-br/"><img src="../escher/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Obras de Escher</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="../tessellation1/pt-br/"><img src="../tessellation1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 1</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../tessellation2/pt-br/"><img src="../tessellation2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 2</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../tessellation3/pt-br/"><img src="../tessellation3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 3</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../tessellation4/pt-br/"><img src="../tessellation4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 4</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../tessellation5/pt-br/"><img src="../tessellation5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 5</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../tessellation6/pt-br/"><img src="../tessellation6/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 6</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../tessellation7/pt-br/"><img src="../tessellation7/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 7</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../tessellation8/pt-br/"><img src="../tessellation8/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 8</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../tessellation9/pt-br/"><img src="../tessellation9/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 9</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../tessellation10/pt-br/"><img src="../tessellation10/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 10</a></h3>-->
+<hr>
+<h3 align="center">Realidade Virtual</h3>
+<p align="center"><img src="../escher/vr/salas/videos/escher1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../escher/vr/salas/videos/escher1.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
+<h3 align="center">Modelos 3D</h3>
+<p align="center"><img src="../escher/ar/example.png" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
+<hr>
+<br>Os scripts de órbita foram desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de Realidade Virtual dos modelos 3D: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.
+<br>Os scripts de teleporte foram desenvolvidos por <b>Fernando Serrano</b>: <a  href="https://aframe.io/blog/teleport-component/" target="_blank"> Developing an A-Frame Teleport Component</a>
+<br>
+
+<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra tessellation: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/tessellation/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
+
+<h4>Como citar este trabalho:</h4> 
+<p>Siqueira, P.H., "Polyhedra tessellation: visualization with Virtual Reality". Disponível em: <https://paulohscwb.github.io/tessellation/>, Fevereiro de 2025.</p>
+<!--<a target="_blank" href="https://doi.org/10.5281/zenodo.14502405"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14502405.svg" alt="DOI"></a>-->
+<br><b>Referências:</b>
+<br>Weisstein, Eric W. "Tessellation." From MathWorld--A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/Tessellation.html" target="_blank"> https://mathworld.wolfram.com/Tessellation.html</a>
+<br>Mohr, R. "Tiled Art" <a href="https://tiled.art/en/home" target="_blank">https://tiled.art/en/home</a> 
+<br>McCooey, D. I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>
