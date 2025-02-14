@@ -334,7 +334,7 @@ function urlHandler(value) {
  <br><br><br>
  <br><b>descrição</b>: obra de 1959, adaptada para o quadrado por Chamberlain (2016)
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
- <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, triacontaedro rômbico, dipirâmide pentagonal, hexecontaedro deltoidal medial, rombicuboctaedro
+ <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, triacontaedro rômbico, dipirâmide pentagonal, hexecontaedro deltoidal medial
  <br><br><br><br>
 <hr>
 <h4>38. Limite do círculo II</h4>

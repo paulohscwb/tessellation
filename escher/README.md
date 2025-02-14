@@ -335,7 +335,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><br><br>
  <br><b>description</b>: work from 1959, adapted to square by Chamberlain (2016)
  <br><b>tessellation type</b>: triangular and quadrilateral
- <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron, rhombic triacontahedron, pentagonal dipyramid, medial deltoidal hexecontahedron, rhombicuboctahedron
+ <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron, rhombic triacontahedron, pentagonal dipyramid, medial deltoidal hexecontahedron
  <br><br><br><br>
 <hr>
 <h4>38. Circle limit II</h4>
