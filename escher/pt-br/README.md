@@ -59,7 +59,7 @@ function urlHandler(value) {
  <br><br><br>
  <br><b>descrição</b>: imagem vetorial baseada na obra de Escher de Alhambra
  <br><b>tipo de tesselação</b>: quadrilateral
- <br><b>poliedros</b>: triacontaedro rômbico medial, hexecontaedro dodecacrônico pequeno, hexecontaedro dodecacrônico grande ditrigonal, hexecontaedro deltoidal medial, hexecontaedro icosacrônico pequeno, grande triacontaedro rômbico
+ <br><b>poliedros</b>: triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, hexecontaedro deltoidal medial, pequeno hexecontaedro icosacrônico, grande triacontaedro rômbico
  <br><br><br><br>
 <hr>
 <h4>4. Tesselação de Alhambra</h4>
@@ -67,7 +67,7 @@ function urlHandler(value) {
  <br><br><br>
  <br><b>descrição</b>: imagem vetorial baseada na obra de Escher de Alhambra
  <br><b>tipo de tesselação</b>: triangular
- <br><b>poliedros</b>: octaedro hexakis de Möbius, octaedro estrelado, sólido de Escher, tetraedro hexakis, octaedro, hexaedro octaédrico de Möbius, dipirâmide pentagonal
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, octaedro estrelado, sólido de Escher, tetraedro hexakis, octaedro, hexaedro octakis de Möbius, dipirâmide pentagonal
  <br><br><br><br>
 <hr>
 <h4>5. Tesselação de Alhambra</h4>
@@ -75,7 +75,7 @@ function urlHandler(value) {
  <br><br><br>
  <br><b>descrição</b>: imagem vetorial baseada na obra de Escher de Alhambra
  <br><b>tipo de tesselação</b>: triangular
- <br><b>poliedros</b>: tetraedro, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, deltaedro de Möbius, hexaedro tetrakis, disfenóide snub
+ <br><b>poliedros</b>: tetraedro, dodecaedro 10-akis de Möbius, icosaedro, icosaedro hexakis de Möbius, deltaedro de Möbius, hexaedro tetrakis, disfenóide snub
  <br><br><br><br>
 <hr>
 <h4>6. Tesselação com 4 transformações</h4>
@@ -99,7 +99,7 @@ function urlHandler(value) {
  <br><br><br>
  <br><b>descrição</b>: apresenta borboletas, pássaros e mariposas; obra de 1950
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
- <br><b>poliedros</b>: hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, dodecaedro rômbico, triacontaedro rômbico, octaedro hexakis de Möbius, dodecaedro de 10-akis de Möbius, octaedro, hexaedro tetrakis
+ <br><b>poliedros</b>: hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, dodecaedro rômbico, triacontaedro rômbico, octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, octaedro, hexaedro tetrakis
  <br><br><br><br>
 <hr>
 <h4>9. Tesselação com 4 transformações</h4>
@@ -124,7 +124,7 @@ function urlHandler(value) {
  <br><br><br>
  <br><b>descrição</b>: baseada no modelo de disco de Poincaré da geometria hiperbólica; obra de 1958
  <br><b>tipo de tesselação</b>: triangular
- <br><b>poliedros</b>: icosaedro hexakis de Möbius, dipirâmide pentagonal, hexaedro octakis de Möbius, dodecaedro 10-akis de Möbius, octaedro estrelado, tetraedro, hexaedro tetraédrico
+ <br><b>poliedros</b>: icosaedro hexakis de Möbius, dipirâmide pentagonal, hexaedro octakis de Möbius, dodecaedro 10-akis de Möbius, octaedro estrelado, tetraedro, hexaedro tetrakis
  <br><br><br><br>
 <hr>
 <h4>12. Desenvolvimento III</h4>
@@ -221,7 +221,7 @@ function urlHandler(value) {
  <br><br><br>
  <br><b>descrição</b>: obra de 1963
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
- <br><b>poliedros</b>: tetraedro, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, deltaedro de Möbius, hexaedro tetrakis, disfenóide snub
+ <br><b>poliedros</b>: tetraedro, dodecaedro 10-akis de Möbius, icosaedro, icosaedro hexakis de Möbius, deltaedro de Möbius, hexaedro tetrakis, disfenóide snub
  <br><br><br><br>
 <hr>
 <h4>24. Conchas e estrelas do mar</h4>
@@ -317,11 +317,35 @@ function urlHandler(value) {
 <a href="../vr/Butterflies.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="Desenhos de simetria"></a>
  <br><br><br>
  <br><b>descrição</b>: obra de 1932
- <br><b>tipo de tesselação</b>: triangular
+ <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis, tetraedro
  <br><br><br><br>
 <hr>
-<h4>36. Tesselação de flores</h4>
+<h4>36. Limite do círculo II</h4>
+<a href="../vr/CircleLimit3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Limite do círculo II"></a>
+ <br><br><br>
+ <br><b>descrição</b>: obra de 1959, adaptada para o quadrado por Chamberlain (2016)
+ <br><b>tipo de tesselação</b>: triangular e quadrilateral
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal, dodecadodecaedro truncado, grande icosidodecaedro truncado
+ <br><br><br><br>
+<hr>
+<h4>37. Limite do círculo II</h4>
+<a href="../vr/CircleLimit4.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Limite do círculo II"></a>
+ <br><br><br>
+ <br><b>descrição</b>: obra de 1959, adaptada para o quadrado por Chamberlain (2016)
+ <br><b>tipo de tesselação</b>: triangular e quadrilateral
+ <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, triacontaedro rômbico, dipirâmide pentagonal, hexecontaedro deltoidal medial, rombicuboctaedro
+ <br><br><br><br>
+<hr>
+<h4>38. Limite do círculo II</h4>
+<a href="../vr/CircleLimit5.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Limite do círculo II"></a>
+ <br><br><br>
+ <br><b>descrição</b>: obra de 1959, adaptada para o quadrado por Chamberlain (2016)
+ <br><b>tipo de tesselação</b>: triangular e quadrilateral
+ <br><b>poliedros</b>: grande dirombicosidodecaedro, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande icositetraedro hexacrônico, hexecontaedro icosacrônico medial, rombidodecadodecaedro, octaedro estrelado, pequeno hexecontaedro icosacrônico, grande triacontaedro rômbico, grande rombihexaedro, grande rombidodecaedro
+ <br><br><br><br>
+<hr>
+<h4>39. Tesselação de flores</h4>
 <a href="../vr/TessellationFlowers.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="tesselação de flores"></a>
  <br><br><br>
  <br><b>descrição</b>: livro de colorir publicado em 2021, baseado em tesselações de Escher
@@ -329,7 +353,7 @@ function urlHandler(value) {
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br><br><br><br>
 <hr>
-<h4>37. Tesselação de folhas</h4>
+<h4>40. Tesselação de folhas</h4>
 <a href="../vr/TessellationLeaves1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="tesselação de folhas"></a>
  <br><br><br>
  <br><b>descrição</b>: obra de Regolo Bizzi, baseada em tesselações de Escher
@@ -337,7 +361,7 @@ function urlHandler(value) {
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br><br><br><br>
 <hr>
-<h4>38. Tesselação de folhas</h4>
+<h4>41. Tesselação de folhas</h4>
 <a href="../vr/TessellationLeaves2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="tesselação de folhas"></a>
  <br><br><br>
  <br><b>descrição</b>: obra de Regolo Bizzi, baseada em tesselações de Escher
