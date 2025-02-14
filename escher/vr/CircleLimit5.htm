@@ -8,6 +8,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 	<script src="nomes.js"></script>
 	<link rel="stylesheet" href="nomes.css">
+ 	<script src="https://fernandojsg.github.io/aframe-teleport-controls/dist/aframe-teleport-controls.min.js"></script>
   </head>
   <body>
   <div class="box" style="visibility: hidden;">
@@ -314,7 +315,7 @@
 			<a-sphere mixin='esfera2' position='0.190983 0.0 1.309017'></a-sphere>
 		</a-entity>
 		
-		<a-entity scale="9.15 9.15 9.15" rotation="-35 0 -45" id="nivel6" visible="false">
+		<a-entity scale="9.15 9.15 9.15" id="nivel6" visible="false">
 			<a-gltf-model src="gltf/0StellaOctangula.gltf" scale="0.9985 0.9985 0.9985"></a-gltf-model>
 			<a-obj-model mixin="ar" src="https://paulohscwb.github.io/polyhedra/nonconvex/vr/outros/StellaOctangulaL.obj" mtl="#materialw"></a-obj-model>
 			<a-sphere mixin='esfera3' position='0.0 0.0 -0.35355'></a-sphere>
@@ -521,7 +522,11 @@
 			<a-sphere mixin='esfera01' position='-0.5 -0.5 0.118034'></a-sphere>
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 -425 425; maxDistance: 1500;"></a-entity>
+		<a-box mixin="piso" class="piso" visible="false" position="0 -0.05 0"></a-box>
+		<a-entity id="cameraRig">
+			<a-entity camera="fov:1; near:1;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 -425 425; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
+		</a-entity>
 	  
 		<a-light type="ambient" color="white" intensity="0.82"></a-light>
 		<a-light type="directional" color="white" intensity="0.69" position="-3 2 1"></a-light>

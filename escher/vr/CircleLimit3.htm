@@ -8,6 +8,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 	<script src="nomes.js"></script>
 	<link rel="stylesheet" href="nomes.css">
+ 	<script src="https://fernandojsg.github.io/aframe-teleport-controls/dist/aframe-teleport-controls.min.js"></script>
   </head>
   <body>
   <div class="box" style="visibility: hidden;">
@@ -95,7 +96,7 @@
 			<a-sphere mixin="esfera3" position="0.0  0.0  1.0"></a-sphere>
 		</a-entity>
 			
-		<a-entity scale="0.9 0.9 0.9" rotation="-35 0 45" id="nivel2" visible="false">
+		<a-entity scale="0.9 0.9 0.9" id="nivel2" visible="false">
 			<a-gltf-model src="gltf/0HexakisTetrahedron.gltf" scale="0.9985 0.9985 0.9985"></a-gltf-model>
 			<a-obj-model mixin="ar" src="https://paulohscwb.github.io/polyhedra/polyhedron/vr/outros/HexakisTetrahedron_na1L.obj" mtl="#materialw"></a-obj-model>
 			<a-sphere mixin='esfera4' position='-3.676119 3.673004 -3.676119'></a-sphere>
@@ -114,7 +115,7 @@
 			<a-sphere mixin='esfera4' position='-2.751975 -2.750509 -2.751975'></a-sphere>
 		</a-entity>
 		
-		<a-entity scale="5.42 5.42 5.42" rotation="-35 0 45" id="nivel3" visible="false">
+		<a-entity scale="5.42 5.42 5.42" id="nivel3" visible="false">
 			<a-gltf-model src="gltf/0Mobius24.gltf" scale="0.9985 0.9985 0.9985"></a-gltf-model>
 			<a-obj-model mixin="ar" src="https://paulohscwb.github.io/polyhedra/nonconvex/vr/outros/Mobius241L.obj" mtl="#materialw"></a-obj-model>
 			<a-sphere mixin='esfera7' position='0.608380 0.608380 0.608380'></a-sphere>
@@ -574,7 +575,11 @@
 			<a-sphere mixin='esfera02' position='0.5 0.5 -0.736068'></a-sphere>
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 -425 425; maxDistance: 1500;"></a-entity>
+		<a-box mixin="piso" class="piso" visible="false" position="0 -0.05 0"></a-box>
+		<a-entity id="cameraRig">
+			<a-entity camera="fov:1; near:1;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 -425 425; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
+		</a-entity>
 	  
 		<a-light type="ambient" color="white" intensity="0.82"></a-light>
 		<a-light type="directional" color="white" intensity="0.69" position="-3 2 1"></a-light>
