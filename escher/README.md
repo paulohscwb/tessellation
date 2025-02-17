@@ -146,11 +146,11 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <hr>
 <h4>14. Symmetry watercolor: fish</h4>
 <a href="vr/Fish.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Symmetry watercolor fish"></a>
- <br><br><br>
+ <br><br><br><br>
  <br><b>description</b>: work from 1942
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: stella octangula, tetrahedron
- <br><br><br><br>
+ <br><br><br><br><br>
 <hr>
 <h4>15. Fish, duck, turtle</h4>
 <a href="vr/FishDuckTurtle1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Fish, duck, turtle"></a>
