@@ -346,7 +346,7 @@ function urlHandler(value) {
  <br><br><br>
 <hr>
 <h4>39. Caminho da vida I</h4>
-<a href="../vr/Pathoflife2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="Caminho da vida I"></a>
+<a href="../vr/PathOfLife2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="Caminho da vida I"></a>
  <br><br><br>
  <br><b>descrição</b>: obra de 1958
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
@@ -354,7 +354,7 @@ function urlHandler(value) {
  <br><br><br>
 <hr>
 <h4>40. Caminho da vida I</h4>
-<a href="../vr/Pathoflife3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/43A.png" class="foto" alt="Caminho da vida I"></a>
+<a href="../vr/PathOfLife3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/43A.png" class="foto" alt="Caminho da vida I"></a>
  <br><br><br>
  <br><b>descrição</b>: obra de 1958
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
@@ -363,7 +363,7 @@ function urlHandler(value) {
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>41. Caminho da vida I</h4>
-<a href="../vr/Pathoflife4.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto" alt="Caminho da vida I"></a>
+<a href="../vr/PathOfLife4.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto" alt="Caminho da vida I"></a>
  <br><br><br>
  <br><b>descrição</b>: obra de 1958
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
@@ -371,7 +371,7 @@ function urlHandler(value) {
  <br><br><br>
 <hr>
 <h4>42. Caminho da vida III</h4>
-<a href="../vr/Pathoflife5.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto" alt="Caminho da vida III"></a>
+<a href="../vr/PathOfLife5.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto" alt="Caminho da vida III"></a>
  <br><br><br>
  <br><b>descrição</b>: obra de 1966
  <br><b>tipo de tesselação</b>: hexagonal
@@ -379,7 +379,7 @@ function urlHandler(value) {
  <br><br><br><br>
 <hr>
 <h4>43. Caminho da vida III</h4>
-<a href="../vr/Pathoflife6.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto" alt="Caminho da vida III"></a>
+<a href="../vr/PathOfLife6.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto" alt="Caminho da vida III"></a>
  <br><br><br>
  <br><b>descrição</b>: obra de 1966
  <br><b>tipo de tesselação</b>: hexagonal

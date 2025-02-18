@@ -347,7 +347,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><br><br><br>
 <hr>
 <h4>39. Path of life I</h4>
-<a href="vr/Pathoflife2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/42A.png" class="foto" alt="Path of life I"></a>
+<a href="vr/PathOfLife2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/42A.png" class="foto" alt="Path of life I"></a>
  <br><br><br>
  <br><b>description</b>: work from 1958
  <br><b>tessellation type</b>: triangular and quadrilateral
@@ -355,7 +355,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><br><br><br>
 <hr>
 <h4>40. Path of life I</h4>
-<a href="vr/Pathoflife3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/43A.png" class="foto" alt="Path of life I"></a>
+<a href="vr/PathOfLife3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/43A.png" class="foto" alt="Path of life I"></a>
  <br><br><br>
  <br><b>description</b>: work from 1958
  <br><b>tessellation type</b>: triangular and quadrilateral
@@ -363,7 +363,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><br><br><br>
 <hr>
 <h4>41. Path of life I</h4>
-<a href="vr/Pathoflife4.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/44A.png" class="foto" alt="Path of life I"></a>
+<a href="vr/PathOfLife4.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/44A.png" class="foto" alt="Path of life I"></a>
  <br><br><br>
  <br><b>description</b>: work from 1958
  <br><b>tessellation type</b>: triangular and quadrilateral
@@ -371,7 +371,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><br><br><br>
 <hr>
 <h4>42. Path of life III</h4>
-<a href="vr/Pathoflife5.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/45A.png" class="foto" alt="Path of life III"></a>
+<a href="vr/PathOfLife5.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/45A.png" class="foto" alt="Path of life III"></a>
  <br><br><br>
  <br><b>description</b>: work from 1966
  <br><b>tessellation type</b>: hexagonal
@@ -379,7 +379,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><br><br><br>
 <hr>
 <h4>43. Path of life III</h4>
-<a href="vr/Pathoflife46.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/46A.png" class="foto" alt="Path of life III"></a>
+<a href="vr/PathOfLife6.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/46A.png" class="foto" alt="Path of life III"></a>
  <br><br><br>
  <br><b>description</b>: work from 1966
  <br><b>tessellation type</b>: hexagonal
