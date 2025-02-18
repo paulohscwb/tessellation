@@ -345,7 +345,48 @@ function urlHandler(value) {
  <br><b>poliedros</b>: grande dirombicosidodecaedro, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande icositetraedro hexacrônico, hexecontaedro icosacrônico medial, rombidodecadodecaedro, octaedro estrelado, pequeno hexecontaedro icosacrônico, grande triacontaedro rômbico, grande rombihexaedro, grande rombidodecaedro
  <br><br><br>
 <hr>
-<h4>39. Tesselação de flores</h4>
+<h4>39. Caminho da vida I</h4>
+<a href="../vr/Pathoflife2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="Caminho da vida I"></a>
+ <br><br><br>
+ <br><b>descrição</b>: obra de 1958
+ <br><b>tipo de tesselação</b>: triangular e quadrilateral
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal, dodecadodecaedro truncado, grande icosidodecaedro truncado
+ <br><br><br>
+<hr>
+<h4>40. Caminho da vida I</h4>
+<a href="../vr/Pathoflife3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/43A.png" class="foto" alt="Caminho da vida I"></a>
+ <br><br><br>
+ <br><b>descrição</b>: obra de 1958
+ <br><b>tipo de tesselação</b>: triangular e quadrilateral
+ <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, triacontaedro rômbico, dipirâmide pentagonal, hexecontaedro deltoidal medial
+ <br><br><br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>41. Caminho da vida I</h4>
+<a href="../vr/Pathoflife4.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto" alt="Caminho da vida I"></a>
+ <br><br><br>
+ <br><b>descrição</b>: obra de 1958
+ <br><b>tipo de tesselação</b>: triangular e quadrilateral
+ <br><b>poliedros</b>: grande dirombicosidodecaedro, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande icositetraedro hexacrônico, hexecontaedro icosacrônico medial, rombidodecadodecaedro, octaedro estrelado, pequeno hexecontaedro icosacrônico, grande triacontaedro rômbico, grande rombihexaedro, grande rombidodecaedro
+ <br><br><br>
+<hr>
+<h4>42. Caminho da vida III</h4>
+<a href="../vr/Pathoflife5.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto" alt="Caminho da vida III"></a>
+ <br><br><br>
+ <br><b>descrição</b>: obra de 1966
+ <br><b>tipo de tesselação</b>: hexagonal
+ <br><b>poliedros</b>: cuboctaedro cubitruncado, grande dodecahemicoaedro, grande dodecicosaedro, grande cuboctaedro truncado, grande icosidodecaedro truncado, dodecadodecaedro icositruncado, octahemioctaedro
+ <br><br><br><br>
+<hr>
+<h4>43. Caminho da vida III</h4>
+<a href="../vr/Pathoflife6.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto" alt="Caminho da vida III"></a>
+ <br><br><br>
+ <br><b>descrição</b>: obra de 1966
+ <br><b>tipo de tesselação</b>: hexagonal
+ <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosicosidodecaedro, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado
+ <br><br><br><br>
+<hr>
+<h4>44. Tesselação de flores</h4>
 <a href="../vr/TessellationFlowers.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="tesselação de flores"></a>
  <br><br><br>
  <br><b>descrição</b>: livro de colorir publicado em 2021, baseado em tesselações de Escher
@@ -353,7 +394,7 @@ function urlHandler(value) {
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br><br><br><br>
 <hr>
-<h4>40. Tesselação de folhas</h4>
+<h4>45. Tesselação de folhas</h4>
 <a href="../vr/TessellationLeaves1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="tesselação de folhas"></a>
  <br><br><br>
  <br><b>descrição</b>: obra de Regolo Bizzi, baseada em tesselações de Escher
@@ -361,7 +402,7 @@ function urlHandler(value) {
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br><br><br><br>
 <hr>
-<h4>41. Tesselação de folhas</h4>
+<h4>46. Tesselação de folhas</h4>
 <a href="../vr/TessellationLeaves2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="tesselação de folhas"></a>
  <br><br><br>
  <br><b>descrição</b>: obra de Regolo Bizzi, baseada em tesselações de Escher

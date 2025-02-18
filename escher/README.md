@@ -346,7 +346,47 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>polyhedra</b>: great dirhombicosidodecahedron, medial rhombic triacontahedron, small dodecacronic hexecontahedron, great hexacronic icositetrahedron, medial icosacronic hexecontahedron, rhombidodecadodecahedron, stella octangula, small icosacronic hexecontahedron, great rhombic triacontahedron, great rhombihexahedron, great rhombidodecahedron
  <br><br><br><br>
 <hr>
-<h4>39. Flower tessellation</h4>
+<h4>39. Path of life I</h4>
+<a href="vr/Pathoflife2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/42A.png" class="foto" alt="Path of life I"></a>
+ <br><br><br>
+ <br><b>description</b>: work from 1958
+ <br><b>tessellation type</b>: triangular and quadrilateral
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, great ditrigonal dodecacronic hexecontahedron, truncated dodecadodecahedron, great truncated icosidodecahedron
+ <br><br><br><br>
+<hr>
+<h4>40. Path of life I</h4>
+<a href="vr/Pathoflife3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/43A.png" class="foto" alt="Path of life I"></a>
+ <br><br><br>
+ <br><b>description</b>: work from 1958
+ <br><b>tessellation type</b>: triangular and quadrilateral
+ <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron, rhombic triacontahedron, pentagonal dipyramid, medial deltoidal hexecontahedron
+ <br><br><br><br>
+<hr>
+<h4>41. Path of life I</h4>
+<a href="vr/Pathoflife4.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/44A.png" class="foto" alt="Path of life I"></a>
+ <br><br><br>
+ <br><b>description</b>: work from 1958
+ <br><b>tessellation type</b>: triangular and quadrilateral
+ <br><b>polyhedra</b>: great dirhombicosidodecahedron, medial rhombic triacontahedron, small dodecacronic hexecontahedron, great hexacronic icositetrahedron, medial icosacronic hexecontahedron, rhombidodecadodecahedron, stella octangula, small icosacronic hexecontahedron, great rhombic triacontahedron, great rhombihexahedron, great rhombidodecahedron
+ <br><br><br><br>
+<hr>
+<h4>42. Path of life III</h4>
+<a href="vr/Pathoflife5.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/45A.png" class="foto" alt="Path of life III"></a>
+ <br><br><br>
+ <br><b>description</b>: work from 1966
+ <br><b>tessellation type</b>: hexagonal
+ <br><b>polyhedra</b>: cubitruncated cuboctahedron, great dodecahemicosahedron, great dodecicosahedron, great truncated cuboctahedron, great truncated icosidodecahedron, icositruncated dodecadodecahedron, octahemioctahedron
+ <br><br><br><br>
+<hr>
+<h4>43. Path of life III</h4>
+<a href="vr/Pathoflife46.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/46A.png" class="foto" alt="Path of life III"></a>
+ <br><br><br>
+ <br><b>description</b>: work from 1966
+ <br><b>tessellation type</b>: hexagonal
+ <br><b>polyhedra</b>: rhombicosahedron, small dodecicosahedron, small hexagonal hexecontahedron, small icosicosidodecahedron, small triambic icosahedron, great truncated icosahedron, truncated icosahedron
+ <br><br><br><br>
+<hr>
+<h4>44. Flower tessellation</h4>
 <a href="vr/TessellationFlowers.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Flower tessellation"></a>
  <br><br><br>
  <br><b>description</b>: coloring book published in 2021, based on Escher tessellations
@@ -354,7 +394,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br><br><br><br>
 <hr>
-<h4>40. Leaves tessellation</h4>
+<h4>45. Leaves tessellation</h4>
 <a href="vr/TessellationLeaves1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Leaves tessellation"></a>
  <br><br><br>
  <br><b>description</b>: Regolo Bizzi work, based on Escher tessellations
@@ -362,7 +402,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br><br><br><br>
 <hr>
-<h4>41. Leaves tessellation</h4>
+<h4>46. Leaves tessellation</h4>
 <a href="vr/TessellationLeaves2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Leaves tessellation"></a>
  <br><br><br>
  <br><b>description</b>: Regolo Bizzi work, based on Escher tessellations
