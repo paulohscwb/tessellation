@@ -362,6 +362,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron, rhombic triacontahedron, pentagonal dipyramid, medial deltoidal hexecontahedron
  <br><br><br><br>
 <hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>41. Path of life I</h4>
 <a href="vr/PathOfLife4.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/44A.png" class="foto" alt="Path of life I"></a>
  <br><br><br>
