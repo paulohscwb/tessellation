@@ -261,7 +261,7 @@ function urlHandler(value) {
  <br><br><br>
  <br><b>descrição</b>: última impressão de Escher; obra de 1969
  <br><b>tipo de tesselação</b>: hexagonal
- <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosicosidodecaedro, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado
+ <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado
  <br><br><br><br>
 <hr>
 <h4>29. Limite do quadrado</h4>
@@ -383,7 +383,7 @@ function urlHandler(value) {
  <br><br><br>
  <br><b>descrição</b>: obra de 1966
  <br><b>tipo de tesselação</b>: hexagonal
- <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosicosidodecaedro, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado
+ <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado
  <br><br><br><br>
 <hr>
 <h4>44. Tesselação de flores</h4>
