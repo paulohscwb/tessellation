@@ -107,7 +107,7 @@ function urlHandler(value) {
  <br><br><br>
  <br><b>descrição</b>: apresenta borboletas, pássaros e mariposas; obra de 1950
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
- <br><b>poliedros</b>: deltaedro de Möbius, octaedro estrelado, tetraedro, dodecaedro rômbico, triacontaedro rômbico, cubo, hexecontaedro rômbico
+ <br><b>poliedros</b>: deltaedro de Möbius, octaedro estrelado, tetraedro, dodecaedro rômbico, triacontaedro rômbico, cubo, hexecontaedro rômbico, tetraedro triakis, octaedro triakis, icosaedro triakis
  <br><br><br><br>
 <hr>
 <h4>10. Limite do círculo I</h4>
@@ -261,7 +261,7 @@ function urlHandler(value) {
  <br><br><br>
  <br><b>descrição</b>: última impressão de Escher; obra de 1969
  <br><b>tipo de tesselação</b>: hexagonal
- <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado
+ <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado, octaedro triakis, tetraedro truncado, octaedro truncado
  <br><br><br><br>
 <hr>
 <h4>29. Limite do quadrado</h4>
@@ -383,7 +383,7 @@ function urlHandler(value) {
  <br><br><br>
  <br><b>descrição</b>: obra de 1966
  <br><b>tipo de tesselação</b>: hexagonal
- <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado
+ <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado, tetraedro truncado, octaedro truncado
  <br><br><br><br>
 <hr>
 <h4>44. Tesselação de flores</h4>

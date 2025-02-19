@@ -25,6 +25,7 @@
 			<a-mixin id="esfera5" mixin="esfera" geometry="radius: 0.0184"></a-mixin>
 			<a-mixin id="esfera6" mixin="esfera" geometry="radius: 0.025"></a-mixin>
 			<a-mixin id="esfera7" mixin="esfera" geometry="radius: 0.0657"></a-mixin>
+			<a-mixin id="esfera8" mixin="esfera" geometry="radius: 0.083"></a-mixin>
 			<a-mixin id="ar">
 			<a-asset-item id="materialw" src="https://paulohscwb.github.io/polyhedra/platonic/vr/outros/solidos.mtl"></a-asset-item>
 		</a-assets>
@@ -444,6 +445,52 @@
 			<a-sphere mixin='esfera7' position='0.5 0.0 2.427051'></a-sphere>
 		</a-entity>
 		
+		<a-entity scale="5 5 5" id="nivel6" visible="false">
+			<a-gltf-model src="gltf/TruncatedTetrahedron42.gltf" scale="0.9985 0.9985 0.9985"></a-gltf-model>
+			<a-obj-model mixin="ar" src="https://paulohscwb.github.io/polyhedra/archimedes/vr/outros/TruncatedTetrahedronL.obj" mtl="#materialw"></a-obj-model>
+			<a-sphere mixin='esfera6' position='0.353553 0.353553 -1.060660'></a-sphere>
+			<a-sphere mixin='esfera6' position='-0.353553 0.353553 1.060660'></a-sphere>
+			<a-sphere mixin='esfera6' position='-0.353553 -0.353553 -1.060660'></a-sphere>
+			<a-sphere mixin='esfera6' position='1.060660 -0.353553 0.353553'></a-sphere>
+			<a-sphere mixin='esfera6' position='1.060660 0.353553 -0.353553'></a-sphere>
+			<a-sphere mixin='esfera6' position='-1.060660 0.353553 0.353553'></a-sphere>
+			<a-sphere mixin='esfera6' position='-1.060660 -0.353553 -0.353553'></a-sphere>
+			<a-sphere mixin='esfera6' position='0.353553 -1.060660 0.353553'></a-sphere>
+			<a-sphere mixin='esfera6' position='0.353553 1.060660 -0.353553'></a-sphere>
+			<a-sphere mixin='esfera6' position='-0.353553 1.060660 0.353553'></a-sphere>
+			<a-sphere mixin='esfera6' position='-0.353553 -1.060660 -0.353553'></a-sphere>
+			<a-sphere mixin='esfera6' position='0.353553 -0.353553 1.060660'></a-sphere>
+		</a-entity>
+		
+		<a-entity scale="3.6 3.6 3.6" id="nivel7" visible="false">
+			<a-gltf-model src="gltf/TruncatedOctahedron42.gltf" scale="0.9985 0.9985 0.9985"></a-gltf-model>
+			<a-obj-model mixin="ar" src="https://paulohscwb.github.io/polyhedra/archimedes/vr/outros/TruncatedOctahedronL.obj" mtl="#materialw"></a-obj-model>
+			<a-sphere mixin='esfera3' position='0.707107 0.0 -1.414214'></a-sphere>
+			<a-sphere mixin='esfera3' position='-0.707107 0.0 1.414214'></a-sphere>
+			<a-sphere mixin='esfera3' position='-0.707107 0.0 -1.414214'></a-sphere>
+			<a-sphere mixin='esfera3' position='1.414214 0.707107 0.0'></a-sphere>
+			<a-sphere mixin='esfera3' position='1.414214 -0.707107 0.0'></a-sphere>
+			<a-sphere mixin='esfera3' position='-1.414214 0.707107 0.0'></a-sphere>
+			<a-sphere mixin='esfera3' position='-1.414214 -0.707107 0.0'></a-sphere>
+			<a-sphere mixin='esfera3' position='0.0 1.414214 0.707107'></a-sphere>
+			<a-sphere mixin='esfera3' position='0.0 1.414214 -0.707107'></a-sphere>
+			<a-sphere mixin='esfera3' position='0.0 -1.414214 0.707107'></a-sphere>
+			<a-sphere mixin='esfera3' position='0.0 -1.414214 -0.707107'></a-sphere>
+			<a-sphere mixin='esfera3' position='0.0 0.707107 1.414214'></a-sphere>
+			<a-sphere mixin='esfera3' position='0.0 0.707107 -1.414214'></a-sphere>
+			<a-sphere mixin='esfera3' position='0.0 -0.707107 1.414214'></a-sphere>
+			<a-sphere mixin='esfera3' position='0.0 -0.707107 -1.414214'></a-sphere>
+			<a-sphere mixin='esfera3' position='1.414214 0.0 0.707107'></a-sphere>
+			<a-sphere mixin='esfera3' position='1.414214 0.0 -0.707107'></a-sphere>
+			<a-sphere mixin='esfera3' position='-1.414214 0.0 0.707107'></a-sphere>
+			<a-sphere mixin='esfera3' position='-1.414214 0.0 -0.707107'></a-sphere>
+			<a-sphere mixin='esfera3' position='0.707107 1.414214 0.0'></a-sphere>
+			<a-sphere mixin='esfera3' position='0.707107 -1.414214 0.0'></a-sphere>
+			<a-sphere mixin='esfera3' position='-0.707107 1.414214 0.0'></a-sphere>
+			<a-sphere mixin='esfera3' position='-0.707107 -1.414214 0.0'></a-sphere>
+			<a-sphere mixin='esfera3' position='0.707107 0.0 1.414214'></a-sphere>
+		</a-entity>
+		
 		<a-box mixin="piso" class="piso" visible="false" position="0 -0.05 0"></a-box>
 		<a-entity id="cameraRig">
 			<a-entity camera="fov:1; near:1;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 -425 425; maxDistance: 1500;"></a-entity>
@@ -469,6 +516,8 @@
 			<option value="3" selected>Small Triambic Icosahedron</option>
 			<option value="4">Great Truncated Icosahedron</option>
 			<option value="5">Truncated Icosahedron</option>
+			<option value="6">Truncated Tetrahedron</option>
+			<option value="7">Truncated Octahedron</option>
 		</select>
 	</div>
   </body>

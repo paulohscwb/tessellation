@@ -108,7 +108,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><br><br>
  <br><b>description</b>: features butterflies, birds, and moths; work from 1950 
  <br><b>tessellation type</b>: quadrilateral and triangular
- <br><b>polyhedra</b>: Möbius deltahedron, stella octangula, tetrahedron, rhombic dodecahedron, rhombic triacontahedron, cube, rhombic hexecontahedron
+ <br><b>polyhedra</b>: Möbius deltahedron, stella octangula, tetrahedron, rhombic dodecahedron, rhombic triacontahedron, cube, rhombic hexecontahedron, triakis tetrahedron, triakis octahedron, triakis icosahedron
  <br><br><br><br>
 <hr>
 <h4>10. Circle limit I</h4>
@@ -262,7 +262,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><br><br>
  <br><b>description</b>: Escher's last impression; work from 1969
  <br><b>tessellation type</b>: hexagonal
- <br><b>polyhedra</b>: rhombicosahedron, small dodecicosahedron, small hexagonal hexecontahedron, small triambic icosahedron, great truncated icosahedron, truncated icosahedron
+ <br><b>polyhedra</b>: rhombicosahedron, small dodecicosahedron, small hexagonal hexecontahedron, small triambic icosahedron, great truncated icosahedron, truncated icosahedron, truncated tetrahedron, truncated octahedron
  <br><br><br><br>
 <hr>
 <h4>29. Square Limit</h4>
@@ -384,7 +384,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><br><br>
  <br><b>description</b>: work from 1966
  <br><b>tessellation type</b>: hexagonal
- <br><b>polyhedra</b>: rhombicosahedron, small dodecicosahedron, small hexagonal hexecontahedron, small triambic icosahedron, great truncated icosahedron, truncated icosahedron
+ <br><b>polyhedra</b>: rhombicosahedron, small dodecicosahedron, small hexagonal hexecontahedron, small triambic icosahedron, great truncated icosahedron, truncated icosahedron, truncated tetrahedron, truncated octahedron
  <br><br><br><br>
 <hr>
 <h4>44. Flower tessellation</h4>

@@ -28,6 +28,7 @@
 			<a-mixin id="esfera5" mixin="esfera" geometry="radius: 0.0373"></a-mixin>
 			<a-mixin id="esfera6" mixin="esfera" geometry="radius: 0.017"></a-mixin>
 			<a-mixin id="esfera0" mixin="esfera" geometry="radius: 0.0445"></a-mixin>
+			<a-mixin id="esfera8a" mixin="esfera" geometry="radius: 0.083"></a-mixin>
 			<a-mixin id="ar">
 			<a-asset-item id="materialw" src="https://paulohscwb.github.io/polyhedra/platonic/vr/outros/solidos.mtl"></a-asset-item>
 			<a-asset-item id="material" src="obj/solidos.mtl"></a-asset-item>
@@ -217,6 +218,75 @@
 			<a-sphere mixin='esfera3' position='0.0 0.0 1.70130'></a-sphere>
 		</a-entity>
 		
+		<a-entity scale="3 3 3" id="nivel7" visible="false">
+			<a-obj-model src="obj/TriakisTetrahedron42.obj" mtl="#material" scale="0.9985 0.9985 0.9985"></a-obj-model>
+			<a-obj-model mixin="ar" src="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/TriakisTetrahedronL.obj" mtl="#materialw"></a-obj-model>
+			<a-sphere mixin="esfera2" position="1.06066 -1.06066 -1.06066"></a-sphere>
+			<a-sphere mixin="esfera2" position="-1.06066 -1.06066 1.06066"></a-sphere>
+			<a-sphere mixin="esfera2" position="-1.06066 1.06066 -1.06066"></a-sphere>
+			<a-sphere mixin="esfera2" position="0.63639 -0.63639 0.6363"></a-sphere>
+			<a-sphere mixin="esfera2" position="0.63639 0.63639 -0.63639"></a-sphere>
+			<a-sphere mixin="esfera2" position="-0.63639 0.63639 0.63639"></a-sphere>
+			<a-sphere mixin="esfera2" position="-0.63639 -0.63639 -0.6363"></a-sphere>
+			<a-sphere mixin="esfera2" position="1.06066 1.06066 1.06066"></a-sphere>
+		</a-entity>
+
+		<a-entity scale="2.3 2.3 2.3" id="nivel8" visible="false">
+			<a-obj-model src="obj/TriakisOctahedron42.obj" mtl="#material" scale="0.9985 0.9985 0.9985"></a-obj-model>
+			<a-obj-model mixin="ar" src="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/TriakisOctahedronL.obj" mtl="#materialw"></a-obj-model>
+			<a-sphere mixin="esfera3" position="0.0  0.0  -2.4142"></a-sphere>
+			<a-sphere mixin="esfera3" position="2.4142  0.0  0.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="-2.4142  0.0  0.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="0.0   2.4142  0.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="0.0  -2.4142  0.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="1.0  1.0  1.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="1.0  1.0 -1.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="1.0 -1.0  1.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="1.0 -1.0 -1.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="-1.0  1.0  1.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="-1.0  1.0 -1.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="-1.0 -1.0  1.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="-1.0 -1.0 -1.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="0.0  0.0  2.4142"></a-sphere>
+		</a-entity>
+		
+		<a-entity scale="1.65 1.65 1.65" id="nivel9" visible="false">
+			<a-obj-model src="obj/TriakisIcosahedron42.obj" mtl="#material" scale="0.9985 0.9985 0.9985"></a-obj-model>
+			<a-obj-model mixin="ar" src="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/TriakisIcosahedronL.obj" mtl="#materialw"></a-obj-model>
+			<a-sphere mixin="esfera8a" position="1.80902 0.0 -2.92705"></a-sphere>
+			<a-sphere mixin="esfera8a" position="-1.80902 0.0  2.92705"></a-sphere>
+			<a-sphere mixin="esfera8a" position="-1.80902 0.0 -2.92705"></a-sphere>
+			<a-sphere mixin="esfera8a" position="2.92705  1.80902 0.0"></a-sphere>
+			<a-sphere mixin="esfera8a" position="2.92705 -1.80902 0.0"></a-sphere>
+			<a-sphere mixin="esfera8a" position="-2.92705  1.80902 0.0"></a-sphere>
+			<a-sphere mixin="esfera8a" position="-2.92705 -1.80902 0.0"></a-sphere>
+			<a-sphere mixin="esfera8a" position="0.0  2.92705  1.80902"></a-sphere>
+			<a-sphere mixin="esfera8a" position="0.0  2.92705 -1.80902"></a-sphere>
+			<a-sphere mixin="esfera8a" position="0.0 -2.92705  1.80902"></a-sphere>
+			<a-sphere mixin="esfera8a" position="0.0 -2.92705 -1.80902"></a-sphere>
+			<a-sphere mixin="esfera8a" position="0.0  1.04955  2.74777"></a-sphere>
+			<a-sphere mixin="esfera8a" position="0.0  1.04955 -2.74777"></a-sphere>
+			<a-sphere mixin="esfera8a" position="0.0 -1.04955  2.74777"></a-sphere>
+			<a-sphere mixin="esfera8a" position="0.0 -1.04955 -2.74777"></a-sphere>
+			<a-sphere mixin="esfera8a" position="2.74777 0.0  1.04955"></a-sphere>
+			<a-sphere mixin="esfera8a" position="2.74777 0.0 -1.04955"></a-sphere>
+			<a-sphere mixin="esfera8a" position="-2.74777 0.0  1.04955"></a-sphere>
+			<a-sphere mixin="esfera8a" position="-2.74777 0.0 -1.04955"></a-sphere>
+			<a-sphere mixin="esfera8a" position="1.04955  2.74777 0.0"></a-sphere>
+			<a-sphere mixin="esfera8a" position="1.04955 -2.74777 0.0"></a-sphere>
+			<a-sphere mixin="esfera8a" position="-1.04955  2.74777 0.0"></a-sphere>
+			<a-sphere mixin="esfera8a" position="-1.04955 -2.74777 0.0"></a-sphere>
+			<a-sphere mixin="esfera8a" position="1.69821  1.69821  1.69821"></a-sphere>
+			<a-sphere mixin="esfera8a" position="1.69821  1.69821 -1.69821"></a-sphere>
+			<a-sphere mixin="esfera8a" position="1.69821 -1.69821  1.69821"></a-sphere>
+			<a-sphere mixin="esfera8a" position="1.69821 -1.69821 -1.69821"></a-sphere>
+			<a-sphere mixin="esfera8a" position="-1.69821  1.69821  1.69821"></a-sphere>
+			<a-sphere mixin="esfera8a" position="-1.69821  1.69821 -1.69821"></a-sphere>
+			<a-sphere mixin="esfera8a" position="-1.69821 -1.69821  1.69821"></a-sphere>
+			<a-sphere mixin="esfera8a" position="-1.69821 -1.69821 -1.69821"></a-sphere>
+			<a-sphere mixin="esfera8a" position="1.80902 0.0  2.92705"></a-sphere>
+		</a-entity>
+		
 		<a-box mixin="piso" class="piso" visible="false" position="0 -0.05 0"></a-box>
 		<a-entity id="cameraRig">
 			<a-entity camera="fov:1; near:1;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 -425 425; maxDistance: 1500;"></a-entity>
@@ -243,6 +313,9 @@
 			<option value="4">Rhombic triacontahedron</option>
 			<option value="5">Cube</option>
 			<option value="6">Rhombic hexecontahedron</option>
+			<option value="7">Triakis tetrahedron</option>
+			<option value="8">Triakis octahedron</option>
+			<option value="9">Triakis icosahedron</option>
 		</select>
 	</div>
   </body>
