@@ -15,7 +15,7 @@
 		<label for="rangevalue">order: </label><output id="rangevalue">0</output>&nbsp;&nbsp;&nbsp;<input type="range" id="nv" min="0" max="10" step="1" value="0" onchange="rangevalue.value=value; mnivelRA()">
 	</div>
 <div style='color:#fada99; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
-    <a-scene antialias="true" renderer="colorManagement: true; highRefreshRate: true; logarithmicDepthBuffer: true; maxCanvasWidth: 7680; maxCanvasHeight: 3840;">
+    <a-scene renderer="antialias:true; colorManagement: true; highRefreshRate: true; precision: high; sortTransparentObjects: true; logarithmicDepthBuffer: true; maxCanvasWidth: 7680; maxCanvasHeight: 7680;">
 		<a-assets>
 			<a-mixin id="esfera" geometry="segments-height:20; segments-width:20;" material="color: #8ec; side:double; metalness:0.4; roughness:0.5;"></a-mixin>
 			<a-mixin id="esfera1" mixin="esfera" geometry="radius: 0.032"></a-mixin>
@@ -326,7 +326,7 @@
 				<a-sphere mixin='esfera5' position='0.627903 -0.742340 -0.254955'></a-sphere>
 				<a-sphere mixin='esfera5' position='0.683221 -0.206515 -0.697835'></a-sphere>
 				<a-sphere mixin='esfera5' position='0.756251 0.833140 0.171845'></a-sphere>
-				<a-sphere mixin='esfera5' position='0.384045 -0.507151 0.386416'></a-sphere>
+				<a-sphere mixin='esfera5' position='0.768045 -0.507151 0.386416'></a-sphere>
 				<a-sphere mixin='esfera5' position='0.857550 0.359831 -0.330178'></a-sphere>
 				<a-sphere mixin='esfera5' position='0.909975 0.174028 0.339925'></a-sphere>
 				<a-sphere mixin='esfera5' position='-0.875027 -0.215344 -0.354115'></a-sphere>
