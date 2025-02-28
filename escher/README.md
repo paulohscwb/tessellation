@@ -217,7 +217,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br>
 <hr>
 <h4>26. Symmetry (lizards)</h4>
-<a href="vr/SmilingLizards1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Symmetry (lizards)"></a>
+<a href="vr/SmilingLizards2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Symmetry (lizards)"></a>
  <br><b>description</b>: work from 1965
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Möbius hexakis icosahedron, octahedron, Möbius octakis hexahedron, tetrakis hexahedron
