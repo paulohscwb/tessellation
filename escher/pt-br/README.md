@@ -233,7 +233,7 @@ function urlHandler(value) {
 <a href="../vr/Snakes2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Serpentes"></a>
  <br><b>descrição</b>: última impressão de Escher; obra de 1969
  <br><b>tipo de tesselação</b>: hexagonal
- <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado, octaedro triakis, tetraedro truncado, octaedro truncado
+ <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado, tetraedro truncado, octaedro truncado
  <br>
 <hr>
 <h4>29. Limite do quadrado</h4>
