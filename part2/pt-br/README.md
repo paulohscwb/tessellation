@@ -280,35 +280,35 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>35. Tesselação de Alain Nicolas</h4>
-<a href="../vr/Tessellation35.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="Na praia 1"></a>
+<a href="../vr/Tessellation35.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="Na praia 1"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Na praia 1
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis, dodecaedro rômbico
  <br>
 <hr>
 <h4>36. Tesselação de Francine Champagne</h4>
-<a href="../vr/Tessellation36.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Tesselação de beija-flor no grupo de simetria P4m"></a>
+<a href="../vr/Tessellation36.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="Tesselação de beija-flor no grupo de simetria P4m"></a>
  <br><b>descrição</b>: Obra de 2014 - Tesselação de beija-flor no grupo de simetria P4m
  <br><b>tipo de tesselação</b>: triangular
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br>
 <hr>
 <h4>37. Tesselação de Alain Nicolas</h4>
-<a href="../vr/Tessellation37.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Na praia 3"></a>
+<a href="../vr/Tessellation37.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Na praia 3"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Na praia 3
  <br><b>tipo de tesselação</b>: triangular
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br>
 <hr>
 <h4>38. Tesselação de Massimo Rana</h4>
-<a href="../vr/Tessellation38.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Tesselação de Massimo Rana"></a>
+<a href="../vr/Tessellation38.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="Tesselação de Massimo Rana"></a>
  <br><b>descrição</b>: Tesselação de Massimo Rana
  <br><b>tipo de tesselação</b>: triangular
  <br><b>poliedros</b>: icosaedro, grande icosaedro, sólido de Escher, tetraedro hexakis, disfenóide snub, deltaedro de Möbius, octaedro, octaedro hexakis de Möbius, dodecaedro pentakis
  <br>
 <hr>
 <h4>39. Tesselação de  Massimo Rana</h4>
-<a href="../vr/Tessellation39.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="Tesselação de Massimo Rana"></a>
+<a href="../vr/Tessellation39.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Tesselação de Massimo Rana"></a>
  <br><b>descrição</b>: Tesselação de Massimo Rana
  <br><b>tipo de tesselação</b>: triangular
  <br><b>poliedros</b>: icosaedro hexakis de Möbius, dipirâmide pentagonal, hexaedro octakis de Möbius, dodecaedro 10-akis de Möbius, octaedro estrelado, tetraedro, hexaedro tetrakis

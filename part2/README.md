@@ -281,35 +281,35 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br>
 <hr>
 <h4>35. Alain Nicolas tessellation</h4>
-<a href="vr/Tessellation35.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="On the Beach 1"></a>
+<a href="vr/Tessellation35.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="On the Beach 1"></a>
  <br><b>description</b>: Alain Nicolas tessellation - On the beach 1
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron, rhombic dodecahedron
  <br>
 <hr>
 <h4>36. Francine Champagne tessellation</h4>
-<a href="vr/Tessellation36.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="Hummingbird tessellation in symmetry group P4m"></a>
+<a href="vr/Tessellation36.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Hummingbird tessellation in symmetry group P4m"></a>
  <br><b>description</b>: Work from 2014 - Hummingbird tessellation in symmetry group P4m
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br>
 <hr>
 <h4>37. Alain Nicolas tessellation</h4>
-<a href="vr/Tessellation37.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto" alt="On the Beach 3"></a>
+<a href="vr/Tessellation37.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="On the Beach 3"></a>
  <br><b>description</b>: Alain Nicolas tessellation - On the beach 3
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br>
 <hr>
 <h4>38. Massimo Rana tessellation</h4>
-<a href="vr/Tessellation38.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="Massimo Rana tessellation"></a>
+<a href="vr/Tessellation38.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="Massimo Rana tessellation"></a>
  <br><b>description</b>: Massimo Rana tessellation
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: icosahedron, great icosahedron, Escher solid, hexakis tetrahedron, snub disphenoid, Möbius deltahedron, octahedron, Möbius hexakis octahedron, pentakis dodecahedron
  <br>
 <hr>
 <h4>39. Massimo Rana tessellation</h4>
-<a href="vr/Tessellation39.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/42A.png" class="foto" alt="Massimo Rana tessellation"></a>
+<a href="vr/Tessellation39.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="Massimo Rana tessellation"></a>
  <br><b>description</b>: Massimo Rana tessellation
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis icosahedron, pentagonal dipyramid, Möbius octakis hexahedron, Möbius 10-akis dodecahedron, stella octangula, tetrahedron, tetrakis hexahedron
