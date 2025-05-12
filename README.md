@@ -4,21 +4,21 @@
 <h2>Visualization of Polyhedra tessellation with Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
- <br><a href="https://paulohscwb.github.io/tessellation/pt-br/">versão em português</a>
+ <br><a href="https://paulohscwb.github.io/tessellation/">versão em português</a>
  <br><br>Tessellation, also called mosaic or plane covering, is a way of covering a plane or surface with a pattern of figures. The figures cannot be superimposed and there cannot be empty spaces between them.
 <br>This work shows the tessellations applied to the faces of polyhedra, with views that can be accessed with Virtual Reality resources.
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="escher/"><img src="escher/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Escher's Works</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="part2/pt-br/"><img src="part2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 2</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="part3/pt-br/"><img src="part3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 3</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="part4/pt-br/"><img src="part4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 4</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="part5/pt-br/"><img src="part5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 5</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="part5/pt-br/"><img src="part6/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 6</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="part7/pt-br/"><img src="part7/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 7</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="part8/pt-br/"><img src="part8/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 8</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="part9/pt-br/"><img src="part9/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 9</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="part10/pt-br/"><img src="part10/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 10</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="part11/pt-br/"><img src="part11/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 11</a></h3>-->
+<h3 style="margin-top:3px"><a target="_blank" href="part2/"><img src="part2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 2</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="part3/"><img src="part3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 3</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="part4/"><img src="part4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 4</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="part5/"><img src="part5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 5</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="part5/"><img src="part6/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 6</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="part7/"><img src="part7/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 7</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="part8/"><img src="part8/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 8</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="part9/"><img src="part9/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 9</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="part10/"><img src="part10/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 10</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="part11/"><img src="part11/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 11</a></h3>-->
 <hr>
 <h3 align="center">Virtual Reality</h3>
 <p align="center"><img src="escher/vr/salas/videos/escher1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="escher/vr/salas/videos/escher2.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>

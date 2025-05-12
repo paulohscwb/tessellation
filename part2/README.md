@@ -281,7 +281,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br>
 <hr>
 <h4>35. Alain Nicolas tessellation</h4>
-<a href="vr/Tessellation35.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="SOn the Beach 1"></a>
+<a href="vr/Tessellation35.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="On the Beach 1"></a>
  <br><b>description</b>: Alain Nicolas tessellation - On the beach 1
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron, rhombic dodecahedron
