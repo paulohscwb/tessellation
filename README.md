@@ -4,7 +4,7 @@
 <h2>Visualization of Polyhedra tessellation with Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
- <br><a href="https://paulohscwb.github.io/tessellation/">versão em português</a>
+ <br><a href="https://paulohscwb.github.io/tessellation/pt-br/">versão em português</a>
  <br><br>Tessellation, also called mosaic or plane covering, is a way of covering a plane or surface with a pattern of figures. The figures cannot be superimposed and there cannot be empty spaces between them.
 <br>This work shows the tessellations applied to the faces of polyhedra, with views that can be accessed with Virtual Reality resources.
 <hr>
