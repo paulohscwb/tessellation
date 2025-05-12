@@ -9,16 +9,16 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More solids:</option>
 		<option disabled value="../escher/">Escher's Works</option>
-		<!--<option value="../tessellation1/">Tessellation 1</option>
-		<option value="../tessellation2/">Tessellation 2</option>
-		<option value="../tessellation3/">Tessellation 3</option>
-		<option value="../tessellation4/">Tessellation 4</option>
-		<option value="../tessellation5/">Tessellation 5</option>
-		<option value="../tessellation6/">Tessellation 6</option>
-		<option value="../tessellation7/">Tessellation 7</option>
-		<option value="../tessellation8/">Tessellation 8</option>
-		<option value="../tessellation9/">Tessellation 9</option>
-		<option value="../tessellation10/">Tessellation 10</option>-->
+		<option value="../part2/">Tessellation 2</option>
+		<!--<option value="../part3/">Tessellation 3</option>
+		<option value="../part4/">Tessellation 4</option>
+		<option value="../part5/">Tessellation 5</option>
+		<option value="../part6/">Tessellation 6</option>
+		<option value="../part7/">Tessellation 7</option>
+		<option value="../part8/">Tessellation 8</option>
+		<option value="../part9/">Tessellation 9</option>
+		<option value="../part10/">Tessellation 10</option>
+		<option value="../part11/">Tessellation 11</option>-->
 	</select>
 </form>
 <script>

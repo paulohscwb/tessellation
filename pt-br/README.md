@@ -9,16 +9,16 @@
 <br>Este trabalho mostra as tesselações aplicadas nas faces de poliedros, com as visualizações que podem ser acessadas com os recursos de Realidade Virtual.
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="../escher/pt-br/"><img src="../escher/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Obras de Escher</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="../tessellation1/pt-br/"><img src="../tessellation1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 1</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../tessellation2/pt-br/"><img src="../tessellation2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 2</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../tessellation3/pt-br/"><img src="../tessellation3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 3</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../tessellation4/pt-br/"><img src="../tessellation4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 4</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../tessellation5/pt-br/"><img src="../tessellation5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 5</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../tessellation6/pt-br/"><img src="../tessellation6/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 6</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../tessellation7/pt-br/"><img src="../tessellation7/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 7</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../tessellation8/pt-br/"><img src="../tessellation8/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 8</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../tessellation9/pt-br/"><img src="../tessellation9/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 9</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../tessellation10/pt-br/"><img src="../tessellation10/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselação 10</a></h3>-->
+<h3 style="margin-top:3px"><a target="_blank" href="../part2/pt-br/"><img src="../part2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 2</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="../part3/pt-br/"><img src="../part3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 3</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../part4/pt-br/"><img src="../part4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 4</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../part5/pt-br/"><img src="../part5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 5</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../part6/pt-br/"><img src="../part6/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 6</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../part7/pt-br/"><img src="../part7/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 7</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../part8/pt-br/"><img src="../part8/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 8</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../part9/pt-br/"><img src="../part9/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 9</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../part10/pt-br/"><img src="../part10/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 10</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../part11/pt-br/"><img src="../part11/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 11</a></h3>-->
 <hr>
 <h3 align="center">Realidade Virtual</h3>
 <p align="center"><img src="../escher/vr/salas/videos/escher1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../escher/vr/salas/videos/escher2.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>

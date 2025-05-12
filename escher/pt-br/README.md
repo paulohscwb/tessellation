@@ -9,16 +9,16 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais sólidos:</option>
 		<option disabled value="../../escher/pt-br/">Obras de Escher</option>
-		<!--<option value="../../tessellation1/pt-br/">Tesselação 1</option>
-		<option value="../../tessellation2/pt-br/">Tesselação 2</option>
-		<option value="../../tessellation3/pt-br/">Tesselação 3</option>
-		<option value="../../tessellation4/pt-br/">Tesselação 4</option>
-		<option value="../../tessellation5/pt-br/">Tesselação 5</option>
-		<option value="../../tessellation6/pt-br/">Tesselação 6</option>
-		<option value="../../tessellation7/pt-br/">Tesselação 7</option>
-		<option value="../../tessellation8/pt-br/">Tesselação 8</option>
-		<option value="../../tessellation9/pt-br/">Tesselação 9</option>
-		<option value="../../tessellation10/pt-br/">Tesselação 10</option>-->
+		<option value="../../part2/pt-br/">Tesselações 2</option>
+		<!--<option value="../../part3/pt-br/">Tesselações 3</option>
+		<option value="../../part4/pt-br/">Tesselações 4</option>
+		<option value="../../part5/pt-br/">Tesselações 5</option>
+		<option value="../../part6/pt-br/">Tesselações 6</option>
+		<option value="../../part7/pt-br/">Tesselações 7</option>
+		<option value="../../part8/pt-br/">Tesselações 8</option>
+		<option value="../../part9/pt-br/">Tesselações 9</option>
+		<option value="../../part10/pt-br/">Tesselações 10</option>
+		<option value="../../part11/pt-br/">Tesselações 11</option>-->
 	</select>
 </form>
 <script>
