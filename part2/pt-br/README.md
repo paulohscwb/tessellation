@@ -322,6 +322,8 @@ function urlHandler(value) {
 <p>Siqueira, P.H., "Tessellation - part 2: polyhedra tessellation and visualization with Virtual Reality". Disponível em: <https://paulohscwb.github.io/tessellation/part2/pt-br/>, Maio de 2025.</p>
 <!--<a target="_blank" href="https://doi.org/10.5281/zenodo.14502405"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14502405.svg" alt="DOI"></a>-->
 <br><br><b>Referências:</b>
+<br>Nicolas, A. "Tessellations: Art most in harmony with the natural order - Method & Galleries" <a href="https://en.tessellations-nicolas.com/" target="_blank"> https://en.tessellations-nicolas.com/</a>
+<br>Champagne, F. "Tessellations by Francine Champagne" <a href="https://tessellations.ca/" target="_blank"> https://tessellations.ca/</a>
 <br>Weisstein, Eric W. "Tessellation." From MathWorld--A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/Tessellation.html" target="_blank"> https://mathworld.wolfram.com/Tessellation.html</a>
 <br>Mohr, R. "Tiled Art" <a href="https://tiled.art/en/home" target="_blank">https://tiled.art/en/home</a> 
 <br>McCooey, D. I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>
