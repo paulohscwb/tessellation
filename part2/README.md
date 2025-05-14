@@ -88,227 +88,270 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron, rhombic triacontahedron, square orthobicupola, stella octangula, triakis tetrahedron
  <br>
 <hr>
-<h4>8. Alain Nicolas tessellation</h4>
+<h4>8. Francine Champagne tessellation</h4>
+<a href="vr/Tessellation40.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto" alt="Prissy Groovy and Cool"></a>
+ <br><b>description</b>: Francine Champagne tessellation - Prissy Groovy and Cool
+ <br><b>tessellation type</b>: triangular and quadrilateral
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, pentakis dodecahedron, triakis octahedron, triakis icosahedron
+ <br>
+<hr>
+<h4>9. Francine Champagne tessellation</h4>
+<a href="vr/Tessellation41.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="Prissy Groovy and Cool"></a>
+ <br><b>description</b>: Francine Champagne tessellation - Prissy Groovy and Cool
+ <br><b>tessellation type</b>: triangular and quadrilateral
+ <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron, rhombic triacontahedron, square orthobicupola, stella octangula, triakis tetrahedron
+ <br>
+<hr>
+<h4>10. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation8.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="On the Beach 3"></a>
  <br><b>description</b>: Alain Nicolas tessellation - On the beach 3
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron
  <br>
 <hr>
-<h4>9. Alain Nicolas tessellation</h4>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>11. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation9.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="On the Beach 3"></a>
  <br><b>description</b>: Alain Nicolas tessellation - On the beach 3
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>10. Alain Nicolas tessellation</h4>
+<h4>12. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation10.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Mosaic of earth, air and water"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Mosaic of earth, air and water
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, cuboctahedron, triakis octahedron, triakis icosahedron
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>11. Alain Nicolas tessellation</h4>
+<h4>13. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation11.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Mosaic of earth, air and water"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Mosaic of earth, air and water
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron, rhombic triacontahedron, square orthobicupola, triakis tetrahedron
  <br>
 <hr>
-<h4>12. Alain Nicolas tessellation</h4>
+<h4>14. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation12.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Air, Earth & Sea 1"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Air, earth & sea 1
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron
  <br>
 <hr>
-<h4>13. Alain Nicolas tessellation</h4>
+<h4>15. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation13.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Air, Earth & Sea 1"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Air, earth & sea 1
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>14. Alain Nicolas tessellation</h4>
+<h4>16. Francine Champagne tessellation</h4>
+<a href="vr/Tessellation42.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/42A.png" class="foto" alt="Three Dogs Searching for the Crumb"></a>
+ <br><b>description</b>: Francine Champagne tessellation - Three Dogs Searching for the Crumb
+ <br><b>tessellation type</b>: triangular and quadrilateral
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, pentakis dodecahedron, triakis octahedron, triakis icosahedron
+ <br>
+<hr>
+<h4>17. Francine Champagne tessellation</h4>
+<a href="vr/Tessellation43.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/43A.png" class="foto" alt="Three Dogs Searching for the Crumb"></a>
+ <br><b>description</b>: Francine Champagne tessellation - Three Dogs Searching for the Crumb
+ <br><b>tessellation type</b>: triangular and quadrilateral
+ <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron, rhombic triacontahedron, square orthobicupola, stella octangula, triakis tetrahedron
+ <br>
+<hr>
+<h4>18. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation14.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Cherubs & Demons"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Cherubs & demons
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>15. Alain Nicolas tessellation</h4>
+<h4>19. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation15.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Three Chinese"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Three chinese
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron, rhombic dodecahedron
  <br>
 <hr>
-<h4>16. Alain Nicolas tessellation</h4>
+<h4>20. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation16.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Duck 120&ordm;"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Duck 120&ordm;
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron
  <br>
 <hr>
-<h4>17. Alain Nicolas tessellation</h4>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>21. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation17.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Duck 120&ordm;"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Duck 120&ordm;
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>18. Alain Nicolas tessellation</h4>
+<h4>22. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation18.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Fire queen"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Fire queen
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>19. Alain Nicolas tessellation</h4>
+<h4>23. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation19.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Royal fish"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Royal fish
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>20. Alain Nicolas tessellation</h4>
+<h4>24. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation20.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Heartbug"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Heartbug
  <br><b>tessellation type</b>: quadrilateral and triangular
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, Möbius deltahedron, tetrakis hexahedron
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>21. Alain Nicolas tessellation</h4>
+<h4>25. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation21.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/21A.png" class="foto" alt="Li'l Dragon"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Li'l dragon
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron
  <br>
 <hr>
-<h4>22. Alain Nicolas tessellation</h4>
+<h4>26. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation22.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Li'l Dragon"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Li'l dragon
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron
  <br>
+ <hr>
+<h4>27. Francine Champagne tessellation</h4>
+<a href="vr/Tessellation44.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/44A.png" class="foto" alt="Three Rubber Duckies"></a>
+ <br><b>description</b>: Francine Champagne tessellation - Three Rubber Duckies
+ <br><b>tessellation type</b>: triangular and quadrilateral
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, pentakis dodecahedron, triakis octahedron, triakis icosahedron
+ <br>
 <hr>
-<h4>23. Alain Nicolas tessellation</h4>
+<h4>28. Francine Champagne tessellation</h4>
+<a href="vr/Tessellation45.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/45A.png" class="foto" alt="Three Rubber Duckies"></a>
+ <br><b>description</b>: Francine Champagne tessellation - Three Rubber Duckies
+ <br><b>tessellation type</b>: triangular and quadrilateral
+ <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron, rhombic triacontahedron, square orthobicupola, stella octangula, triakis tetrahedron
+ <br>
+<hr>
+<h4>29. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation23.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Air, Earth & Sea 2"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Air, earth & sea 2
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron
  <br>
 <hr>
-<h4>24. Alain Nicolas tessellation</h4>
+<h4>30. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation24.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Air, Earth & Sea 2"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Air, earth & sea 2
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>25. Alain Nicolas tessellation</h4>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>31. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation25.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto" alt="9 Lizards Noses"></a>
  <br><b>description</b>: Alain Nicolas tessellation - 9 lizards noses
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron
  <br>
 <hr>
-<h4>26. Alain Nicolas tessellation</h4>
+<h4>32. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation26.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="9 Lizards Noses"></a>
  <br><b>description</b>: Alain Nicolas tessellation - 9 lizards noses
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>27. Alain Nicolas tessellation</h4>
+<h4>33. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation27.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/27A.png" class="foto" alt="Monsters"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Monsters
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, cuboctahedron
  <br>
 <hr>
-<h4>28. Alain Nicolas tessellation</h4>
+<h4>34. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation28.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/28A.png" class="foto" alt="Monsters"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Monsters
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>29. Alain Nicolas tessellation</h4>
+<h4>35. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation29.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto" alt="Panda, Bat & Fish"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Panda, bat & fish
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron
  <br>
 <hr>
-<h4>30. Alain Nicolas tessellation</h4>
+<h4>36. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation30.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Panda, Bat & Fish"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Panda, bat & fish
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>31. Alain Nicolas tessellation</h4>
+<h4>37. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation31.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/31A.png" class="foto" alt="On the Beach 2"></a>
  <br><b>description</b>: Alain Nicolas tessellation - On the beach 2
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron
  <br>
 <hr>
-<h4>32. Alain Nicolas tessellation</h4>
+<h4>38. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation32.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/32A.png" class="foto" alt="On the Beach 2"></a>
  <br><b>description</b>: Alain Nicolas tessellation - On the beach 2
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>33. Alain Nicolas tessellation</h4>
+<h4>39. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation33.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/33A.png" class="foto" alt="Squirrel, Bird & Fish"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Squirrel, bird & fish
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: MMöbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron
  <br>
 <hr>
-<h4>34. Alain Nicolas tessellation</h4>
+<h4>40. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation34.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Squirrel, Bird & Fish"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Squirrel, bird & fish
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>35. Alain Nicolas tessellation</h4>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>41. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation35.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="On the Beach 1"></a>
  <br><b>description</b>: Alain Nicolas tessellation - On the beach 1
  <br><b>tessellation type</b>: triangular and quadrilateral
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron, rhombic dodecahedron
  <br>
 <hr>
-<h4>36. Francine Champagne tessellation</h4>
+<h4>42. Francine Champagne tessellation</h4>
 <a href="vr/Tessellation36.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Hummingbird tessellation in symmetry group P4m"></a>
  <br><b>description</b>: Work from 2014 - Hummingbird tessellation in symmetry group P4m
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>37. Alain Nicolas tessellation</h4>
+<h4>43. Alain Nicolas tessellation</h4>
 <a href="vr/Tessellation37.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="On the Beach 3"></a>
  <br><b>description</b>: Alain Nicolas tessellation - On the beach 3
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br>
 <hr>
-<h4>38. Massimo Rana tessellation</h4>
+<h4>44. Massimo Rana tessellation</h4>
 <a href="vr/Tessellation38.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="Massimo Rana tessellation"></a>
  <br><b>description</b>: Massimo Rana tessellation
  <br><b>tessellation type</b>: triangular
  <br><b>polyhedra</b>: icosahedron, great icosahedron, Escher solid, hexakis tetrahedron, snub disphenoid, Möbius deltahedron, octahedron, Möbius hexakis octahedron, pentakis dodecahedron
  <br>
 <hr>
-<h4>39. Massimo Rana tessellation</h4>
+<h4>45. Massimo Rana tessellation</h4>
 <a href="vr/Tessellation39.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="Massimo Rana tessellation"></a>
  <br><b>description</b>: Massimo Rana tessellation
  <br><b>tessellation type</b>: triangular

@@ -87,227 +87,270 @@ function urlHandler(value) {
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, triacontaedro rômbico, ortobicúpula quadrada, octaedro estrelado, tetraedro triakis
  <br>
 <hr>
-<h4>8. Tesselação de Alain Nicolas</h4>
+<h4>8. Tesselação de Francine Champagne</h4>
+<a href="../vr/Tessellation40.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Prissy Groovy e Cool"></a>
+ <br><b>descrição</b>: tesselação de Francine Champagne - Prissy Groovy e Cool
+ <br><b>tipo de tesselação</b>: triangular e quadrilateral
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis de Möbius, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, dodecaedro pentakis, octaedro triakis, icosaedro triakis
+ <br>
+<hr>
+<h4>9. Tesselação de Francine Champagne</h4>
+<a href="../vr/Tessellation41.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Prissy Groovy e Cool"></a>
+ <br><b>descrição</b>: tesselação de Francine Champagne - Prissy Groovy e Cool
+ <br><b>tipo de tesselação</b>: quadrilateral e triangular
+ <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, triacontaedro rômbico, ortobicúpula quadrada, octaedro estrelado, tetraedro triakis
+ <br>
+ <hr>
+<h4>10. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation8.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Na Praia 3"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Na praia 3
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal
  <br>
 <hr>
-<h4>9. Tesselação de Alain Nicolas</h4>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>11. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation9.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Na Praia 3"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Na praia 3
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis
  <br>
 <hr>
-<h4>10. Tesselação de Alain Nicolas</h4>
+<h4>12. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation10.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Mosaico de terra, ar e água"></a>
  <br><b>descrição</b>: Alain Nicolas tessellation - Mosaico de terra, ar e água
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis de Möbius, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, cuboctaedro, octaedro triakis, icosaedro triakis
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>11. Tesselação de Alain Nicolas</h4>
+<h4>13. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation11.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Mosaico de terra, ar e água"></a>
  <br><b>descrição</b>: Alain Nicolas tessellation - Mosaico de terra, ar e água
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, triacontaedro rômbico, ortobicúpula quadrada, tetraedro triakis
  <br>
 <hr>
-<h4>12. Tesselação de Alain Nicolas</h4>
+<h4>14. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation12.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Ar, terra e mar 1"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Ar, terra e mar 1
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal
  <br>
 <hr>
-<h4>13. Tesselação de Alain Nicolas</h4>
+<h4>15. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation13.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Ar, terra e mar 1"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Ar, terra e mar 1
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis
  <br>
 <hr>
-<h4>14. Tesselação de Alain Nicolas</h4>
+<h4>16. Tesselação de Francine Champagne</h4>
+<a href="../vr/Tessellation42.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="Três cães em busca da migalha"></a>
+ <br><b>descrição</b>: tesselação de Francine Champagne - Três cães em busca da migalha
+ <br><b>tipo de tesselação</b>: triangular e quadrilateral
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis de Möbius, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, dodecaedro pentakis, octaedro triakis, icosaedro triakis
+ <br>
+<hr>
+<h4>17. Tesselação de Francine Champagne</h4>
+<a href="../vr/Tessellation43.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/43A.png" class="foto" alt="Três cães em busca da migalha"></a>
+ <br><b>descrição</b>: tesselação de Francine Champagne - Três cães em busca da migalha
+ <br><b>tipo de tesselação</b>: quadrilateral e triangular
+ <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, triacontaedro rômbico, ortobicúpula quadrada, octaedro estrelado, tetraedro triakis
+ <br>
+ <hr>
+<h4>18. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation14.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Querubins e demônios"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Querubins e demônios
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
  <br><b>poliedros</b>: octaedro hexaédrico de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br><br><br>
 <hr>
-<h4>15. Tesselação de Alain Nicolas</h4>
+<h4>19. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation15.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Três chineses"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Três chineses
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakia, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis, dodecaedro rômbico
  <br>
 <hr>
-<h4>16. Tesselação de Alain Nicolas</h4>
+<h4>20. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation16.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="Pato 120&ordm;"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Pato 120&ordm;
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal
  <br>
 <hr>
-<h4>17. Tesselação de Alain Nicolas</h4>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>21. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation17.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Pato 120&ordm;"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Pato 120&ordm;
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis
  <br>
 <hr>
-<h4>18. Tesselação de Alain Nicolas</h4>
+<h4>22. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation18.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Rainha do fogo"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Rainha do fogo
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br>
 <hr>
-<h4>19. Tesselação de Alain Nicolas</h4>
+<h4>23. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation19.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Peixe real"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Peixe real
  <br><b>tipo de tesselação</b>: quadrilateral and triangular
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br>
 <hr>
-<h4>20. Tesselação de Alain Nicolas</h4>
+<h4>24. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation20.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Percevejo"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Percevejo
  <br><b>tipo de tesselação</b>: quadrilateral and triangular
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, deltaedro de Möbius, hexaedro tetrakis
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>21. Tesselação de Alain Nicolas</h4>
+<h4>25. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation21.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto" alt="Pequeno dragão"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Pequeno dragão
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal
  <br>
 <hr>
-<h4>22. Tesselação de Alain Nicolas</h4>
+<h4>26. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation22.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Pequeno dragão"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Pequeno dragão
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis
  <br>
+ <hr>
+<h4>27. Tesselação de Francine Champagne</h4>
+<a href="../vr/Tessellation44.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto" alt="Três patinhos de borracha"></a>
+ <br><b>descrição</b>: tesselação de Francine Champagne - Três patinhos de borracha
+ <br><b>tipo de tesselação</b>: triangular e quadrilateral
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis de Möbius, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, dodecaedro pentakis, octaedro triakis, icosaedro triakis
+ <br>
 <hr>
-<h4>23. Tesselação de Alain Nicolas</h4>
+<h4>28. Tesselação de Francine Champagne</h4>
+<a href="../vr/Tessellation45.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto" alt="Três patinhos de borracha"></a>
+ <br><b>descrição</b>: tesselação de Francine Champagne - Três patinhos de borracha
+ <br><b>tipo de tesselação</b>: quadrilateral e triangular
+ <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, triacontaedro rômbico, ortobicúpula quadrada, octaedro estrelado, tetraedro triakis
+ <br>
+<hr>
+<h4>29. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation23.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto" alt="Ar, terra e mar 2"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Ar, terra e mar 2
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal
  <br>
 <hr>
-<h4>24. Tesselação de Alain Nicolas</h4>
+<h4>30. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation24.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto" alt="Ar, terra e mar 2"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Ar, terra e mar 2
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis
  <br>
 <hr>
-<h4>25. Tesselação de Alain Nicolas</h4>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>31. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation25.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="9 narizes de lagartos"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - 9 narizes de lagartos
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal
  <br>
 <hr>
-<h4>26. Tesselação de Alain Nicolas</h4>
+<h4>32. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation26.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="9 narizes de lagartos"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - 9 narizes de lagartos
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis
  <br>
 <hr>
-<h4>27. Tesselação de Alain Nicolas</h4>
+<h4>33. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation27.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="Monstros"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Monstros
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, cuboctaedro
  <br>
 <hr>
-<h4>28. Tesselação de Alain Nicolas</h4>
+<h4>34. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation28.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Monstros"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Monstros
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis
  <br>
 <hr>
-<h4>29. Tesselação de Alain Nicolas</h4>
+<h4>35. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation29.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Panda, morcego e peixe"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Panda, morcego e peixe
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal
  <br>
 <hr>
-<h4>30. Tesselação de Alain Nicolas</h4>
+<h4>36. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation30.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Panda, morcego e peixe"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Panda, morcego e peixe
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>31. Tesselação de Alain Nicolas</h4>
+<h4>37. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation31.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Na praia 2"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Na praia 2
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal
  <br>
 <hr>
-<h4>32. Tesselação de Alain Nicolas</h4>
+<h4>38. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation32.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto" alt="Na praia 2"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Na praia 2
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis
  <br>
 <hr>
-<h4>33. Tesselação de Alain Nicolas</h4>
+<h4>39. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation33.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/33A.png" class="foto" alt="Esquilo, pássaro e peixe"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Esquilo, pássaro e peixe
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal
  <br>
 <hr>
-<h4>34. Tesselação de Alain Nicolas</h4>
+<h4>40. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation34.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Esquilo, pássaro e peixe"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Esquilo, pássaro e peixe
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis
  <br>
 <hr>
-<h4>35. Tesselação de Alain Nicolas</h4>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>41. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation35.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="Na praia 1"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Na praia 1
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis, dodecaedro rômbico
  <br>
 <hr>
-<h4>36. Tesselação de Francine Champagne</h4>
+<h4>42. Tesselação de Francine Champagne</h4>
 <a href="../vr/Tessellation36.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="Tesselação de beija-flor no grupo de simetria P4m"></a>
  <br><b>descrição</b>: Obra de 2014 - Tesselação de beija-flor no grupo de simetria P4m
  <br><b>tipo de tesselação</b>: triangular
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br>
 <hr>
-<h4>37. Tesselação de Alain Nicolas</h4>
+<h4>43. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation37.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Na praia 3"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Na praia 3
  <br><b>tipo de tesselação</b>: triangular
  <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br>
 <hr>
-<h4>38. Tesselação de Massimo Rana</h4>
+<h4>44. Tesselação de Massimo Rana</h4>
 <a href="../vr/Tessellation38.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="Tesselação de Massimo Rana"></a>
  <br><b>descrição</b>: Tesselação de Massimo Rana
  <br><b>tipo de tesselação</b>: triangular
  <br><b>poliedros</b>: icosaedro, grande icosaedro, sólido de Escher, tetraedro hexakis, disfenóide snub, deltaedro de Möbius, octaedro, octaedro hexakis de Möbius, dodecaedro pentakis
  <br>
 <hr>
-<h4>39. Tesselação de  Massimo Rana</h4>
+<h4>45. Tesselação de  Massimo Rana</h4>
 <a href="../vr/Tessellation39.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Tesselação de Massimo Rana"></a>
  <br><b>descrição</b>: Tesselação de Massimo Rana
  <br><b>tipo de tesselação</b>: triangular

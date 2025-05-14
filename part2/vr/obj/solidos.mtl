@@ -1,5 +1,38 @@
 ## Alias MTL Material File
 
+newmtl Cor1n
+illum 10
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+Ke 0 0 0
+Ns 55
+map_Kd imagens/84PrissyGroovyandCool.PNG
+Ni 2.5
+d 1
+
+newmtl Cor2n
+illum 10
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+Ke 0 0 0
+Ns 55
+map_Kd imagens/178ThreeDogsSearchingfortheCrumb.PNG
+Ni 2.5
+d 1
+
+newmtl Cor3n
+illum 10
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+Ke 0 0 0
+Ns 55
+map_Kd imagens/209ThreeRubberDuckies.PNG
+Ni 2.5
+d 1
+
 newmtl Cor1
 illum 10
 Ka 0.5 0.5 0.5
