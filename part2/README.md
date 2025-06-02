@@ -206,7 +206,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation20.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Heartbug"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Heartbug
  <br><b>tessellation type</b>: quadrilateral and triangular
- <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, Möbius deltahedron, tetrakis hexahedron
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, octahedron, Möbius deltahedron, Möbius octakis hexahedron, tetrakis hexahedron
  <br>
 <hr>
 <h4>25. Alain Nicolas tessellation</h4>
@@ -312,7 +312,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation33.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/33A.png" class="foto" alt="Squirrel, Bird & Fish"></a>
  <br><b>description</b>: Alain Nicolas tessellation - Squirrel, bird & fish
  <br><b>tessellation type</b>: triangular and quadrilateral
- <br><b>polyhedra</b>: MMöbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron
  <br>
 <hr>
 <h4>40. Alain Nicolas tessellation</h4>

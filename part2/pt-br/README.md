@@ -205,7 +205,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation20.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Percevejo"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Percevejo
  <br><b>tipo de tesselação</b>: quadrilateral and triangular
- <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, deltaedro de Möbius, hexaedro tetrakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis
  <br>
 <hr>
 <h4>25. Tesselação de Alain Nicolas</h4>
