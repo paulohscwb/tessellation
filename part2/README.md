@@ -38,7 +38,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <p align="center"><img src="vr/salas/videos/tess1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de tesselação"/><img src="vr/salas/videos/tess2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de tesselação"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxVEvPQGN_8Y86B_opMhsoQ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWaYGTOc9cCw0xOPHUW1yFS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Francine Champagne tessellation</h4>
 <a href="vr/Tessellation1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Eck Master Lai Tsi from Ancient China"></a>
  <br><b>description</b>: Francine Champagne tessellation 2019 - Eck Master Lai Tsi from ancient China
