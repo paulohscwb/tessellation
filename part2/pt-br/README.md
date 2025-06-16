@@ -77,7 +77,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation6.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Tesselação de Barb Widen"></a>
  <br><b>descrição</b>: Tesselação de Barb Widen
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
- <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis de Möbius, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, cuboctaedro, octaedro triakis, icosaedro triakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, cuboctaedro, octaedro triakis, icosaedro triakis
  <br>
 <hr>
 <h4>7. Tesselação de Barb Widen</h4>
@@ -91,7 +91,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation40.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Prissy Groovy e Cool"></a>
  <br><b>descrição</b>: tesselação de Francine Champagne - Prissy Groovy e Cool
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
- <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis de Möbius, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, dodecaedro pentakis, octaedro triakis, icosaedro triakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, dodecaedro pentakis, octaedro triakis, icosaedro triakis
  <br>
 <hr>
 <h4>9. Tesselação de Francine Champagne</h4>
@@ -118,14 +118,14 @@ function urlHandler(value) {
 <hr>
 <h4>12. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation10.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Mosaico de terra, ar e água"></a>
- <br><b>descrição</b>: Alain Nicolas tessellation - Mosaico de terra, ar e água
+ <br><b>descrição</b>: Tesselação de Alain Nicolas - Mosaico de terra, ar e água
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
- <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis de Möbius, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, cuboctaedro, octaedro triakis, icosaedro triakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, cuboctaedro, octaedro triakis, icosaedro triakis
  <br>
 <hr>
 <h4>13. Tesselação de Alain Nicolas</h4>
 <a href="../vr/Tessellation11.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Mosaico de terra, ar e água"></a>
- <br><b>descrição</b>: Alain Nicolas tessellation - Mosaico de terra, ar e água
+ <br><b>descrição</b>: Tesselação de Alain Nicolas - Mosaico de terra, ar e água
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, triacontaedro rômbico, ortobicúpula quadrada, tetraedro triakis
  <br>
@@ -148,7 +148,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation42.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="Três cães em busca da migalha"></a>
  <br><b>descrição</b>: tesselação de Francine Champagne - Três cães em busca da migalha
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
- <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis de Möbius, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, dodecaedro pentakis, octaedro triakis, icosaedro triakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, dodecaedro pentakis, octaedro triakis, icosaedro triakis
  <br>
 <hr>
 <h4>17. Tesselação de Francine Champagne</h4>
@@ -226,7 +226,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation44.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto" alt="Três patinhos de borracha"></a>
  <br><b>descrição</b>: tesselação de Francine Champagne - Três patinhos de borracha
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
- <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis de Möbius, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, dodecaedro pentakis, octaedro triakis, icosaedro triakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, dodecaedro pentakis, octaedro triakis, icosaedro triakis
  <br>
 <hr>
 <h4>28. Tesselação de Francine Champagne</h4>
