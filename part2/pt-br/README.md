@@ -169,7 +169,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation15.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Três chineses"></a>
  <br><b>descrição</b>: Tesselação de Alain Nicolas - Três chineses
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
- <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakia, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis, dodecaedro rômbico
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro tetrakis, dodecaedro rômbico
  <br>
 <hr>
 <h4>20. Tesselação de Alain Nicolas</h4>
