@@ -288,7 +288,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br>
 <hr>
 <h4>36. Igor Golieniev tessellation</h4>
-<a href="vr/Tessellationa16a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Igor Golieniev tessellation"></a>
+<a href="vr/Tessellation16a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Igor Golieniev tessellation"></a>
  <br><b>description</b>: Igor Golieniev tessellation
  <br><b>tessellation type</b>: pentagonal
  <br><b>polyhedra</b>: Pentagonal icositetrahedron, Tetartoid, Pentagonal hexecontahedron, Dodecahedron, Great Dodecahedron, Small Stellated Dodecahedron, Great Stellated Dodecahedron, Small Ditrigonal Icosidodecahedron, Ditrigonal Dodecadodecahedron, Snub Icosidodecadodecahedron, Great Ditrigonal Dodecicosidodecahedron
