@@ -10,9 +10,9 @@
 		<option disabled selected>Mais sólidos:</option>
 		<option value="../../escher/pt-br/">Obras de Escher</option>
 		<option disabled value="../../part2/pt-br/">Tesselações 2</option>
-		<!--<option value="../../part3/pt-br/">Tesselações 3</option>
+		<option value="../../part3/pt-br/">Tesselações 3</option>
 		<option value="../../part4/pt-br/">Tesselações 4</option>
-		<option value="../../part5/pt-br/">Tesselações 5</option>
+		<!--<option value="../../part5/pt-br/">Tesselações 5</option>
 		<option value="../../part6/pt-br/">Tesselações 6</option>
 		<option value="../../part7/pt-br/">Tesselações 7</option>
 		<option value="../../part8/pt-br/">Tesselações 8</option>

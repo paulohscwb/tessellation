@@ -10,9 +10,9 @@
 		<option disabled selected value>More solids:</option>
 		<option disabled value="../escher/">Escher's Works</option>
 		<option value="../part2/">Tessellation 2</option>
-		<!--<option value="../part3/">Tessellation 3</option>
+		<option value="../part3/">Tessellation 3</option>
 		<option value="../part4/">Tessellation 4</option>
-		<option value="../part5/">Tessellation 5</option>
+		<!--<option value="../part5/">Tessellation 5</option>
 		<option value="../part6/">Tessellation 6</option>
 		<option value="../part7/">Tessellation 7</option>
 		<option value="../part8/">Tessellation 8</option>
