@@ -32,7 +32,7 @@ function urlHandler(value) {
 The figures or works that are chosen as tesserae cover or pave the plane or a surface. The result is called tessellation, tiling, paving or mosaic. 
 Tessellations have been used since ancient times in floors, walls, carpets and other objects.
 <br>This work shows the tessellations made on all or some faces of polyhedrons, taking advantage of triangular, square, pentagonal or hexagonal symmetries of the faces of these solids.
-<br>On this page, we have some tessellation works by Francine Champagne, Velirina, Vibali, Eye-Psy, Igor Golieniev, GDJ, Misbah Rani and Gordon Dylan Johnson, inserted into the faces of common polyhedrons, such as the Platonic tetrahedron, cube or icosahedron, as well as rarer polyhedrons, such as the Johnson solids.
+<br>On this page, we have some tessellation works by Francine Champagne, Velirina, Vibali, Eye-Psy, Igor Golieniev, GDJ and Gordon Dylan Johnson, inserted into the faces of common polyhedrons, such as the Platonic tetrahedron, cube or icosahedron, as well as rarer polyhedrons, such as the Johnson solids.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
  <p align="center"><img src="vr/salas/videos/tess1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de tesselação"/><img src="vr/salas/videos/tess2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de tesselação"/></p> 

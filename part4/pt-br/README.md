@@ -31,7 +31,7 @@ function urlHandler(value) {
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Tesselações - parte 4</h2>
   As figuras ou obras que são escolhidas como tesselas cobrem ou pavimentam o plano ou uma superfície. O resultado é chamado de tesselação, ladrilho, pavimentação ou mosaico. As tesselações são usadas desde a antiguidade em pisos, paredes tapetes e outros objetos. 
 <br>Este trabalho mostra as tesselações feitas em todas ou algumas faces de poliedros, aproveitando simetrias triangulares, quadradas, pentagonais ou hexagonais das faces destes sólidos. 
-<br>Nesta página, temos algumas obras de tesselações de Francine Champagne, Velirina, Vibali, Eye-Psy, Igor Golieniev, GDJ, Misbah Rani e Gordon Dylan Johnson, inseridas nas faces de poliedros comuns, como os platônicos tetraedro, cubo ou icosaedro, além de poliedros mais raros, como os sólidos de Johnson.
+<br>Nesta página, temos algumas obras de tesselações de Francine Champagne, Velirina, Vibali, Eye-Psy, Igor Golieniev, GDJ e Gordon Dylan Johnson, inseridas nas faces de poliedros comuns, como os platônicos tetraedro, cubo ou icosaedro, além de poliedros mais raros, como os sólidos de Johnson.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
   <p align="center"><img src="../vr/salas/videos/tess1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive solid"/><img src="../vr/salas/videos/tess2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive solid"/></p> 
@@ -39,14 +39,14 @@ function urlHandler(value) {
 <h3 id="m3d" align="center">Modelos 3D</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWaYGTOc9cCw0xOPHUW1yFS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Tesselação de Velirina</h4>
-<a href="../vr/Tessellation1a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Limite do círculo"></a>
+<a href="../vr/Tessellation1a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Tesselação de Velirina"></a>
  <br><b>descrição</b>: tesselação de Vladimir Bulatov - Limite do círculo
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexaédrico de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, icosaedro triakis
  <br>
 <hr>
 <h4>2. Tesselação de Velirina</h4>
-<a href="../vr/Tessellation1b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Limite do círculo"></a>
+<a href="../vr/Tessellation1b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Tesselação de Velirina"></a>
  <br><b>descrição</b>: tesselação de Velirina
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, triacontaedro rômbico, dipirâmide pentagonal, hexecontaedro deltoidal medial, pequeno hexecontaedro icosacrônico, grande triacontaedro rômbico, octaedro triakis
