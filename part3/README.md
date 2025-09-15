@@ -50,7 +50,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/CircleLimit2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Circle Limit"></a>
  <br><b>description</b>: Vladimir Bulatov tessellation - Circle limit
  <br><b>tessellation type</b>: triangular and quadrilateral
- <br><b>polyhedra</b>: Rhombic dodecahedron, Möbius 10-akis dodecahedron, Rhombic hexecontahedron, Möbius hexakis icosahedron, Octahedron, Tetrakis hexahedron, Rhombic triacontahedron, Pentagonal dipyramid, Medial Deltoidal Hexecontahedron, Triakis tetrahedron, Triakis Octahedron, Triakis Icosahedron
+ <br><b>polyhedra</b>: Rhombic dodecahedron, Möbius 10-akis dodecahedron, Möbius hexakis icosahedron, Octahedron, Tetrakis hexahedron, Pentagonal dipyramid, Medial Deltoidal Hexecontahedron, Triakis tetrahedron, Triakis Octahedron, Triakis Icosahedron
  <br>
 <hr>
 <h4>3. Vladimir Bulatov tessellation</h4>

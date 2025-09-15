@@ -49,7 +49,7 @@ function urlHandler(value) {
 <a href="../vr/CircleLimit2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Limite do círculo"></a>
  <br><b>descrição</b>: tesselação de Vladimir Bulatov - Limite do círculo
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
- <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, Triacontaedro Rômbico, Dipirâmide Pentagonal, Hexecontahedron Deltoidal Medial, Tetraedro Triakis, Octaedro Triakis, Icosaedro Triakis
+ <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, Dipirâmide Pentagonal, Hexecontahedron Deltoidal Medial, Tetraedro Triakis, Octaedro Triakis, Icosaedro Triakis
  <br>
 <hr>
 <h4>3. Tesselação de Vladimir Bulatov</h4>
