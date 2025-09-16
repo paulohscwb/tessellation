@@ -32,7 +32,7 @@ function urlHandler(value) {
 The figures or works that are chosen as tesserae cover or pave the plane or a surface. The result is called tessellation, tiling, paving or mosaic. 
 Tessellations have been used since ancient times in floors, walls, carpets and other objects.
 <br>This work shows the tessellations made on all or some faces of polyhedrons, taking advantage of triangular, square, pentagonal or hexagonal symmetries of the faces of these solids.
-<br>On this page, we have some tessellation works by Francine Champagne, Velirina, Vibali, Eye-Psy, Igor Golieniev, Goshashka and Gordon Dylan Johnson, inserted into the faces of common polyhedrons, such as the Platonic tetrahedron, cube or icosahedron, as well as rarer polyhedrons, such as the Johnson solids.
+<br>On this page, we have some tessellation works by Francine Champagne, Velirina, Vibali, Eye-Psy, Goshashka and Gordon Dylan Johnson, inserted into the faces of common polyhedrons, such as the Platonic tetrahedron, cube or icosahedron, as well as rarer polyhedrons, such as the Johnson solids.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
  <p align="center"><img src="vr/salas/videos/tess1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de tesselação"/><img src="vr/salas/videos/tess2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de tesselação"/></p> 
@@ -110,16 +110,16 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>11. Igor Golieniev tessellation</h4>
-<a href="vr/Tessellation5a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Igor Golieniev tessellation"></a>
- <br><b>description</b>: Igor Golieniev tessellation
+<h4>11. Goshashka tessellation</h4>
+<a href="vr/Tessellation5a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Goshashka tessellation"></a>
+ <br><b>description</b>: Goshashka tessellation
  <br><b>tessellation type</b>: pentagonal
  <br><b>polyhedra</b>: Pentagonal icositetrahedron, Tetartoid, Pentagonal hexecontahedron, Dodecahedron, Great Dodecahedron, Small Stellated Dodecahedron, Great Stellated Dodecahedron, Small Ditrigonal Icosidodecahedron, Ditrigonal Dodecadodecahedron, Snub Icosidodecadodecahedron, Great Ditrigonal Dodecicosidodecahedron
  <br>
 <hr>
-<h4>12. Igor Golieniev tessellation</h4>
-<a href="vr/Tessellation5b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Igor Golieniev tessellation"></a>
- <br><b>description</b>: Igor Golieniev tessellation
+<h4>12. Goshashka tessellation</h4>
+<a href="vr/Tessellation5b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Goshashka tessellation"></a>
+ <br><b>description</b>: Goshashka tessellation
  <br><b>tessellation type</b>: pentagonal
  <br><b>polyhedra</b>: Snub Dodecadodecahedron, Medial Pentagonal Hexecontahedron, Dodecadodecahedron, Great Ditrigonal Icosidodecahedron, Great Icosidodecahedron, Icosidodecadodecahedron, Inverted Snub Dodecadodecahedron, Great Pentagonal Hexecontahedron, Great Inverted Pentagonal Hexecontahedron
  <br>
@@ -152,16 +152,16 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, Hexakis tetrahedron, Möbius hexakis icosahedron, Octahedron, Möbius deltahedron, Möbius octakis hexahedron, Tetrakis hexahedron, pentagonal dipyramid, Icosahedron, Pentakis dodecahedron
  <br>
 <hr>
-<h4>17. Igor Golieniev tessellation</h4>
-<a href="vr/Tessellation9a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Igor Golieniev tessellation"></a>
- <br><b>description</b>: Igor Golieniev tessellation
+<h4>17. Goshashka tessellation</h4>
+<a href="vr/Tessellation9a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Goshashka tessellation"></a>
+ <br><b>description</b>: Goshashka tessellation
  <br><b>tessellation type</b>: pentagonal
  <br><b>polyhedra</b>: Pentagonal icositetrahedron, Tetartoid, Pentagonal hexecontahedron, Dodecahedron, Great Dodecahedron, Small Stellated Dodecahedron, Great Stellated Dodecahedron, Small Ditrigonal Icosidodecahedron, Ditrigonal Dodecadodecahedron, Snub Icosidodecadodecahedron, Great Ditrigonal Dodecicosidodecahedron
  <br>
 <hr>
-<h4>18. Igor Golieniev tessellation</h4>
-<a href="vr/Tessellation9b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Igor Golieniev tessellation"></a>
- <br><b>description</b>: Igor Golieniev tessellation
+<h4>18. Goshashka tessellation</h4>
+<a href="vr/Tessellation9b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Goshashka tessellation"></a>
+ <br><b>description</b>: Goshashka tessellation
  <br><b>tessellation type</b>: pentagonal
  <br><b>polyhedra</b>: Snub Dodecadodecahedron, Medial Pentagonal Hexecontahedron, Dodecadodecahedron, Great Ditrigonal Icosidodecahedron, Great Icosidodecahedron, Icosidodecadodecahedron, Inverted Snub Dodecadodecahedron, Great Pentagonal Hexecontahedron, Great Inverted Pentagonal Hexecontahedron
  <br>
@@ -195,16 +195,16 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>polyhedra</b>: Snub Dodecadodecahedron, Medial Pentagonal Hexecontahedron, Dodecadodecahedron, Great Ditrigonal Icosidodecahedron, Great Icosidodecahedron, Icosidodecadodecahedron, Inverted Snub Dodecadodecahedron, Great Pentagonal Hexecontahedron, Great Inverted Pentagonal Hexecontahedron
  <br>
 <hr>
-<h4>23. Igor Golieniev tessellation</h4>
-<a href="vr/Tessellation12a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Igor Golieniev tessellation"></a>
- <br><b>description</b>: Igor Golieniev tessellation
+<h4>23. Goshashka tessellation</h4>
+<a href="vr/Tessellation12a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Goshashka tessellation"></a>
+ <br><b>description</b>: Goshashka tessellation
  <br><b>tessellation type</b>: pentagonal
  <br><b>polyhedra</b>: Pentagonal icositetrahedron, Tetartoid, Pentagonal hexecontahedron, Dodecahedron, Great Dodecahedron, Small Stellated Dodecahedron, Great Stellated Dodecahedron, Small Ditrigonal Icosidodecahedron, Ditrigonal Dodecadodecahedron, Snub Icosidodecadodecahedron, Great Ditrigonal Dodecicosidodecahedron
  <br>
 <hr>
-<h4>24. Igor Golieniev tessellation</h4>
-<a href="vr/Tessellation12b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Igor Golieniev tessellation"></a>
- <br><b>description</b>: Igor Golieniev tessellation
+<h4>24. Goshashka tessellation</h4>
+<a href="vr/Tessellation12b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Goshashka tessellation"></a>
+ <br><b>description</b>: Goshashka tessellation
  <br><b>tessellation type</b>: pentagonal
  <br><b>polyhedra</b>: Snub Dodecadodecahedron, Medial Pentagonal Hexecontahedron, Dodecadodecahedron, Great Ditrigonal Icosidodecahedron, Great Icosidodecahedron, Icosidodecadodecahedron, Inverted Snub Dodecadodecahedron, Great Pentagonal Hexecontahedron, Great Inverted Pentagonal Hexecontahedrononal Dodecadodecahedron, Snub Icosidodecadodecahedron, Great Ditrigonal Dodecicosidodecahedron
  <br>
