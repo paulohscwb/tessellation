@@ -31,7 +31,7 @@ function urlHandler(value) {
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Tesselações - parte 4</h2>
   As figuras ou obras que são escolhidas como tesselas cobrem ou pavimentam o plano ou uma superfície. O resultado é chamado de tesselação, ladrilho, pavimentação ou mosaico. As tesselações são usadas desde a antiguidade em pisos, paredes tapetes e outros objetos. 
 <br>Este trabalho mostra as tesselações feitas em todas ou algumas faces de poliedros, aproveitando simetrias triangulares, quadradas, pentagonais ou hexagonais das faces destes sólidos. 
-<br>Nesta página, temos algumas obras de tesselações de Francine Champagne, Velirina, Vibali, Eye-Psy, Igor Golieniev, GDJ e Gordon Dylan Johnson, inseridas nas faces de poliedros comuns, como os platônicos tetraedro, cubo ou icosaedro, além de poliedros mais raros, como os sólidos de Johnson.
+<br>Nesta página, temos algumas obras de tesselações de Francine Champagne, Velirina, Vibali, Eye-Psy, Igor Golieniev, Goshashka e Gordon Dylan Johnson, inseridas nas faces de poliedros comuns, como os platônicos tetraedro, cubo ou icosaedro, além de poliedros mais raros, como os sólidos de Johnson.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
   <p align="center"><img src="../vr/salas/videos/tess1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive solid"/><img src="../vr/salas/videos/tess2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive solid"/></p> 
@@ -52,16 +52,16 @@ function urlHandler(value) {
  <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, triacontaedro rômbico, dipirâmide pentagonal, hexecontaedro deltoidal medial, pequeno hexecontaedro icosacrônico, grande triacontaedro rômbico, octaedro triakis
  <br>
 <hr>
-<h4>3. Tesselação de GDJ</h4>
-<a href="../vr/Tessellation2a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Tesselação de GDJ"></a>
- <br><b>descrição</b>: Tesselação de GDJ
+<h4>3. Tesselação de Gordon Dylan Johnson</h4>
+<a href="../vr/Tessellation2a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Tesselação de Gordon Dylan Johnson"></a>
+ <br><b>descrição</b>: Tesselação de Gordon Dylan Johnson
  <br><b>tipo de tesselação</b>: pentagonal
  <br><b>poliedros</b>: Icositetraedro Pentagonal, Tetartoide, Hexecontaedro Pentagonal, Dodecaedro, Grande Dodecaedro, Pequeno Dodecaedro Estrelado, Grande Dodecaedro Estrelado, Pequeno Icosidodecaedro Ditrigonal, Dodecadodecaedro Ditrigonal, Icosidodecadodecaedro Snub, Grande Dodecicosidodecaedro Ditrigonal 
  <br>
 <hr>
-<h4>4. Tesselação de GDJ</h4>
-<a href="../vr/Tessellation2b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="Tesselação de GDJ"></a>
- <br><b>descrição</b>: Tesselação de GDJ
+<h4>4. Tesselação de Gordon Dylan Johnson</h4>
+<a href="../vr/Tessellation2b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="Tesselação de Gordon Dylan Johnson"></a>
+ <br><b>descrição</b>: Tesselação de Gordon Dylan Johnson
  <br><b>tipo de tesselação</b>: pentagonal
  <br><b>poliedros</b>: Dodecadodecaedro Snub, Hexecontaedro Medial Pentagonal, Dodecadodecaedro, Grande Icosidodecaedro Ditrigonal, Grande Icosidodecaedro, Icosidodecadodecaedro, Dodecadodecaedro Snub Invertido, Grande Hexecontaedro Pentagonal, Grande Hexecontaedro Pentagonal Invertido 
  <br>
@@ -229,16 +229,16 @@ function urlHandler(value) {
  <br><b>poliedros</b>: Rombidodecadodecaedro, Pequeno Hexecontaedro Dodecacrônico, Grande Hexecontaedro Icosacrônico, Octaedro Estrelado, Dodecadodecaedro Truncado, Grande Rombihexaedro, Pequeno Hexecontaedro Icosacrônico, Grande Rombidodecaedro, Grande Icosidodecaedro Truncado
  <br>
 <hr>
-<h4>28. Tesselação de Igor Golieniev</h4>
-<a href="../vr/Tessellation14a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Tesselação de Igor Golieniev"></a>
- <br><b>descrição</b>: Tesselação de Igor Golieniev
+<h4>28. Tesselação de Goshashka</h4>
+<a href="../vr/Tessellation14a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Tesselação de Goshashka"></a>
+ <br><b>descrição</b>: Tesselação de Goshashka
  <br><b>tipo de tesselação</b>: pentagonal
  <br><b>poliedros</b>: Icositetraedro Pentagonal, Tetartoide, Hexecontaedro Pentagonal, Dodecaedro, Grande Dodecaedro, Pequeno Dodecaedro Estrelado, Grande Dodecaedro Estrelado, Pequeno Icosidodecaedro Ditrigonal, Dodecadodecaedro Ditrigonal, Icosidodecadodecaedro Snub, Grande Dodecicosidodecaedro Ditrigonal 
  <br>
 <hr>
-<h4>29. Tesselação de Igor Golieniev</h4>
-<a href="../vr/Tessellation14b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Tesselação de Igor Golieniev"></a>
- <br><b>descrição</b>: Tesselação de Igor Golieniev
+<h4>29. Tesselação de Goshashka</h4>
+<a href="../vr/Tessellation14b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Tesselação de Goshashka"></a>
+ <br><b>descrição</b>: Tesselação de Goshashka
  <br><b>tipo de tesselação</b>: pentagonal
  <br><b>poliedros</b>: Dodecadodecaedro Snub, Hexecontaedro Medial Pentagonal, Dodecadodecaedro, Grande Icosidodecaedro Ditrigonal, Grande Icosidodecaedro, Icosidodecadodecaedro, Dodecadodecaedro Snub Invertido, Grande Hexecontaedro Pentagonal, Grande Hexecontaedro Pentagonal Invertido
  <br>
