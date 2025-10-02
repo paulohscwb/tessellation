@@ -5,8 +5,10 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/tessellation/">english version</a>
-<br><br>A Tesselação, também chamada de mosaico ou recobrimento do plano, é uma forma de cobrir um plano ou superfície com um padrão de figuras. As figuras não podem ser sobrepostas e não podem existir espaços vazios entre elas. 
-<br>Este trabalho mostra as tesselações aplicadas nas faces de poliedros, com as visualizações que podem ser acessadas com os recursos de Realidade Virtual.
+<div><img align="right" src="../imagens/qr.png"/>
+<br><br>A Tesselação, também chamada de mosaico ou recobrimento do plano, é uma forma de cobrir um plano ou superfície com um padrão de figuras. 
+<br>As figuras não podem ser sobrepostas e não podem existir espaços vazios entre elas. 
+<br>Este trabalho mostra as tesselações aplicadas nas faces de poliedros, com as visualizações que podem ser acessadas com os recursos de Realidade Virtual.</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="../escher/pt-br/"><img src="../escher/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Obras de Escher</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../part2/pt-br/"><img src="../part2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 2</a></h3>

@@ -162,7 +162,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation7a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Tesselação de Velirina"></a>
  <br><b>descrição</b>: Tesselação de Velirina
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
- <br><b>poliedros</b>: octaedro hexaédrico de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, icosaedro triakis 
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, icosaedro triakis 
  <br><br><br>
 <hr>
 <h4>19. Tesselação de Velirina</h4>
@@ -191,7 +191,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation9a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Tesselação de Velirina"></a>
  <br><b>descrição</b>: Tesselação de Velirina
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
- <br><b>poliedros</b>: octaedro hexaédrico de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, hexecontaedro deltoidal medial, pequeno hexecontaedro icosacrônico, grande triacontaedro rômbico, icosaedro triakis 
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, hexecontaedro deltoidal medial, pequeno hexecontaedro icosacrônico, grande triacontaedro rômbico, icosaedro triakis 
  <br>
 <hr>
 <h4>23. Tesselação de Velirina</h4>
@@ -219,7 +219,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation11a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="tesselação de Velirina"></a>
  <br><b>descrição</b>: Tesselação de Velirina
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
- <br><b>poliedros</b>: octaedro hexaédrico de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, icosaedro triakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, icosaedro triakis
  <br>
  <hr>
 <h4>27. Tesselação de Velirina</h4>
@@ -247,7 +247,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation13a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Tesselação de Velirina"></a>
  <br><b>descrição</b>: Tesselação de Velirina
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
- <br><b>poliedros</b>: octaedro hexaédrico de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, icosaedro triakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, icosaedro triakis
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
@@ -276,7 +276,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation15a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Tesselação de Velirina"></a>
  <br><b>descrição</b>: Tesselação de Velirina
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
- <br><b>poliedros</b>: octaedro hexaédrico de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, icosaedro triakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, icosaedro triakis
  <br>
 <hr>
 <h4>35. Tesselação de Velirina</h4>

@@ -5,8 +5,10 @@
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/tessellation/pt-br/">versão em português</a>
- <br><br>Tessellation, also called mosaic or plane covering, is a way of covering a plane or surface with a pattern of figures. The figures cannot be superimposed and there cannot be empty spaces between them.
-<br>This work shows the tessellations applied to the faces of polyhedra, with views that can be accessed with Virtual Reality resources.
+ <div><img align="right" src="imagens/qr.png"/>
+ <br><br>Tessellation, also called mosaic or plane covering, is a way of covering a plane or surface with a pattern of figures. 
+ <br>The figures cannot be superimposed and there cannot be empty spaces between them.
+<br>This work shows the tessellations applied to the faces of polyhedra, with views that can be accessed with Virtual Reality resources.</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="escher/"><img src="escher/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Escher's Works</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="part2/"><img src="part2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 2</a></h3>
