@@ -37,7 +37,7 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/tess1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive solid"/><img src="../vr/salas/videos/tess2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive solid"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWaYGTOc9cCw0xOPHUW1yFS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWK3oPdLP9VZL_9YbhXjBee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Tesselação de Vladimir Bulatov</h4>
 <a href="../vr/CircleLimit1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Limite do círculo"></a>
  <br><b>descrição</b>: tesselação de Vladimir Bulatov - Limite do círculo
@@ -98,7 +98,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation3b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="tesselação de Misbah Rani"></a>
  <br><b>descrição</b>: tesselação de Misbah Rani
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
- <br><b>poliedros</b>: Grande Triacontaedro Rômbico, Tetraedro Hexakis, Hexecontaedro Icosacrônico Medial, Hexecontaedro Icosacrônico Medial, Triacontaedro Rômbico Medial, Dipirâmide Pentagonal, Rombidodecadodecaedro, Pequeno Hexecontaedro Dodecacrônico
+ <br><b>poliedros</b>: Grande Triacontaedro Rômbico, Tetraedro Hexakis, Hexecontaedro Deltoidal Medial, Hexecontaedro Icosacrônico Medial, Triacontaedro Rômbico Medial, Dipirâmide Pentagonal, Rombidodecadodecaedro, Pequeno Hexecontaedro Dodecacrônico
  <br>
  <hr>
 <h4>10. Tesselação de Misbah Rani</h4>
