@@ -86,7 +86,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br>
 <hr>
 <h4>10. Pentagonal Dypiramid</h4>
-<a href="vr/Pentagonal Dypiramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="PentagonalDypiramid"></a>
+<a href="vr/PentagonalDypiramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Pentagonal Dypiramid"></a>
  <br><b>tessellation type</b>: triangular
  <br>
 <hr>
