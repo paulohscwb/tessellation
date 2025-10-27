@@ -12,6 +12,7 @@
 		<option value="../part2/">Tessellation 2</option>
 		<option value="../part3/">Tessellation 3</option>
 		<option disabled value="../part4/">Tessellation 4</option>
+		<option value="../spiderweb/">Spider web</option>
 		<!--<option value="../part5/">Tessellation 5</option>
 		<option value="../part6/">Tessellation 6</option>
 		<option value="../part7/">Tessellation 7</option>
@@ -67,7 +68,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>polyhedra</b>: Snub Dodecadodecahedron, Medial Pentagonal Hexecontahedron, Dodecadodecahedron, Great Ditrigonal Icosidodecahedron, Great Icosidodecahedron, Icosidodecadodecahedron, Inverted Snub Dodecadodecahedron, Great Pentagonal Hexecontahedron, Great Inverted Pentagonal Hexecontahedron
  <br>
 <hr>
-<h4>5. Square and triangle tessellationn</h4>
+<h4>5. Square and triangle tessellation</h4>
 <a href="vr/Tessellation3a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Square and triangle tessellation"></a>
  <br><b>description</b>: Square and triangle tessellation
  <br><b>tessellation type</b>: triangular and quadrilateral
