@@ -152,6 +152,46 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>tessellation type</b>: hexagonal
  <br>
 <hr>
+<h4>23. Ditrigonal Dodecadodecahedron</h4>
+<a href="vr/DitrigonalDodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Ditrigonal Dodecadodecahedron"></a>
+ <br><b>tessellation type</b>: pentagonal
+ <br>
+<hr>
+<h4>24. Great Ditrigonal Dodecicosidodecahedron</h4>
+<a href="vr/GreatDitrigonalDodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Great Ditrigonal Dodecicosidodecahedron"></a>
+ <br><b>tessellation type</b>: pentagonal
+ <br>
+<hr>
+<h4>25. Great Dodecicosahedron</h4>
+<a href="vr/GreatDodecicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto" alt="Great Dodecicosahedron"></a>
+ <br><b>tessellation type</b>: hexagonal
+ <br>
+<hr>
+<h4>26. Great Truncated Icosidodecahedron</h4>
+<a href="vr/GreatTruncatedIcosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Great Truncated Icosidodecahedron"></a>
+ <br><b>tessellation type</b>: hexagonal
+ <br>
+<hr>
+<h4>27. Small Ditrigonal Dodecicosidodecahedron</h4>
+<a href="vr/SmallDitrigonalDodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/27A.png" class="foto" alt="Truncated Tetrahedron"></a>
+ <br><b>tessellation type</b>: decagonal
+ <br>
+<hr>
+<h4>28. Small Dodecicosahedron</h4>
+<a href="vr/SmallDodecicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/28A.png" class="foto" alt="Small Dodecicosahedron"></a>
+ <br><b>tessellation type</b>: hexagonal
+ <br>
+<hr>
+<h4>29. Small Stellated Truncated Dodecahedron</h4>
+<a href="vr/SmallStellatedTruncatedDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto" alt="Small Stellated Truncated Dodecahedron"></a>
+ <br><b>tessellation type</b>: pentagonal
+ <br>
+<hr>
+<h4>30. Great Icosahedron Truncated</h4>
+<a href="vr/TruncatedGreatIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Great Icosahedron Truncated"></a>
+ <br><b>tessellation type</b>: hexagonal
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 

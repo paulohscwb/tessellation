@@ -151,6 +151,46 @@ function urlHandler(value) {
  <br><b>tipo de tesselação</b>: hexagonal
  <br>
 <hr>
+<h4>23. Dodecadodecaedro Ditrigonal</h4>
+<a href="../vr/DitrigonalDodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto" alt="Dodecadodecaedro Ditrigonal"></a>
+ <br><b>tipo de tesselação</b>: pentagonal
+ <br>
+<hr>
+<h4>24. Grande Dodecicosidodecaedro Ditrigonal</h4>
+<a href="../vr/GreatDitrigonalDodecicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto" alt="Grande Dodecicosidodecaedro Ditrigonal"></a>
+ <br><b>tipo de tesselação</b>: pentagonal
+ <br>
+<hr>
+<h4>25. Grande Dodecicosaedro</h4>
+<a href="../vr/GreatDodecicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="Grande Dodecicosaedro"></a>
+ <br><b>tipo de tesselação</b>: hexagonal
+ <br>
+<hr>
+<h4>26. Grande Icosidodecaedro Truncado</h4>
+<a href="../vr/GreatTruncatedIcosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="Grande Icosidodecaedro Truncado"></a>
+ <br><b>tipo de tesselação</b>: hexagonal
+ <br>
+<hr>
+<h4>27. Pequeno Dodecicosidodecaedro Ditrigonal</h4>
+<a href="../vr/SmallDitrigonalDodecicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="Pequeno Dodecicosidodecaedro Ditrigonal"></a>
+ <br><b>tipo de tesselação</b>: decagonal
+ <br>
+<hr>
+<h4>28. Pequeno Dodecicosaedro</h4>
+<a href="../vr/SmallDodecicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Pequeno Dodecicosaedro"></a>
+ <br><b>tipo de tesselação</b>: hexagonal
+ <br>
+<hr>
+<h4>29. Pequeno Dodecaedro Estrelado Truncado</h4>
+<a href="../vr/SmallStellatedTruncatedDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Pequeno Dodecaedro Estrelado Truncado"></a>
+ <br><b>tipo de tesselação</b>: pentagonal
+ <br>
+<hr>
+<h4>30. Grande Icosaedro Truncado</h4>
+<a href="../vr/TruncatedGreatIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Grande Icosaedro Truncado"></a>
+ <br><b>tipo de tesselação</b>: hexagonal
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Spider web: polyhedra tessellation and visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/tessellation/spiderweb/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
