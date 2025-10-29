@@ -74,8 +74,8 @@ function urlHandler(value) {
  <br><b>tipo de tesselação</b>: hexagonal
  <br>
 <hr>
-<h4>8. Grande Icosaedro Truncado</h4>
-<a href="../vr/TruncatedGreatIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Grande Icosaedro Truncado"></a>
+<h4>8. Octahemioctaedro</h4>
+<a href="../vr/Octahemioctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Octahemioctaedro"></a>
  <br><b>tipo de tesselação</b>: hexagonal
  <br>
 <hr>
@@ -184,6 +184,11 @@ function urlHandler(value) {
 <h4>29. Pequeno Dodecaedro Estrelado Truncado</h4>
 <a href="../vr/SmallStellatedTruncatedDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Pequeno Dodecaedro Estrelado Truncado"></a>
  <br><b>tipo de tesselação</b>: pentagonal
+ <br>
+<hr>
+<h4>30. Grande Icosaedro Truncado</h4>
+<a href="../vr/TruncatedGreatIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Grande Icosaedro Truncado"></a>
+ <br><b>tipo de tesselação</b>: hexagonal
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
