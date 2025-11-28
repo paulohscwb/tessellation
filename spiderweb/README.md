@@ -113,7 +113,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <hr>
 <h4>15. Truncated Cuboctahedron</h4>
 <a href="vr/TruncatedCuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Truncated Cuboctahedron"></a>
- <br><b>tessellation type</b>: octogonal and hexagonal
+ <br><b>tessellation type</b>: octagonal and hexagonal
  <br>
 <hr>
 <h4>16. Truncated Dodecadodecahedron</h4>
@@ -177,17 +177,12 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>tessellation type</b>: decagonal
  <br>
 <hr>
-<h4>28. Small Dodecicosahedron</h4>
-<a href="vr/SmallDodecicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/28A.png" class="foto" alt="Small Dodecicosahedron"></a>
- <br><b>tessellation type</b>: hexagonal
- <br>
-<hr>
-<h4>29. Small Stellated Truncated Dodecahedron</h4>
+<h4>28. Small Stellated Truncated Dodecahedron</h4>
 <a href="vr/SmallStellatedTruncatedDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto" alt="Small Stellated Truncated Dodecahedron"></a>
  <br><b>tessellation type</b>: pentagonal
  <br>
 <hr>
-<h4>30. Great Icosahedron Truncated</h4>
+<h4>29. Great Icosahedron Truncated</h4>
 <a href="vr/TruncatedGreatIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Great Icosahedron Truncated"></a>
  <br><b>tessellation type</b>: hexagonal
  <br>

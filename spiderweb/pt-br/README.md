@@ -176,17 +176,12 @@ function urlHandler(value) {
  <br><b>tipo de tesselação</b>: decagonal
  <br>
 <hr>
-<h4>28. Pequeno Dodecicosaedro</h4>
-<a href="../vr/SmallDodecicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Pequeno Dodecicosaedro"></a>
- <br><b>tipo de tesselação</b>: hexagonal
- <br>
-<hr>
-<h4>29. Pequeno Dodecaedro Estrelado Truncado</h4>
+<h4>28. Pequeno Dodecaedro Estrelado Truncado</h4>
 <a href="../vr/SmallStellatedTruncatedDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Pequeno Dodecaedro Estrelado Truncado"></a>
  <br><b>tipo de tesselação</b>: pentagonal
  <br>
 <hr>
-<h4>30. Grande Icosaedro Truncado</h4>
+<h4>29. Grande Icosaedro Truncado</h4>
 <a href="../vr/TruncatedGreatIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Grande Icosaedro Truncado"></a>
  <br><b>tipo de tesselação</b>: hexagonal
  <br>
