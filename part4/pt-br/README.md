@@ -43,7 +43,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation1a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Tesselação de Velirina"></a>
  <br><b>descrição</b>: tesselação de Vladimir Bulatov - Limite do círculo
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
- <br><b>poliedros</b>: octaedro hexaédrico de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, icosaedro triakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, icosaedro triakis
  <br>
 <hr>
 <h4>2. Tesselação de Velirina</h4>
@@ -213,7 +213,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation13a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="Tesselação de Gordon Dylan Johnson"></a>
  <br><b>descrição</b>: Tesselação de Gordon Dylan Johnson
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
- <br><b>poliedros</b>: octaedro hexaédrico de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro Tetrakis, dipirâmide pentagonal, grande icosaedro
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, dodecaedro 10-akis de Möbius, sólido de Escher, tetraedro hexakis, icosaedro hexakis de Möbius, octaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexaedro Tetrakis, dipirâmide pentagonal, grande icosaedro
  <br>
 <hr>
 <h4>26. Tesselação de Gordon Dylan Johnson</h4>
@@ -248,7 +248,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation15a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Tesselação de quadrado"></a>
  <br><b>descrição</b>: Tesselação de quadrado
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
- <br><b>poliedros</b>: octaedro hexaédrico de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, dipirâmide pentagonal
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, dipirâmide pentagonal
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
