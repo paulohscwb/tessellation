@@ -41,7 +41,7 @@ function urlHandler(value) {
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWaYGTOc9cCw0xOPHUW1yFS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Tesselação de Velirina</h4>
 <a href="../vr/Tessellation1a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Tesselação de Velirina"></a>
- <br><b>descrição</b>: tesselação de Vladimir Bulatov - Limite do círculo
+ <br><b>descrição</b>: tesselação de Velirina
  <br><b>tipo de tesselação</b>: triangular e quadrilateral
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande hexecontaedro dodecacrônico ditrigonal, icosaedro triakis
  <br>
