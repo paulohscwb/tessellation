@@ -36,7 +36,7 @@ function urlHandler(value) {
 <br>Nesta página, temos tesselações feitas com construções do símbolo da Flor da vida, inseridas nas faces de poliedros comuns, como o icosaedro de Platão, e outros mais raros, como o não convexo icosidodecadodecaedro. Nesta parte do trabalho, cada pétala do símbolo tem o tamanho da aresta do poliedro coberto pela tesselação.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
-  <p align="center"><img src="../vr/salas/videos/tess1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive solid"/><img src="../vr/salas/videos/tess2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive solid"/></p> 
+  <p align="center"><img src="../vr/salas/videos/tess1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR immersive solid"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXsXXqMXQVTUWeoWBEyCuhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
