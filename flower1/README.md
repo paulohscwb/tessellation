@@ -265,7 +265,7 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
  <br>
 <hr>
 <h4>45. Truncated Octahedron</h4>
-<a href="vr/TruncatedOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/44A.png" class="foto" alt="Truncated Octahedron"></a>
+<a href="vr/TruncatedOctahedronA.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/44A.png" class="foto" alt="Truncated Octahedron"></a>
  <br><b>tessellation type</b>: quadrilateral and hexagonal
  <br>
 <hr>

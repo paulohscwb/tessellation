@@ -265,7 +265,7 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>45. Octaedro Truncado</h4>
-<a href="../vr/TruncatedOctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto" alt="Octaedro Truncado"></a>
+<a href="../vr/TruncatedOctahedronA.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto" alt="Octaedro Truncado"></a>
  <br><b>tipo de tesselação</b>: quadrilateral e hexagonal
  <br>
 <hr>
