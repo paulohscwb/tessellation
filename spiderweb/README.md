@@ -13,9 +13,10 @@
 		<option value="../part3/">Tessellation 3</option>
 		<option value="../part4/">Tessellation 4</option>
 		<option disabled value="../spiderweb/">Spider web</option>
-		<!--<option value="../part5/">Tessellation 5</option>
+		<option value="../flower1/">Flower of life 1</option>
+		<option value="../part5/">Tessellation 5</option>
 		<option value="../part6/">Tessellation 6</option>
-		<option value="../part7/">Tessellation 7</option>
+		<!--<option value="../part7/">Tessellation 7</option>
 		<option value="../part8/">Tessellation 8</option>
 		<option value="../part9/">Tessellation 9</option>
 		<option value="../part10/">Tessellation 10</option>

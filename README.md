@@ -15,9 +15,10 @@
 <h3 style="margin-top:3px"><a target="_blank" href="part3/"><img src="part3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 3</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="part4/"><img src="part4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 4</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="spiderweb/"><img src="spiderweb/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Spider web</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="part5/"><img src="part5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 5</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="part5/"><img src="part6/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 6</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="part7/"><img src="part7/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 7</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="flower1/"><img src="flower1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Flower of life 1</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="part5/"><img src="part5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 5</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="part6/"><img src="part6/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 6</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="part7/"><img src="part7/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 7</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="part8/"><img src="part8/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 8</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="part9/"><img src="part9/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 9</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="part10/"><img src="part10/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 10</a></h3>
