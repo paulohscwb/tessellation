@@ -241,7 +241,7 @@ function urlHandler(value) {
 <h4>29. Tesselação de mandala pentagrâmica</h4>
 <a href="../vr/Tessellation25a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Tesselação de mandala pentagrâmica"></a>
  <br><b>descrição</b>: tesselação de mandala pentagrâmica
- <br><b>tipo de tesselação</b>: quadrangular e triangular
+ <br><b>tipo de tesselação</b>: pentagonal
  <br><b>poliedros</b>: icositetraedro pentagonal, tetartoide, hexecontaedro pentagonal, dodecaedro, grande dodecaedro, pequeno dodecaedro estrelado, grande dodecaedro estrelado, pequeno icosidodecaedro ditrigonal, dodecadodecaedro ditrigonal, icosidodecadodecaedro snub, grande dodecicosidodecaedro ditrigonal 
  <br>
 <hr>
@@ -256,7 +256,7 @@ function urlHandler(value) {
 <h4>31. Tesselação de nó Celta</h4>
 <a href="../vr/Tessellation26a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Tesselação de nó Celta"></a>
  <br><b>descrição</b>: tesselação de nó Celta
- <br><b>tipo de tesselação</b>: pentagonal
+ <br><b>tipo de tesselação</b>: quadrangular e triangular
  <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, grande dirrombicosidodecaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal
  <br>
 <hr>
@@ -272,6 +272,34 @@ function urlHandler(value) {
  <br><b>descrição</b>: tesselação de nó Celta
  <br><b>tipo de tesselação</b>: quadrangular e triangular
  <br><b>poliedros</b>: triacontaedro rômbico medial, pequeno hexecontaedro dodecacrônico, grande icositetraedro hexacrônico, hexecontaedro icosacrônico medial, rombidodecadodecaedro, pequeno hexecontaedro icosacrônico, grande triacontaedro rômbico, octaedro estrelado, dodecadodecaedro truncado, grande icosidodecaedro truncado
+ <br>
+<hr>
+<h4>34. Tesselação pentagrâmica</h4>
+<a href="../vr/Tessellation28a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Tesselação pentagrâmica"></a>
+ <br><b>descrição</b>: tesselação pentagrâmica
+ <br><b>tipo de tesselação</b>: pentagonal
+ <br><b>poliedros</b>: icositetraedro pentagonal, tetartoide, hexecontaedro pentagonal, dodecaedro, grande dodecaedro, pequeno dodecaedro estrelado, grande dodecaedro estrelado, pequeno icosidodecaedro ditrigonal, dodecadodecaedro ditrigonal, icosidodecadodecaedro snub, grande dodecicosidodecaedro ditrigonal 
+ <br>
+<hr>
+<h4>35. Tesselação pentagrâmica</h4>
+<a href="../vr/Tessellation28b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="Tesselação pentagrâmica"></a>
+ <br><b>descrição</b>: tesselação pentagrâmica
+ <br><b>tipo de tesselação</b>: pentagonal
+ <br><b>poliedros</b>: dodecadodecaedro snub, hexecontaedro medial pentagonal, dodecadodecaedro, grande icosidodecaedro ditrigonal, grande icosidodecaedro, icosidodecadodecaedro, dodecadodecaedro snub invertido, grande hexecontaedro pentagonal, grande hexecontaedro pentagonal invertido 
+ <br>
+ <hr>
+ <h4>36. Tesselação hexagrâmica</h4>
+<a href="../vr/Tessellation29a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="Tesselação hexagrâmica"></a>
+ <br><b>descrição</b>: tesselação hexagrâmica
+ <br><b>tipo de tesselação</b>: hexagonal
+ <br><b>poliedros</b>: cuboctaedro cubitruncado, grande dodecahemicosaedro, grande dodecicosaedro, grande cuboctaedro truncado, grande icosidodecaedro truncado, dodecadodecaedro icositruncado, octahemioctaedro
+ <br>
+<hr>
+<h4>37. Tesselação hexagrâmica</h4>
+<a href="../vr/Tessellation29b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Tesselação hexagrâmica"></a>
+ <br><b>descrição</b>: tesselação hexagrâmica
+ <br><b>tipo de tesselação</b>: hexagonal
+ <br><b>poliedros</b>: rombicosaedro, pequeno dodecicosaedro, pequeno hexecontaedro hexagonal, pequeno icosaedro triâmbico, grande icosaedro truncado, icosaedro truncado, tetraedro truncado, octaedro truncado
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>

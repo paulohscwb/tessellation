@@ -274,6 +274,34 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
  <br><b>tessellation type</b>: quadrangular and triangular
  <br><b>polyhedra</b>: medial rhombic triacontahedron, small dodecacronic hexecontahedron, great hexacronic icositetrahedron, medial icosacronic hexecontahedron, rhombidodecadodecahedron, small icosacronic hexecontahedron, great rhombic triacontahedron, stella octangula, truncated dodecadodecahedron, great truncated icosidodecahedron
  <br>
+ <hr>
+<h4>34. Pentagrammic tessellation</h4>
+<a href="vr/Tessellation28a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Pentagrammic tessellation"></a>
+ <br><b>description</b>: pentagrammic tessellation
+ <br><b>tessellation type</b>: pentagonal
+ <br><b>polyhedra</b>: pentagonal icositetrahedron, tetartoid, pentagonal hexecontahedron, dodecahedron, great dodecahedron, small stellated dodecahedron, great stellated dodecahedron, small ditrigonal icosidodecahedron, ditrigonal dodecadodecahedron, snub icosidodecadodecahedron, great ditrigonal dodecicosidodecahedron
+ <br>
+<hr>
+<h4>35. Pentagrammic tessellation</h4>
+<a href="vr/Tessellation28b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Pentagrammic tessellation"></a>
+ <br><b>description</b>: pentagrammic tessellation
+ <br><b>tessellation type</b>: pentagonal
+ <br><b>polyhedra</b>: snub dodecadodecahedron, medial pentagonal hexecontahedron, dodecadodecahedron, great ditrigonal icosidodecahedron, great icosidodecahedron, icosidodecadodecahedron, inverted snub dodecadodecahedron, great pentagonal hexecontahedron, great inverted pentagonal hexecontahedron
+ <br>
+<hr>
+<h4>36. Hexagrammic tessellation</h4>
+<a href="vr/Tessellation29a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Hexagrammic tessellation"></a>
+ <br><b>description</b>: hexagrammic tessellation
+ <br><b>tessellation type</b>: hexagonal
+ <br><b>polyhedra</b>: cubitruncated cuboctahedron, great dodecahemicosahedron, great dodecicosahedron, great truncated cuboctahedron, great truncated icosidodecahedron, icositruncated dodecadodecahedron, octahemioctahedron
+ <br>
+<hr>
+<h4>37. Hexagrammic tessellation</h4>
+<a href="vr/Tessellation29b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Hexagrammic tessellation"></a>
+ <br><b>description</b>: hexagrammic tessellation
+ <br><b>tessellation type</b>: hexagonal
+ <br><b>polyhedra</b>: rhombicosahedron, small dodecicosahedron, small hexagonal hexecontahedron, small triambic icosahedron, great truncated icosahedron, truncated icosahedron, truncated tetrahedron, truncated octahedron
+ <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
