@@ -370,6 +370,18 @@
 			<a-sphere mixin='esfera5a' position='0.0 0.92705 -0.57295'></a-sphere>
 		</a-entity>
 		
+		<a-entity rotation="90 27 -90" scale="3.7 3.7 3.7" id="nivel9" visible="false">
+			<a-gltf-model src="../../part5/vr/gltf/26PentagrammicDipyramid.gltf" scale="0.9985 0.9985 0.9985"></a-gltf-model>
+			<a-obj-model mixin="ar" src="https://paulohscwb.github.io/polyhedra/polyhedron/vr/outros/PentagrammicDipyramidL.obj" mtl="#materialw"></a-obj-model>
+			<a-sphere mixin="esfera3" position="0.0 0.0 0.7"></a-sphere>
+			<a-sphere mixin="esfera3" position="0.0 -1.7013 0.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="1.61803 -0.52573 0.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="-1.61803 -0.52573 0.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="-1.0 1.37638 0.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="1.0 1.37638 0.0"></a-sphere>
+			<a-sphere mixin="esfera3" position="0.0 0.0 -0.7"></a-sphere>
+		</a-entity>
+		
 		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
 		<a-entity id="cameraRig" position="0 0 11">
 			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 435 -435 425; maxDistance: 1500;"></a-entity>
@@ -399,6 +411,7 @@
 			<option value="6">Deltoidal icositetrahedron</option>
 			<option value="7">Cube</option>
 			<option value="8" selected>Great Ditrigonal Dodecacronic Hexecontahedron</option>
+			<option value="9">Pentagrammic dipyramid</option>
 		</select>
 	</div>
   </body>

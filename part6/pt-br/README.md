@@ -72,7 +72,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation16a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="Tesselação do triângulo de Penrose"></a>
  <br><b>descrição</b>: tesselação do triângulo de Penrose
  <br><b>tipo de tesselação</b>: quadrangular e triangular
- <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, grande icosaedro, dodecadodecaedro truncado invertido, octaedro estrelado, tetraedro, dodecaedro pentakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, grande icosaedro, dodecadodecaedro truncado invertido, octaedro estrelado, tetraedro, dodecaedro pentakis, dipirâmide pentagrâmica
  <br>
 <hr>
 <h4>6. Tesselação do triângulo de Penrose</h4>
@@ -93,7 +93,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation17a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Tesselação de nó Celta"></a>
  <br><b>descrição</b>: tesselação de nó Celta
  <br><b>tipo de tesselação</b>: quadrangular e triangular
- <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, grande icosaedro, dodecadodecaedro truncado invertido, octaedro estrelado, tetraedro, grande dodecicosidodecaedro ditrigonal, dodecaedro pentakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, grande icosaedro, dodecadodecaedro truncado invertido, octaedro estrelado, tetraedro, grande dodecicosidodecaedro ditrigonal, dodecaedro pentakis, dipirâmide pentagrâmica
  <br>
 <hr>
 <h4>9. Tesselação de nó Celta</h4>
@@ -115,7 +115,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation18a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Tesselação triangular"></a>
  <br><b>descrição</b>: tesselação triangular
  <br><b>tipo de tesselação</b>: quadrangular e triangular
- <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, grande icosaedro, dodecadodecaedro truncado invertido, octaedro estrelado, tetraedro, dodecaedro pentakis
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, grande icosaedro, dodecadodecaedro truncado invertido, octaedro estrelado, tetraedro, dodecaedro pentakis, dipirâmide pentagrâmica
  <br>
 <hr>
 <h4>12. Tesselação triangular</h4>
@@ -157,7 +157,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation20b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="tesselação triangular"></a>
  <br><b>descrição</b>: tesselação triangular
  <br><b>tipo de tesselação</b>: quadrangular e triangular
- <br><b>poliedros</b>: dodecaedro 10-akis de Möbius, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, dipirâmide pentagonal, icosaedro, pequeno icosidodecaedro ditrigonal, dodecadodecaedro snub, icosidodecadodecaedro snub
+ <br><b>poliedros</b>: dodecaedro 10-akis de Möbius, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, dipirâmide pentagonal, icosaedro, pequeno icosidodecaedro ditrigonal, dodecadodecaedro snub, icosidodecadodecaedro snub, dipirâmide pentagrâmica
  <br>
  <hr>
 <h4>18. Tesselação triangular</h4>
@@ -186,7 +186,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation22a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto" alt="Tesselação de nó Celta"></a>
  <br><b>descrição</b>: tesselação de nó Celta
  <br><b>tipo de tesselação</b>: quadrangular e triangular
- <br><b>poliedros</b>: sólido de Escher, deltaedro de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal, cuboctaedro, cubo truncado, ortobicúpula quadrada, grande rombihexaedro, grande rombidodecaedro
+ <br><b>poliedros</b>: sólido de Escher, deltaedro de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal, cuboctaedro, cubo truncado, ortobicúpula quadrada, grande rombihexaedro, grande rombidodecaedro, dipirâmide pentagrâmica
  <br>
 <hr>
 <h4>22. Tesselação de nó Celta</h4>
@@ -257,7 +257,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation26a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Tesselação de nó Celta"></a>
  <br><b>descrição</b>: tesselação de nó Celta
  <br><b>tipo de tesselação</b>: quadrangular e triangular
- <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, grande dirrombicosidodecaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, grande dirrombicosidodecaedro, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal, dipirâmide pentagrâmica
  <br>
 <hr>
 <h4>32. Tesselação de nó Celta</h4>

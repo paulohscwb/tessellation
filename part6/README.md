@@ -73,7 +73,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation16a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Penrose triangle tessellation"></a>
  <br><b>description</b>: Penrose triangle tessellation
  <br><b>tessellation type</b>: quadrangular and triangular
- <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, great icosahedron, inverted snub dodecadodecahedron, stella octangula, tetrahedron, pentakis dodecahedron
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, great icosahedron, inverted snub dodecadodecahedron, stella octangula, tetrahedron, pentakis dodecahedron, pentagrammic dipyramid
  <br>
 <hr>
 <h4>6. Penrose triangle tessellation</h4>
@@ -94,7 +94,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation17a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Celtic knot tessellation"></a>
  <br><b>description</b>: Celtic knot tessellation
  <br><b>tessellation type</b>: quadrangular and triangular
- <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, great icosahedron, inverted snub dodecadodecahedron, stella octangula, tetrahedron, great ditrigonal dodecicosidodecahedron, pentakis dodecahedron
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, great icosahedron, inverted snub dodecadodecahedron, stella octangula, tetrahedron, great ditrigonal dodecicosidodecahedron, pentakis dodecahedron, pentagrammic dipyramid
  <br>
 <hr>
 <h4>9. Celtic knot tessellation</h4>
@@ -116,7 +116,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation18a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Triangular tessellation"></a>
  <br><b>description</b>: triangular tessellation
  <br><b>tessellation type</b>: quadrangular and triangular
- <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, great icosahedron, inverted snub dodecadodecahedron, stella octangula, tetrahedron, pentakis dodecahedron
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, great icosahedron, inverted snub dodecadodecahedron, stella octangula, tetrahedron, pentakis dodecahedron, pentagrammic dipyramid
  <br>
 <hr>
 <h4>12. Triangular tessellation</h4>
@@ -158,7 +158,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation20b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="triangular tessellation"></a>
  <br><b>description</b>: triangular tessellation
  <br><b>tessellation type</b>: quadrangular and triangular
- <br><b>polyhedra</b>: Möbius 10-akis dodecahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron, pentagonal dipyramid, icosahedron, small ditrigonal icosidodecahedron, snub dodecadodecahedron, snub icosidodecadodecahedron
+ <br><b>polyhedra</b>: Möbius 10-akis dodecahedron, Möbius hexakis icosahedron, octahedron, tetrakis hexahedron, pentagonal dipyramid, icosahedron, small ditrigonal icosidodecahedron, snub dodecadodecahedron, snub icosidodecadodecahedron, pentagrammic dipyramid
  <br>
 <hr>
 <h4>18. Triangular tessellation</h4>
@@ -187,7 +187,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation22a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/21A.png" class="foto" alt="Celtic knot tessellation"></a>
  <br><b>description</b>: Celtic knot tessellation
  <br><b>tessellation type</b>: quadrangular and triangular
- <br><b>polyhedra</b>: Escher solid, Möbius deltahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, great ditrigonal dodecacronic hexecontahedron, cuboctahedron, snub cube, square orthobicupola, great rhombihexahedron, great rhombidodecahedron
+ <br><b>polyhedra</b>: Escher solid, Möbius deltahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, great ditrigonal dodecacronic hexecontahedron, cuboctahedron, snub cube, square orthobicupola, great rhombihexahedron, great rhombidodecahedron, pentagrammic dipyramid
  <br>
 <hr>
 <h4>22. Celtic knot tessellation</h4>
@@ -258,7 +258,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation26a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/31A.png" class="foto" alt="Celtic knot tessellation"></a>
  <br><b>description</b>: Celtic knot tessellation
  <br><b>tessellation type</b>: quadrangular and triangular
- <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, great dirhombicosidodecahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, great ditrigonal dodecacronic hexecontahedron
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, great dirhombicosidodecahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, great ditrigonal dodecacronic hexecontahedron, pentagrammic dipyramid
  <br>
 <hr>
 <h4>32. Celtic knot tessellation</h4>
