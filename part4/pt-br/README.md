@@ -100,7 +100,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation4b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Tesselação de quadrado e triângulo"></a>
  <br><b>descrição</b>: Tesselação de quadrado e triângulo
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
- <br><b>poliedros</b>: Grande Dirombicosidodecaedro, Rombicuboctaedro, Tetrahemihexaedro, Grande Hexecontaedro Dodecacrônico, Triacontaedro Rômbico Medial, Pequeno Hexecontaedro Dodecacrônico, Grande Rombihexaedro, Dodecadodecaedro Truncado, dipirâmide pentagrâmica
+ <br><b>poliedros</b>: Grande Dirombicosidodecaedro, Rombicuboctaedro, Tetrahemihexaedro, Grande Hexecontaedro Dodecacrônico, Triacontaedro Rômbico Medial, Pequeno Hexecontaedro Dodecacrônico, Grande Rombihexaedro, Dodecadodecaedro Truncado
  <br>
  <hr>
 <h4>10. Tesselação de quadrado e triângulo</h4>

@@ -101,7 +101,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation4b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Square and triangle tessellation"></a>
  <br><b>description</b>: Square and triangle tessellation
  <br><b>tessellation type</b>: triangular and quadrilateral
- <br><b>polyhedra</b>: Great Dirhombicosidodecahedron, Rhombicuboctahedron, Tetrahemihexahedron, Great Dodecacronic Hexecontahedron, Medial Rhombic Triacontahedron, Small Dodecacronic Hexecontahedron, Great Rhombihexahedron, Truncated Dodecadodecahedron, Pentagrammic dipyramid
+ <br><b>polyhedra</b>: Great Dirhombicosidodecahedron, Rhombicuboctahedron, Tetrahemihexahedron, Great Dodecacronic Hexecontahedron, Medial Rhombic Triacontahedron, Small Dodecacronic Hexecontahedron, Great Rhombihexahedron, Truncated Dodecadodecahedron
  <br>
 <hr>
 <h4>10. Square and triangle tessellation</h4>
