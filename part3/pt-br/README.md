@@ -51,7 +51,7 @@ function urlHandler(value) {
 <a href="../vr/CircleLimit2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Limite do círculo"></a>
  <br><b>descrição</b>: tesselação de Vladimir Bulatov - Limite do círculo
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
- <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, Dipirâmide Pentagonal, Hexecontahedron Deltoidal Medial, Tetraedro Triakis, Octaedro Triakis, Icosaedro Triakis
+ <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, Dipirâmide Pentagonal, Hexecontahedron Deltoidal Medial, Tetraedro Triakis, Octaedro Triakis, Icosaedro Triakis, dipirâmide pentagrâmica
  <br>
 <hr>
 <h4>3. Tesselação de Vladimir Bulatov</h4>
@@ -100,7 +100,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation3b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="tesselação de Misbah Rani"></a>
  <br><b>descrição</b>: tesselação de Misbah Rani
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
- <br><b>poliedros</b>: Grande Triacontaedro Rômbico, Tetraedro Hexakis, Hexecontaedro Deltoidal Medial, Hexecontaedro Icosacrônico Medial, Triacontaedro Rômbico Medial, Dipirâmide Pentagonal, Rombidodecadodecaedro, Pequeno Hexecontaedro Dodecacrônico
+ <br><b>poliedros</b>: Grande Triacontaedro Rômbico, Tetraedro Hexakis, Hexecontaedro Deltoidal Medial, Hexecontaedro Icosacrônico Medial, Triacontaedro Rômbico Medial, Dipirâmide Pentagonal, Rombidodecadodecaedro, Pequeno Hexecontaedro Dodecacrônico, dipirâmide pentagrâmica
  <br>
  <hr>
 <h4>10. Tesselação de Misbah Rani</h4>
@@ -136,7 +136,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation5b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Tesselação de quadrado"></a>
  <br><b>descrição</b>: Tesselação de quadrado
  <br><b>tipo de tesselação</b>: quadrilateral e triangular
- <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, Triacontaedro Rômbico, Ortobicupula Quadrada, Octaedro Estrelado
+ <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, Triacontaedro Rômbico, Ortobicupula Quadrada, Octaedro Estrelado, dipirâmide pentagrâmica
  <br>
 <hr>
 <h4>15. Tesselação de quadrado</h4>

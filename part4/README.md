@@ -101,7 +101,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation4b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Square and triangle tessellation"></a>
  <br><b>description</b>: Square and triangle tessellation
  <br><b>tessellation type</b>: triangular and quadrilateral
- <br><b>polyhedra</b>: Great Dirhombicosidodecahedron, Rhombicuboctahedron, Tetrahemihexahedron, Great Dodecacronic Hexecontahedron, Medial Rhombic Triacontahedron, Small Dodecacronic Hexecontahedron, Great Rhombihexahedron, Truncated Dodecadodecahedron
+ <br><b>polyhedra</b>: Great Dirhombicosidodecahedron, Rhombicuboctahedron, Tetrahemihexahedron, Great Dodecacronic Hexecontahedron, Medial Rhombic Triacontahedron, Small Dodecacronic Hexecontahedron, Great Rhombihexahedron, Truncated Dodecadodecahedron, Pentagrammic dipyramid
  <br>
 <hr>
 <h4>10. Square and triangle tessellation</h4>
@@ -215,7 +215,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation13a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto" alt="Gordon Dylan Johnson tessellation"></a>
  <br><b>description</b>: Gordon Dylan Johnson tessellation
  <br><b>tessellation type</b>: triangular and quadrilateral
- <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, Octahedron, Möbius deltahedron, Möbius octakis hexahedron, Tetrakis hexahedron, Pentagonal dipyramid, Great Icosahedron
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Möbius 10-akis dodecahedron, Escher solid, hexakis tetrahedron, Möbius hexakis icosahedron, Octahedron, Möbius deltahedron, Möbius octakis hexahedron, Tetrakis hexahedron, Pentagonal dipyramid, Great Icosahedron, Pentagrammic dipyramid
  <br>
 <hr>
 <h4>26. Gordon Dylan Johnson tessellation</h4>
@@ -250,7 +250,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation15a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Square tessellation"></a>
  <br><b>description</b>: Square tessellation
  <br><b>tessellation type</b>: triangular and quadrilateral
- <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, Deltoidal hexecontahedron, Deltoidal icositetrahedron, Cube, Pentagonal dipyramid
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, Deltoidal hexecontahedron, Deltoidal icositetrahedron, Cube, Pentagonal dipyramid, Pentagrammic dipyramid
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>

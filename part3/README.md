@@ -52,7 +52,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/CircleLimit2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Circle Limit"></a>
  <br><b>description</b>: Vladimir Bulatov tessellation - Circle limit
  <br><b>tessellation type</b>: triangular and quadrilateral
- <br><b>polyhedra</b>: Rhombic dodecahedron, Möbius 10-akis dodecahedron, Möbius hexakis icosahedron, Octahedron, Tetrakis hexahedron, Pentagonal dipyramid, Medial Deltoidal Hexecontahedron, Triakis tetrahedron, Triakis Octahedron, Triakis Icosahedron
+ <br><b>polyhedra</b>: Rhombic dodecahedron, Möbius 10-akis dodecahedron, Möbius hexakis icosahedron, Octahedron, Tetrakis hexahedron, Pentagonal dipyramid, Medial Deltoidal Hexecontahedron, Triakis tetrahedron, Triakis Octahedron, Triakis Icosahedron, Pentagrammic dipyramid
  <br>
 <hr>
 <h4>3. Vladimir Bulatov tessellation</h4>
@@ -101,7 +101,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation3b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Misbah Rani tessellation"></a>
  <br><b>description</b>: Misbah Rani tessellation
  <br><b>tessellation type</b>: triangular and quadrilateral
- <br><b>polyhedra</b>: Great Rhombic Triacontahedron, Hexakis tetrahedron, Medial Deltoidal Hexecontahedron, Medial Icosacronic Hexecontahedron, Medial Rhombic Triacontahedron, Pentagonal dipyramid, Rhombidodecadodecahedron, Small Dodecacronic Hexecontahedron
+ <br><b>polyhedra</b>: Great Rhombic Triacontahedron, Hexakis tetrahedron, Medial Deltoidal Hexecontahedron, Medial Icosacronic Hexecontahedron, Medial Rhombic Triacontahedron, Pentagonal dipyramid, Rhombidodecadodecahedron, Small Dodecacronic Hexecontahedron, Pentagrammic dipyramid
  <br>
 <hr>
 <h4>10. Misbah Rani tessellation</h4>
@@ -137,7 +137,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation5b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Square tessellation"></a>
  <br><b>description</b>: Square tessellation
  <br><b>tessellation type</b>: quadrilateral and triangular
- <br><b>polyhedra</b>: Rhombic dodecahedron, Möbius 10-akis dodecahedron, Rhombic hexecontahedron, Möbius hexakis icosahedron, Octahedron, Tetrakis hexahedron, Rhombic triacontahedron, Square orthobicupola, Stella octangula
+ <br><b>polyhedra</b>: Rhombic dodecahedron, Möbius 10-akis dodecahedron, Rhombic hexecontahedron, Möbius hexakis icosahedron, Octahedron, Tetrakis hexahedron, Rhombic triacontahedron, Square orthobicupola, Stella octangula, Pentagrammic dipyramid
  <br>
 <hr>
 <h4>15. Square tessellation</h4>

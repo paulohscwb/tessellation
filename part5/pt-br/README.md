@@ -39,7 +39,7 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/tess1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR immersive solid"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWA5EBDIfbbTwIAXplNyOWx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxW0T-3xH4xxarngGVNyuy67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Tesselação quadrangular de cruz</h4>
 <a href="../vr/Tessellation1a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Tesselação quadrangular de cruz"></a>
  <br><b>descrição</b>: tesselação quadrangular de cruz
@@ -157,7 +157,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation6b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Tesselação de mandala quadrangular"></a>
  <br><b>descrição</b>: tesselação de mandala quadrangular
  <br><b>tipo de tesselação</b>: quadrangular e triangular
- <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, triacontaedro rômbico medial, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, hexecontaedro dodecacrônico pequeno, dipirâmide pentagonal, hexecontaedro deltoidal medial, hexecontaedro icosacrônico pequeno, octaedro triakis, icosaedro triakis
+ <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, triacontaedro rômbico medial, icosaedro hexakis de Möbius, octaedro, hexaedro tetrakis, pequeno hexecontaedro dodecacrônico, dipirâmide pentagonal, hexecontaedro deltoidal medial, pequeno hexecontaedro icosacrônico, octaedro triakis, icosaedro triakis
  <br>
  <hr>
 <h4>18. Tesselação pentagonal</h4>
