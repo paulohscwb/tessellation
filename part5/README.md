@@ -87,7 +87,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation3a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Quadrangular arrow tessellation"></a>
  <br><b>description</b>: quadrangular arrow tessellation
  <br><b>tessellation type</b>: quadrangular and triangular
- <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, great ditrigonal dodecacronic hexecontahedron
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, great ditrigonal dodecacronic hexecontahedron, tetrahemihexahedron
  <br>
 <hr>
 <h4>8. Quadrangular arrow tessellation</h4>
@@ -108,7 +108,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation4a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Quadrangular arrow tessellation"></a>
  <br><b>description</b>: quadrangular arrow tessellation
  <br><b>tessellation type</b>: quadrangular and triangular
- <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, great ditrigonal dodecacronic hexecontahedron
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, great ditrigonal dodecacronic hexecontahedron, tetrahemihexahedron
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
@@ -130,7 +130,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation5a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Quadrangular tessellation"></a>
  <br><b>description</b>: quadrangular tessellation
  <br><b>tessellation type</b>: quadrangular and triangular
- <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, great ditrigonal dodecacronic hexecontahedron, truncated dodecadodecahedron
+ <br><b>polyhedra</b>: Möbius hexakis octahedron, Escher solid, hexakis tetrahedron, Möbius deltahedron, Möbius octakis hexahedron, deltoidal hexecontahedron, deltoidal icositetrahedron, cube, great ditrigonal dodecacronic hexecontahedron, truncated dodecadodecahedron, tetrahemihexahedron
  <br>
 <hr>
 <h4>14. Quadrangular tessellation</h4>
@@ -300,7 +300,7 @@ Tessellations have been used since ancient times in floors, walls, carpets and o
 <a href="vr/Tessellation27b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Curitiba sidewalk tessellation"></a>
  <br><b>description</b>: Curitiba sidewalk tessellation
  <br><b>tessellation type</b>: quadrangular and triangular
- <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, tetrakis hexahedron, rhombic triacontahedron, pentagonal dipyramid, medial deltoidal hexecontahedron, pentagrammic dipyramid
+ <br><b>polyhedra</b>: rhombic dodecahedron, Möbius 10-akis dodecahedron, rhombic hexecontahedron, Möbius hexakis icosahedron, tetrakis hexahedron, rhombic triacontahedron, pentagonal dipyramid, medial deltoidal hexecontahedron, pentagrammic dipyramid, tetrahemihexahedron
  <br>
 <hr>
 <h4>38. Curitiba sidewalk tessellation</h4>

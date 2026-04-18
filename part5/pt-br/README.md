@@ -86,7 +86,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation3a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Tesselação quadrangular de setas"></a>
  <br><b>descrição</b>: tesselação quadrangular de setas
  <br><b>tipo de tesselação</b>: quadrangular e triangular
- <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal, tetrahemihexahedro
  <br>
 <hr>
 <h4>8. Tesselação quadrangular de setas</h4>
@@ -107,7 +107,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation4a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Tesselação quadrangular de setas"></a>
  <br><b>descrição</b>: tesselação quadrangular de setas
  <br><b>tipo de tesselação</b>: quadrangular e triangular
- <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal, tetrahemihexahedro
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
@@ -129,7 +129,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation5a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="tesselação quadrangular"></a>
  <br><b>descrição</b>: tesselação quadrangular
  <br><b>tipo de tesselação</b>: quadrangular e triangular
- <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal, dodecadodecaedro truncado 
+ <br><b>poliedros</b>: octaedro hexakis de Möbius, sólido de Escher, tetraedro hexakis, deltaedro de Möbius, hexaedro octakis de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal, dodecadodecaedro truncado, tetrahemihexahedro
  <br>
 <hr>
 <h4>14. Tesselação quadrangular</h4>
@@ -299,7 +299,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation27b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Tesselação de calçada de Curitiba"></a>
  <br><b>descrição</b>: tesselação de calçada de Curitiba
  <br><b>tipo de tesselação</b>: quadrangular e triangular
- <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, hexaedro tetrakis, triacontaedro rômbico, dipirâmide pentagonal, hexecontaedro deltoidal medial, dipirâmide pentagrâmica
+ <br><b>poliedros</b>: dodecaedro rômbico, dodecaedro 10-akis de Möbius, hexecontaedro rômbico, icosaedro hexakis de Möbius, hexaedro tetrakis, triacontaedro rômbico, dipirâmide pentagonal, hexecontaedro deltoidal medial, dipirâmide pentagrâmica, tetrahemihexahedro
  <br>
 <hr>
 <h4>38. Tesselação de calçada de Curitiba</h4>
