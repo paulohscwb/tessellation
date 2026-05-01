@@ -186,7 +186,7 @@ function urlHandler(value) {
 <a href="../vr/Tessellation22a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto" alt="Tesselação de nó Celta"></a>
  <br><b>descrição</b>: tesselação de nó Celta
  <br><b>tipo de tesselação</b>: quadrangular e triangular
- <br><b>poliedros</b>: sólido de Escher, deltaedro de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal, cuboctaedro, cubo truncado, ortobicúpula quadrada, grande rombihexaedro, grande rombidodecaedro, dipirâmide pentagrâmica
+ <br><b>poliedros</b>: sólido de Escher, deltaedro de Möbius, hexecontaedro deltoidal, icositetraedro deltoidal, cubo, grande hexecontaedro dodecacrônico ditrigonal, cuboctaedro, cubo snub, ortobicúpula quadrada, grande rombihexaedro, grande rombidodecaedro, dipirâmide pentagrâmica
  <br>
 <hr>
 <h4>22. Tesselação de nó Celta</h4>
