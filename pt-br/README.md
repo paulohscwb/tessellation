@@ -18,6 +18,7 @@
 <h3 style="margin-top:3px"><a target="_blank" href="../flower1/pt-br/"><img src="../flower1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Flor da vida 1</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../part5/pt-br/"><img src="../part5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 5</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../part6/pt-br/"><img src="../part6/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 6</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../strips/pt-br/"><img src="../strips/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações em tiras</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="../part7/pt-br/"><img src="../part7/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 7</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../part8/pt-br/"><img src="../part8/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 8</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../part9/pt-br/"><img src="../part9/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tesselações 9</a></h3>

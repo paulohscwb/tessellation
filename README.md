@@ -18,6 +18,7 @@
 <h3 style="margin-top:3px"><a target="_blank" href="flower1/"><img src="flower1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Flower of life 1</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="part5/"><img src="part5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 5</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="part6/"><img src="part6/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 6</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="strips/"><img src="strips/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation in strips</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="part7/"><img src="part7/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 7</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="part8/"><img src="part8/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 8</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="part9/"><img src="part9/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tessellation 9</a></h3>
