@@ -45,70 +45,70 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
 <a href="vr/Tessellation1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Rio de Janeiro sidewalk"></a>
  <br><b>description</b>: Rio de Janeiro sidewalk pattern
  <br><b>tessellation type</b>: rectangular
- <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>2. Curitiba sidewalk</h4>
 <a href="vr/Tessellation2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Curitiba sidewalk"></a>
  <br><b>description</b>: Curitiba sidewalk pattern
  <br><b>tessellation type</b>: rectangular
- <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>3. Rio de Janeiro sidewalk</h4>
 <a href="vr/Tessellation3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Rio de Janeiro sidewalk"></a>
  <br><b>description</b>: Rio de Janeiro sidewalk pattern
  <br><b>tessellation type</b>: rectangular
- <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>4. Flower of life</h4>
 <a href="vr/Tessellation4.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/4A.png" class="foto" alt="Flower of life"></a>
  <br><b>description</b>: flower of life pattern
  <br><b>tessellation type</b>: rectangular
- <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>5. Curitiba sidewalk</h4>
 <a href="vr/Tessellation5.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Curitiba sidewalk"></a>
  <br><b>description</b>: Curitiba sidewalk pattern
  <br><b>tessellation type</b>: rectangular
- <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>6. Araucarias</h4>
 <a href="vr/Tessellation6.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Araucarias"></a>
  <br><b>description</b>: Araucarias pattern
  <br><b>tessellation type</b>: rectangular
- <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>7. Menger cross of Jerusalem</h4>
 <a href="vr/Tessellation7.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Menger cross of Jerusalem"></a>
  <br><b>description</b>: Menger cross of Jerusalem pattern
  <br><b>tessellation type</b>: rectangular
- <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>8. Fractal tree</h4>
 <a href="vr/Tessellation8.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Fractal tree"></a>
  <br><b>description</b>: Fractal tree pattern
  <br><b>tessellation type</b>: rectangular
- <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>9. Menger sponge</h4>
 <a href="vr/Tessellation9.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Menger sponge"></a>
  <br><b>description</b>: Menger sponge pattern
  <br><b>tessellation type</b>: rectangular
- <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>10. Menger sponge</h4>
 <a href="vr/Tessellation10.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Menger sponge"></a>
  <br><b>description</b>: Menger sponge pattern
  <br><b>tessellation type</b>: rectangular
- <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
@@ -116,14 +116,14 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
 <a href="vr/Tessellation11.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Menger cross of Jerusalem"></a>
  <br><b>description</b>: Menger cross of Jerusalem pattern
  <br><b>tessellation type</b>: rectangular
- <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>12. Menger cross of Jerusalem</h4>
 <a href="vr/Tessellation12.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Menger cross of Jerusalem"></a>
  <br><b>description</b>: Menger cross of Jerusalem pattern
  <br><b>tessellation type</b>: rectangular
- <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
