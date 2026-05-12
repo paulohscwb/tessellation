@@ -45,70 +45,70 @@ function urlHandler(value) {
 <a href="../vr/Tessellation1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Calçada do Rio de Janeiro"></a>
  <br><b>descrição</b>: padrão de calçada do Rio de Janeiro
  <br><b>tipo de tesselação</b>: retangular
- <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>2. Calçada de Curitiba</h4>
 <a href="../vr/Tessellation2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Calçada de Curitiba"></a>
  <br><b>descrição</b>: padrão de calçada de Curitiba
  <br><b>tipo de tesselação</b>: retangular
- <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>3. Calçada do Rio de Janeiro</h4>
 <a href="../vr/Tessellation3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Calçada do Rio de Janeiro"></a>
  <br><b>descrição</b>: padrão de calçada do Rio de Janeiro
  <br><b>tipo de tesselação</b>: retangular
- <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>4. Flor da vida</h4>
 <a href="../vr/Tessellation4.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="Flor da vida"></a>
  <br><b>descrição</b>: padrão da flor da vida
  <br><b>tipo de tesselação</b>: retangular
- <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>5. Calçada de Curitiba</h4>
 <a href="../vr/Tessellation5.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="Calçada de Curitiba"></a>
  <br><b>descrição</b>: padrão de calçada de Curitiba
  <br><b>tipo de tesselação</b>: retangular
- <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>6. Araucárias</h4>
 <a href="../vr/Tessellation6.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Araucárias"></a>
  <br><b>descrição</b>: padrão de Araucárias
  <br><b>tipo de tesselação</b>: retangular
- <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>7. Cruz de Menger de Jerusalém</h4>
 <a href="../vr/Tessellation7.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Cruz de Menger de Jerusalém"></a>
  <br><b>descrição</b>: padrão da cruz de Menger de Jerusalém
  <br><b>tipo de tesselação</b>: retangular
- <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>8. Árvore fractal</h4>
 <a href="../vr/Tessellation8.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Árvore fractal"></a>
  <br><b>descrição</b>: padrão de árvore fractal
  <br><b>tipo de tesselação</b>: retangular
- <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>9. Esponja de Menger</h4>
 <a href="../vr/Tessellation9.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Esponja de Menger"></a>
  <br><b>descrição</b>: padrão da esponja de Menger
  <br><b>tipo de tesselação</b>: retangular
- <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
  <hr>
 <h4>10. Esponja de Menger</h4>
 <a href="../vr/Tessellation10.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Esponja de Menger"></a>
  <br><b>descrição</b>: padrão da esponja de Menger
  <br><b>tipo de tesselação</b>: retangular
- <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
@@ -116,14 +116,14 @@ function urlHandler(value) {
 <a href="../vr/Tessellation11.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Cruz de Menger de Jerusalém"></a>
  <br><b>descrição</b>: padrão da cruz de Menger de Jerusalém
  <br><b>tipo de tesselação</b>: retangular
- <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>12. Cruz de Menger de Jerusalém</h4>
 <a href="../vr/Tessellation12.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Cruz de Menger de Jerusalém"></a>
  <br><b>descrição</b>: padrão da cruz de Menger de Jerusalém
  <br><b>tipo de tesselação</b>: retangular
- <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
