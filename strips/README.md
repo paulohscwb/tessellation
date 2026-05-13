@@ -126,6 +126,48 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
  <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
+<h4>13. Hexagons</h4>
+<a href="vr/Tessellation13.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Hexagons"></a>
+ <br><b>description</b>: hexagons pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>14. Hexagram</h4>
+<a href="vr/Tessellation14.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Hexagram"></a>
+ <br><b>description</b>: hexagram pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>15. Snowflake</h4>
+<a href="vr/Tessellation15.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Snowflake"></a>
+ <br><b>description</b>: snowflake pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>16. Tree of life</h4>
+<a href="vr/Tessellation16.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Tree of life"></a>
+ <br><b>description</b>: tree of life pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>17. Yin yang</h4>
+<a href="vr/Tessellation17.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Yin yang"></a>
+ <br><b>description</b>: yin yang pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>18. Snowflake fractal</h4>
+<a href="vr/Tessellation18.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Snowflake fractal"></a>
+ <br><b>description</b>: snowflake fractal pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 
