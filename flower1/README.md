@@ -40,7 +40,7 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
  <p align="center"><img src="vr/salas/videos/tess1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="RV de tesselação"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxVxtLWl3MpfYqe7ZRgoR6gX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxVxtLWl3MpfYqe7ZRgoR6gX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Antiprism</h4>
 <a href="vr/Antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/0A.png" class="foto" alt="Antiprism"></a>
  <br><b>tessellation type</b>: hexagonal and triangular
