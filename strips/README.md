@@ -133,6 +133,13 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
  <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
+<h4>14. Intertwined curve</h4>
+<a href="vr/Tessellation13.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Intertwined curve"></a>
+ <br><b>description</b>: intertwined curve pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 
