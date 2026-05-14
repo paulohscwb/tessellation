@@ -140,6 +140,34 @@ function urlHandler(value) {
  <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
+<h4>15. Curva entrelaçada</h4>
+<a href="../vr/Tessellation14.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Curva entrelaçada"></a>
+ <br><b>descrição</b>: padrão de curva entrelaçada
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>16. Lemniscata</h4>
+<a href="../vr/Tessellation15.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="lemniscata"></a>
+ <br><b>descrição</b>: padrão de lemniscata
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>17. Curva entrelaçada de três folhas</h4>
+<a href="../vr/Tessellation17.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Curva entrelaçada de três folhas"></a>
+ <br><b>descrição</b>: padrão de curva entrelaçada de três folhas
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>18. Trevo de quatro folhas</h4>
+<a href="../vr/Tessellation18.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Trevo de quatro folhas"></a>
+ <br><b>descrição</b>: padrão de trevo de quatro folhas
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Tessellation in strips: polyhedra tessellation and visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/tessellation/strips/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

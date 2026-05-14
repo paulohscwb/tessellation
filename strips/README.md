@@ -140,6 +140,34 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
  <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
+<h4>15. Intertwined curve</h4>
+<a href="vr/Tessellation14.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Intertwined curve"></a>
+ <br><b>description</b>: intertwined curve pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>16. Lemniscata</h4>
+<a href="vr/Tessellation15.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="lemniscata"></a>
+ <br><b>description</b>: lemniscata pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>17. Intertwined curve of three leaves</h4>
+<a href="vr/Tessellation17.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Intertwined curve of three leaves"></a>
+ <br><b>description</b>: intertwined curve of three leaves pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>18. Four-leaf clover</h4>
+<a href="vr/Tessellation18.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Four-leaf clover"></a>
+ <br><b>description</b>: four-leaf clover pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 
