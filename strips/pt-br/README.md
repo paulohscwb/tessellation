@@ -168,6 +168,63 @@ function urlHandler(value) {
  <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
+<h4>19. Rosácea</h4>
+<a href="../vr/Tessellation19.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Rosácea"></a>
+ <br><b>descrição</b>: padrão de rosácea
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>20. Borboleta</h4>
+<a href="../vr/Tessellation20.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Borboleta"></a>
+ <br><b>descrição</b>: padrão de borboleta
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>21. Borboleta v2</h4>
+<a href="../vr/Tessellation21.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto" alt="Borboleta"></a>
+ <br><b>descrição</b>: padrão de borboleta
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>22. Elefante</h4>
+<a href="../vr/Tessellation22.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Elefante"></a>
+ <br><b>descrição</b>: padrão de elefante
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>23. Baleia</h4>
+<a href="../vr/Tessellation23.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto" alt="Baleia"></a>
+ <br><b>descrição</b>: padrão de baleia
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>24. Sapo</h4>
+<a href="../vr/Tessellation24.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto" alt="Sapo"></a>
+ <br><b>descrição</b>: padrão de sapo
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>25. Macaco</h4>
+<a href="../vr/Tessellation25.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="Macaco"></a>
+ <br><b>descrição</b>: padrão de macaco
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>26. Coruja</h4>
+<a href="../vr/Tessellation26.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="Coruja"></a>
+ <br><b>descrição</b>: padrão de coruja
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Tessellation in strips: polyhedra tessellation and visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/tessellation/strips/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

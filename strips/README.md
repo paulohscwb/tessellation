@@ -168,6 +168,63 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
  <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
+<h4>19. Rosacea</h4>
+<a href="vr/Tessellation19.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Rosacea"></a>
+ <br><b>description</b>: rosacea pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>20. Butterfly</h4>
+<a href="vr/Tessellation20.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Butterfly"></a>
+ <br><b>description</b>: butterfly pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>21. Butterfly v2</h4>
+<a href="vr/Tessellation21.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/21A.png" class="foto" alt="Butterfly"></a>
+ <br><b>description</b>: butterfly pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>22. Elephant</h4>
+<a href="vr/Tessellation22.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Elephant"></a>
+ <br><b>description</b>: elephant pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>23. Whale</h4>
+<a href="vr/Tessellation23.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Whale"></a>
+ <br><b>description</b>: whale pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>24. Frog</h4>
+<a href="vr/Tessellation24.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Frog"></a>
+ <br><b>description</b>: frog pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>25. Monkey</h4>
+<a href="vr/Tessellation25.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto" alt="Monkey"></a>
+ <br><b>description</b>: monkey pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>26. Owl</h4>
+<a href="vr/Tessellation26.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Owl"></a>
+ <br><b>description</b>: owl pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 
