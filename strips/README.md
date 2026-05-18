@@ -192,35 +192,92 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
 <hr>
 <h4>22. Elephant</h4>
 <a href="vr/Tessellation22.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Elephant"></a>
- <br><b>description</b>: elephant pattern
+ <br><b>description</b>: Dorota Pankowska's elephant pattern
  <br><b>tessellation type</b>: rectangular
  <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>23. Whale</h4>
 <a href="vr/Tessellation23.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Whale"></a>
- <br><b>description</b>: whale pattern
+ <br><b>description</b>: Dorota Pankowska's whale pattern
  <br><b>tessellation type</b>: rectangular
  <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>24. Frog</h4>
 <a href="vr/Tessellation24.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Frog"></a>
- <br><b>description</b>: frog pattern
+ <br><b>description</b>: Dorota Pankowska's frog pattern
  <br><b>tessellation type</b>: rectangular
  <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>25. Monkey</h4>
 <a href="vr/Tessellation25.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto" alt="Monkey"></a>
- <br><b>description</b>: monkey pattern
+ <br><b>description</b>: Dorota Pankowska's monkey pattern
  <br><b>tessellation type</b>: rectangular
  <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
 <hr>
 <h4>26. Owl</h4>
 <a href="vr/Tessellation26.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Owl"></a>
- <br><b>description</b>: owl pattern
+ <br><b>description</b>: Dorota Pankowska's owl pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>27. Toucan</h4>
+<a href="vr/Tessellation27.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/27A.png" class="foto" alt="Toucan"></a>
+ <br><b>description</b>: Dorota Pankowska's toucan pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>28. Giraffe</h4>
+<a href="vr/Tessellation28.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/28A.png" class="foto" alt="Giraffe"></a>
+ <br><b>description</b>: Dorota Pankowska's giraffe pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>29. Mouse</h4>
+<a href="vr/Tessellation29.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto" alt="Mouse"></a>
+ <br><b>description</b>: Dorota Pankowska's mouse pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>30. Dog</h4>
+<a href="vr/Tessellation30.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Dog"></a>
+ <br><b>description</b>: Dorota Pankowska's dog pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>31. Cat</h4>
+<a href="vr/Tessellation31.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/31A.png" class="foto" alt="Cat"></a>
+ <br><b>description</b>: Dorota Pankowska's cat pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>32. Fox</h4>
+<a href="vr/Tessellation32.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/32A.png" class="foto" alt="Fox"></a>
+ <br><b>description</b>: Dorota Pankowska's fox pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>33. Walrus</h4>
+<a href="vr/Tessellation33.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/33A.png" class="foto" alt="Walrus"></a>
+ <br><b>description</b>: Dorota Pankowska's walrus pattern
+ <br><b>tessellation type</b>: rectangular
+ <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
+ <br>
+<hr>
+<h4>34. Rabbit</h4>
+<a href="vr/Tessellation34.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="rabbit"></a>
+ <br><b>description</b>: Dorota Pankowska's rabbit pattern
  <br><b>tessellation type</b>: rectangular
  <br><b>polyhedra</b>: great dodecahemicosacron, great dodecahemidodecacron, hexahemioctacron, small icosihemidodecacron, tetrahemihexacron, star great dodecahemicosacron, star hexahemioctacron, star tetrahemihexacron
  <br>
@@ -238,3 +295,6 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
 <br>Weisstein, Eric W. "Tessellation." From MathWorld--A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/Tessellation.html" target="_blank"> https://mathworld.wolfram.com/Tessellation.html</a>
 <br>Mohr, R. "Tiled Art" <a href="https://tiled.art/en/home" target="_blank">https://tiled.art/en/home</a> 
 <br>McCooey, D. I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>
+<br>Pankowska, D. "13 animals made from 13 circles". <a href="https://dorotapankowska.com/13-animals-13-circles.html" target="_blank">https://dorotapankowska.com/13-animals-13-circles.html</a>
+
+

@@ -192,35 +192,92 @@ function urlHandler(value) {
 <hr>
 <h4>22. Elefante</h4>
 <a href="../vr/Tessellation22.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Elefante"></a>
- <br><b>descrição</b>: padrão de elefante
+ <br><b>descrição</b>: padrão de elefante de Dorota Pankowska
  <br><b>tipo de tesselação</b>: retangular
  <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>23. Baleia</h4>
 <a href="../vr/Tessellation23.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto" alt="Baleia"></a>
- <br><b>descrição</b>: padrão de baleia
+ <br><b>descrição</b>: padrão de baleia de Dorota Pankowska
  <br><b>tipo de tesselação</b>: retangular
  <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>24. Sapo</h4>
 <a href="../vr/Tessellation24.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto" alt="Sapo"></a>
- <br><b>descrição</b>: padrão de sapo
+ <br><b>descrição</b>: padrão de sapo de Dorota Pankowska
  <br><b>tipo de tesselação</b>: retangular
  <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>25. Macaco</h4>
 <a href="../vr/Tessellation25.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="Macaco"></a>
- <br><b>descrição</b>: padrão de macaco
+ <br><b>descrição</b>: padrão de macaco de Dorota Pankowska
  <br><b>tipo de tesselação</b>: retangular
  <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
 <hr>
 <h4>26. Coruja</h4>
 <a href="../vr/Tessellation26.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="Coruja"></a>
- <br><b>descrição</b>: padrão de coruja
+ <br><b>descrição</b>: padrão de coruja de Dorota Pankowska
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>27. Tucano</h4>
+<a href="../vr/Tessellation27.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="Tucano"></a>
+ <br><b>descrição</b>: padrão de tucano de Dorota Pankowska
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>28. Girafa</h4>
+<a href="../vr/Tessellation28.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Girafa"></a>
+ <br><b>descrição</b>: padrão de girafa de Dorota Pankowska
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>29. Rato</h4>
+<a href="../vr/Tessellation29.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Rato"></a>
+ <br><b>descrição</b>: padrão de rato de Dorota Pankowska
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>30. Cachorro</h4>
+<a href="../vr/Tessellation30.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Cachorro"></a>
+ <br><b>descrição</b>: padrão de cachorro de Dorota Pankowska
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>31. Gato</h4>
+<a href="../vr/Tessellation31.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Gato"></a>
+ <br><b>descrição</b>: padrão de gato de Dorota Pankowska
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>32. Raposa</h4>
+<a href="../vr/Tessellation32.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto" alt="Raposa"></a>
+ <br><b>descrição</b>: padrão de raposa de Dorota Pankowska
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>33. Morsa</h4>
+<a href="../vr/Tessellation33.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/33A.png" class="foto" alt="Morsa"></a>
+ <br><b>descrição</b>: padrão de morsa de Dorota Pankowska
+ <br><b>tipo de tesselação</b>: retangular
+ <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
+ <br>
+<hr>
+<h4>34. Coelho</h4>
+<a href="../vr/Tessellation34.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Coelho"></a>
+ <br><b>descrição</b>: padrão de coelho de Dorota Pankowska
  <br><b>tipo de tesselação</b>: retangular
  <br><b>poliedros</b>: grande dodecahemicosacron, grande dodecahemidodecacron, hexahemioctacron, pequeno icosihemidodecacron, tetrahemihexacron, grande dodecahemicosacron estrelado, hexahemioctacron estrelado, tetrahemihexacron estrelado
  <br>
@@ -237,3 +294,4 @@ function urlHandler(value) {
 <br>Weisstein, Eric W. "Tessellation." From MathWorld--A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/Tessellation.html" target="_blank"> https://mathworld.wolfram.com/Tessellation.html</a>
 <br>Mohr, R. "Tiled Art" <a href="https://tiled.art/en/home" target="_blank">https://tiled.art/en/home</a> 
 <br>McCooey, D. I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>
+<br>Pankowska, D. "13 animals made from 13 circles". <a href="https://dorotapankowska.com/13-animals-13-circles.html" target="_blank">https://dorotapankowska.com/13-animals-13-circles.html</a>
