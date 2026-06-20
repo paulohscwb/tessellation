@@ -290,6 +290,22 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
  <br><b>tessellation type</b>: pentagonal
  <br>
 <hr>
+<h4>50. Double Antiprism</h4>
+<a href="vr/DoubleAntiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/49A.png" class="foto" alt="Double Antiprism"></a>
+ <br><b>tessellation type</b>: hexagonal and triangular
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>51. Double Pentagrammic Crossed Antiprism</h4>
+<a href="vr/DoublePentagrammicCrossedAntiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/50A.png" class="foto" alt="Double Pentagrammic Crossed Antiprism"></a>
+ <br><b>tessellation type</b>: triangular
+ <br>
+<hr>
+<h4>52. Double Stellated Pyramid</h4>
+<a href="vr/DoubleStellatedPyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/51A.png" class="foto" alt="Double Stellated Pyramid"></a>
+ <br><b>tessellation type</b>: triangular
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 
