@@ -42,7 +42,7 @@ function urlHandler(value) {
 <h3 id="m3d" align="center">Modelos 3D</h3>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxVxtLWl3MpfYqe7ZRgoR6gX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Antiprisma</h4>
-<a href="../vr/Antiprism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/0A.png" class="foto" alt="Antiprisma"></a>
+<a href="../vr/Antiprism.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/0A.png" class="foto" alt="Antiprisma"></a>
  <br><b>tipo de tesselação</b>: hexagonal e triangular
  <br>
 <hr>
@@ -303,6 +303,11 @@ function urlHandler(value) {
 <hr>
 <h4>52. Pirâmide Estrelada Dupla</h4>
 <a href="../vr/DoubleStellatedPyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/51A.png" class="foto" alt="Pirâmide Estrelada Dupla"></a>
+ <br><b>tipo de tesselação</b>: triangular
+ <br>
+<hr>
+<h4>53. Sólido de Escher</h4>
+<a href="../vr/Escher.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/52A.png" class="foto" alt="Sólido de Escher"></a>
  <br><b>tipo de tesselação</b>: triangular
  <br>
 <hr>

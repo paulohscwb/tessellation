@@ -42,7 +42,7 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
 <h3 id="m3d" align="center">3D models</h3>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxVxtLWl3MpfYqe7ZRgoR6gX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Antiprism</h4>
-<a href="vr/Antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/0A.png" class="foto" alt="Antiprism"></a>
+<a href="vr/Antiprism.html" target="_blank" title="3D model" class="fotoA"><img src="ar/0A.png" class="foto" alt="Antiprism"></a>
  <br><b>tessellation type</b>: hexagonal and triangular
  <br>
 <hr>
@@ -303,6 +303,11 @@ The figures or works that are chosen as tesserae cover or pave the plane or a su
 <hr>
 <h4>52. Double Stellated Pyramid</h4>
 <a href="vr/DoubleStellatedPyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/51A.png" class="foto" alt="Double Stellated Pyramid"></a>
+ <br><b>tessellation type</b>: triangular
+ <br>
+<hr>
+<h4>53. Escher solid</h4>
+<a href="vr/Escher.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/52A.png" class="foto" alt="Escher solid"></a>
  <br><b>tessellation type</b>: triangular
  <br>
 <hr>
