@@ -17,6 +17,7 @@
 		<option value="../../part5/pt-br/">Tesselações 5</option>
 		<option disabled value="../../part6/pt-br/">Tesselações 6</option>
 		<option value="../../strips/pt-br/">Tesselações em tiras</option>
+		<option value="../../flower2/pt-br/">Flor da vida 2</option>
 		<!--<option value="../../part7/pt-br/">Tesselações 7</option>
 		<option value="../../part8/pt-br/">Tesselações 8</option>
 		<option value="../../part9/pt-br/">Tesselações 9</option>

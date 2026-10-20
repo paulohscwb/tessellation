@@ -17,6 +17,7 @@
 		<option value="../part5/">Tessellation 5</option>
 		<option value="../part6/">Tessellation 6</option>
 		<option disabled value="../strips/">Tessellation in strips</option>
+		<option value="../flower2/">Flower of life 2</option>
 		<!--<option value="../part7/">Tessellation 7</option>
 		<option value="../part8/">Tessellation 8</option>
 		<option value="../part9/">Tessellation 9</option>
